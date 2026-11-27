@@ -1,0 +1,30 @@
+Failed to tap "Cancel" Button: No matches found for Elements matching predicate '"Cancel" IN identifiers' from input {(
+    Button, label: 'Emoji',
+    Button, identifier: 'dictation', label: 'Dictate',
+    Button, identifier: 'shift', label: 'shift',
+    Button, identifier: 'Search', label: 'search',
+    Button,
+    Button,
+    Button,
+    Button, identifier: 'book.closed', label: 'Recipes', Selected,
+    Button, identifier: 'basket', label: 'Shopping list',
+    Button, identifier: 'calendar', label: 'Baking plan',
+    Button, identifier: 'heart', label: 'Favorites',
+    Button, label: 'Close',
+    Button, label: 'Clear text',
+    Button, identifier: 'pantry.filter', label: 'Ingredients',
+    Button, identifier: 'recipe.brownie', label: 'EVERYDAY TREATS, 40 min, Fudgy cocoa brownies',
+    Button, label: 'All recipes', Selected,
+    Button, label: 'In season',
+    Button, label: 'Cakes',
+    Button, label: 'Everyday treats',
+    Button, label: 'No bake'
+)}
+Possibly caused by runtime issues:
+Automation type mismatch: computed Button from legacy attributes vs Key from modern attribute. Input attributes and values: {
+    "XC_kAXXCAttributeAutomationType" = 20;
+    "XC_kAXXCAttributeElementBaseType" = UIAccessibilityElement;
+    "XC_kAXXCAttributeElementType" = UIAccessibilityElementKBKey;
+    "XC_kAXXCAttributeTraits" = 8589934641;
+}
+See test report attachments for more detail.

@@ -1,0 +1,90 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "NSRemindersUsageDescription": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sweblanaz can add a planned bake to Apple Reminders when you choose to export it."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sweblanaz kann einen Backtermin auf deinen Wunsch in Apple Erinnerungen speichern."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sweblanaz peut ajouter une préparation à Rappels lorsque vous choisissez de l’exporter."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sweblanaz pode adicionar um preparo ao app Lembretes quando você escolher exportá-lo."
+          }
+        }
+      }
+    },
+    "NSRemindersFullAccessUsageDescription": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sweblanaz can add a planned bake to Apple Reminders when you choose to export it."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sweblanaz kann einen Backtermin auf deinen Wunsch in Apple Erinnerungen speichern."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sweblanaz peut ajouter une préparation à Rappels lorsque vous choisissez de l’exporter."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sweblanaz pode adicionar um preparo ao app Lembretes quando você escolher exportá-lo."
+          }
+        }
+      }
+    },
+    "CFBundleDisplayName": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sweblanaz"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sweblanaz"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sweblanaz"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sweblanaz"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

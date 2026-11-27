@@ -1,0 +1,14 @@
+Failed to tap "Don’t Allow" Button: Find single matching element. Multiple matching elements found for <XCUIElementQuery: 0x10a6f0370>.
+Sparse tree of matches:
+→Application, pid: 5611, label: ' '
+  ↳Window (Main)
+    ↳Other
+      ↳Alert, identifier: 'kTCCServiceReminders-alert', label: 'Allow “Dessert Book” to access your reminders?'
+        ↳Other
+          ↳Other
+            ↳Other
+              ↳ScrollView
+                ↳Other
+                  ↳Other
+                    ↳Button, identifier: 'kTCCServiceReminders-deny-button', label: 'Don’t Allow'
+                      ↳Button, identifier: 'kTCCServiceReminders-deny-button', label: 'Don’t Allow'

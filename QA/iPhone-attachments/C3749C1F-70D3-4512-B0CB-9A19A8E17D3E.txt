@@ -1,0 +1,4 @@
+Query chain:
+ →Find: Target Application 'studio.meringue.folio.d743'
+  ↪︎Find: Descendants matching type Button
+    ↪︎Find: Elements matching predicate '"timer.pause" IN identifiers'

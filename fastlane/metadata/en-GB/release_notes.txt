@@ -1,0 +1,1 @@
+Version 1.3.2 includes the offline dessert collection, step-by-step cooking, oven timer, shopping checklist and baking planner.

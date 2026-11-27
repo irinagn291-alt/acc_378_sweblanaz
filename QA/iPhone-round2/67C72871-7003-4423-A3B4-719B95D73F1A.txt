@@ -1,0 +1,14 @@
+Failed to tap "Dark chocolate" Button: No matches found for Elements matching predicate '"Dark chocolate" IN identifiers' from input {(
+    Button, identifier: 'book.closed', label: 'Recipes', Selected,
+    Button, identifier: 'basket', label: 'Shopping list',
+    Button, identifier: 'calendar', label: 'Baking plan',
+    Button, identifier: 'heart', label: 'Favorites',
+    Button, identifier: 'BackButton', label: 'Dessert Book',
+    Button, identifier: 'favorite', label: 'Save as favorite',
+    Button, identifier: 'start.cooking', label: 'Let’s bake',
+    Button, label: 'Plan this recipe',
+    Button, identifier: 'open.timer', label: 'Oven timer',
+    Button, identifier: 'add.shopping', label: 'Add to shopping list',
+    Button, identifier: 'servings-Decrement', label: '6 portions, Decrement', value: 6,
+    Button, identifier: 'servings-Increment', label: '6 portions, Increment', value: 6
+)}

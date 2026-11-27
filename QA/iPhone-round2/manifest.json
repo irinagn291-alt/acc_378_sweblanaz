@@ -1,0 +1,529 @@
+[
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "6D526AE3-5D89-4F78-89B4-54DBACBAA92E.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "widget-lock-inline_0_CAF39249-E151-453B-86BA-30547BD23E7B.png",
+        "timestamp" : 1794745955.384
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "86ED2EF2-FBB2-4B34-9335-231446CDC786.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "widget-lock-circle_0_58D25E4C-73A2-49D0-8527-F4F8BE547659.png",
+        "timestamp" : 1794745955.381
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "D10D8B9B-4F2A-4C47-AC7E-1B922F9C3BDC.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "widget-lock-rect_0_057B429B-E6F0-4C19-8EAD-02B608159145.png",
+        "timestamp" : 1794745955.377
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "28C1D68E-315A-4A68-BEC3-B7052D5E44DE.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "widget-large_0_E5B7456E-2A58-4B4F-80A5-FA7B3CEF6DE7.png",
+        "timestamp" : 1794745955.373
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "6A04B937-9FAF-4FE1-915F-EAF5D4978EA9.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "widget-medium_0_ACE03D24-8D7F-41F5-9BA8-DC94F92C5D48.png",
+        "timestamp" : 1794745955.324
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "9B0F22C3-5D77-455A-9E2D-38F0331D06B6.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "widget-small_0_D0F3FC7B-E99C-4D71-8065-F7A20A3D5252.png",
+        "timestamp" : 1794745955.311
+      }
+    ],
+    "testIdentifier" : "V8Checks/testWidgetFamilyRendersOffline()",
+    "testIdentifierURL" : "test://com.apple.xcode/DessertBook/CrumbChecks/V8Checks/testWidgetFamilyRendersOffline"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "6426C44A-FE91-489F-BDBC-FF6417A9A271.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "09-de-home_0_2F653616-D5EE-4376-9CA0-C1746D633280.png",
+        "timestamp" : 1794745974.115
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "8AF0C4B2-33B8-49D9-9941-FAFF60A19E33.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "08-fr-home_0_A8686356-A4EB-4210-9FFD-BC322D07C133.png",
+        "timestamp" : 1794745968.893
+      }
+    ],
+    "testIdentifier" : "V8Journey/testFrenchAndGermanLaunch()",
+    "testIdentifierURL" : "test://com.apple.xcode/DessertBook/KitchenJourney/V8Journey/testFrenchAndGermanLaunch"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "F6DF0092-6562-46F0-A639-DF1A2B6E8C5C.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "06-favorites_0_59B9B620-FBDB-4525-92A6-078C37D37A88.png",
+        "timestamp" : 1794746020.121
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "4F25C0A7-1714-4A3C-8785-2BC5A2AF9A54.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "05-planner_0_5A1897A7-C290-4589-9880-E7B90252A9E9.png",
+        "timestamp" : 1794746016.953
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "92DC0FF8-B34B-4F01-9B45-F38500400144.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "04-shopping_0_09CDC1F2-AC2A-4DD1-9E29-460C1865F3C2.png",
+        "timestamp" : 1794746011.526
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "8EBFD200-CFFC-4803-B512-878E30BA1063.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "03-cooking-step-two_0_5F08D8AF-8AE4-4449-B185-1E6CDCED8645.png",
+        "timestamp" : 1794745994.509
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "72D41BB8-D23A-4C70-9125-841882624281.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "02-recipe_0_293F9E14-30B6-4E74-A93A-1EEE913884B5.png",
+        "timestamp" : 1794745984.449
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "0C63ED5E-15B8-4B9F-B515-D20852286C98.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "01-en-home_0_176A87A9-BCA5-4AB3-9B03-7FF7A4E6EEBC.png",
+        "timestamp" : 1794745978.53
+      }
+    ],
+    "testIdentifier" : "V8Journey/testKitchenFlowAndPersistence()",
+    "testIdentifierURL" : "test://com.apple.xcode/DessertBook/KitchenJourney/V8Journey/testKitchenFlowAndPersistence"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "4C638682-4F3C-4F2C-86E8-225753835CBB.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "11-pt-preferences_0_98679190-D0FE-4C16-9DCC-788917E0739B.png",
+        "timestamp" : 1794746031.037
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "B42486E9-B0D8-4D43-A681-BE6C8DDADD79.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "10-pt-home_0_645553DD-CB3E-4F3B-85E7-255E5FF06EC3.png",
+        "timestamp" : 1794746030.111
+      }
+    ],
+    "testIdentifier" : "V8Journey/testPortuguesePreferences()",
+    "testIdentifierURL" : "test://com.apple.xcode/DessertBook/KitchenJourney/V8Journey/testPortuguesePreferences"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "DAFA6B67-A2F6-4F8B-B53A-7DB12DD5F896",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-11-15 at 03.34.11 PM",
+        "timestamp" : 1794746051.997
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "9562C071-FFD0-41D9-9859-7B98A3AF59B0.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "14-reminders-permission-response_0_4823AE96-19B2-4A51-AD20-645BC1368BE6.png",
+        "timestamp" : 1794746051.666
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "FA6079FF-5D11-4FB4-A785-1FD9313AC131.txt",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "App UI hierarchy for com.apple_0_345FA8D0-8227-4C1F-8E60-917DED9C05D8.springboard",
+        "timestamp" : 1794746050.496
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "4F817E7A-3AA3-4CA4-9538-D740F48C377F",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "UI Snapshot 2026-11-15 at 03.34.10 PM",
+        "timestamp" : 1794746050.496
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "AD95CF69-BE23-463F-8126-CC1FA0FEC9FF.txt",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Debug description for `\"Don’t Allow\" Button`_0_57C15D5F-AA9A-45F0-8589-879C5EADD9DD.txt",
+        "timestamp" : 1794746050.446
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "CA662353-5F93-410F-A150-2D77A8ECCA60.txt",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Debug description for `\"Don’t Allow\" Button`_0_CCE83A69-1664-446C-BD3F-155EAED82D73.txt",
+        "timestamp" : 1794746049.525
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "BAFE1CDF-176C-4BCF-90D4-C58877A1952F.txt",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Debug description for `\"Don’t Allow\" Button`_0_CEF5CE84-882B-444E-AA67-15564E48AC48.txt",
+        "timestamp" : 1794746048.477
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "9937B0D5-4747-48A3-B1C7-BE0DDA0942E0.txt",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Debug description for `\"Don’t Allow\" Button`_0_4A48C64D-3CD3-45CF-B67B-0E419895198F.txt",
+        "timestamp" : 1794746047.534
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "73DD685F-91DA-4025-8F98-D332C0DB778A.txt",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Debug description for `\"Don’t Allow\" Button`_0_8FDA63D6-289B-4018-BB92-0486AC097E39.txt",
+        "timestamp" : 1794746046.488
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "4E9840C2-0AA6-43AD-9F84-E48A4B07621F.txt",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Debug description for `\"Don’t Allow\" Button`_0_DF9F95F6-7281-4CA9-9BC8-A7F7F6BEE037.txt",
+        "timestamp" : 1794746045.446
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "55AE13FE-E3B9-4163-8B48-65A8E794BEBB.txt",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Debug description for `\"Don’t Allow\" Button`_0_F8457AD4-E739-4223-A9A4-BDACDAD73610.txt",
+        "timestamp" : 1794746044.514
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "69AA8296-DA9B-456C-AEC8-43C4D6930E5A.txt",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Debug description for `\"Don’t Allow\" Button`_0_B32877E8-5FCC-4002-ACCC-DF0DE36A23B9.txt",
+        "timestamp" : 1794746043.468
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "66489B06-EE90-4CFD-8497-6C06F3619EA6",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-11-15 at 03.34.02 PM",
+        "timestamp" : 1794746042.412
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "BEBC6126-4E9A-4DDB-B93A-7464A020429E",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-11-15 at 03.34.00 PM",
+        "timestamp" : 1794746040.661
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "02B32AA7-B340-4E73-805F-0641C1206CC0",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-11-15 at 03.33.58 PM",
+        "timestamp" : 1794746038.883
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "A9FB30D1-2CD8-4FD5-96C0-FB89D5369483",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-11-15 at 03.33.58 PM",
+        "timestamp" : 1794746038.109
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "91A640FF-7E3B-429E-B508-7E1654144B9B",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-11-15 at 03.33.56 PM",
+        "timestamp" : 1794746036.007
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "5A13F096-9488-46A0-B4FE-C8470BAA9051.mp4",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Screen Recording 2026-11-15 at 03.33.51 PM.mp4",
+        "timestamp" : 1794746031.347
+      }
+    ],
+    "testIdentifier" : "V8Journey/testRemindersPermissionResponse()",
+    "testIdentifierURL" : "test://com.apple.xcode/DessertBook/KitchenJourney/V8Journey/testRemindersPermissionResponse"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "C46F6141-DF9E-4405-9A49-65A0700EF3F3",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "UI Snapshot 2026-11-15 at 03.34.26 PM",
+        "timestamp" : 1794746066.863
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "486E364C-5D10-4C1B-A1CF-03700460CA96",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-11-15 at 03.34.27 PM",
+        "timestamp" : 1794746067.149
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "0843ED69-E266-4B62-8FF2-8EE20921877E",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "UI Snapshot 2026-11-15 at 03.34.24 PM",
+        "timestamp" : 1794746064.2
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "28993D3A-C742-4A2C-B8EB-1843803D94A8",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-11-15 at 03.34.24 PM",
+        "timestamp" : 1794746064.619
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "3343C5C0-806C-4753-A3F8-1A1070C3C73E",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "UI Snapshot 2026-11-15 at 03.34.22 PM",
+        "timestamp" : 1794746062.94
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "B3C36094-CF1E-4537-B367-FCE323C0EFA2",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-11-15 at 03.34.23 PM",
+        "timestamp" : 1794746063.228
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "D605317C-1DE0-44C9-BF3F-A9828ABB508A",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "UI Snapshot 2026-11-15 at 03.34.21 PM",
+        "timestamp" : 1794746061.806
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "22E02E9A-B0CA-47FB-AD04-9ECE36B0EED2",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-11-15 at 03.34.22 PM",
+        "timestamp" : 1794746062.095
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "E9768255-E003-40FD-9D2A-9B3BF909E3C6.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "12-search_0_810CBB94-182F-472D-95E7-C6BA975FFA99.png",
+        "timestamp" : 1794746061.655
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "DA1FD1A3-4753-44CB-9443-243121FBE946",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "UI Snapshot 2026-11-15 at 03.34.20 PM",
+        "timestamp" : 1794746060.061
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "52220505-A76D-438D-8DB4-619BD3DEAD91",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-11-15 at 03.34.20 PM",
+        "timestamp" : 1794746060.347
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "F9F3075D-ECA7-428C-86C1-F3C29B4C8547",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "UI Snapshot 2026-11-15 at 03.34.19 PM",
+        "timestamp" : 1794746059.024
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "8644A3E2-FC53-4711-A401-7F452E78F2E0",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-11-15 at 03.34.19 PM",
+        "timestamp" : 1794746059.315
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "454A6B0A-4365-440B-8CAA-21241819543D",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "UI Snapshot 2026-11-15 at 03.34.16 PM",
+        "timestamp" : 1794746056.809
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "2A3376AF-14CD-4F19-9065-678B07AC511B",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Synthesized Event 2026-11-15 at 03.34.17 PM",
+        "timestamp" : 1794746057.228
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "9D6594C3-2DAD-4F6E-9CCB-8129792AEACC.mp4",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "Screen Recording 2026-11-15 at 03.34.12 PM.mp4",
+        "timestamp" : 1794746052.566
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "67C72871-7003-4423-A3B4-719B95D73F1A.txt",
+        "isAssociatedWithFailure" : true,
+        "suggestedHumanReadableName" : "Complete Issue Description.txt"
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "187752CB-927D-4C96-829C-DDB399ABEF8F.txt",
+        "isAssociatedWithFailure" : true,
+        "suggestedHumanReadableName" : "App UI hierarchy for studio.meringue.folio_0_2ACFB1C1-373A-467F-8A21-BDE3BE0F21F5.d743",
+        "timestamp" : 1794746069.695
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "D12421C6-CBA5-4499-9AD1-18DB6D738DD4",
+        "isAssociatedWithFailure" : true,
+        "suggestedHumanReadableName" : "UI Snapshot 2026-11-15 at 03.34.29 PM",
+        "timestamp" : 1794746069.695
+      }
+    ],
+    "testIdentifier" : "V8Journey/testSearchAndPantry()",
+    "testIdentifierURL" : "test://com.apple.xcode/DessertBook/KitchenJourney/V8Journey/testSearchAndPantry"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "7A209686-75BA-4ECF-A08B-664D2703E691",
+        "deviceName" : "GF isolated manual-qa 22f73cc50892454e974a8641acec62cb iPhone 18 Pro",
+        "exportedFileName" : "017761DA-8E7D-4902-A9EE-0752120D1518.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "07-paused-timer_0_122F7E25-1971-4311-8EAB-2ED74565A111.png",
+        "timestamp" : 1794746100.691
+      }
+    ],
+    "testIdentifier" : "V8Journey/testTimerPauseResume()",
+    "testIdentifierURL" : "test://com.apple.xcode/DessertBook/KitchenJourney/V8Journey/testTimerPauseResume"
+  }
+]

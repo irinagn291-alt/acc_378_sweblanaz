@@ -1,0 +1,7 @@
+Sweblanaz opens directly to Recipes on iPhone and iPad running iOS or iPadOS 17.4 or later. All 12 bundled recipes are available offline from first launch. No account or onboarding is required. Favourites, shopping, baking plans, notes and cooking progress start empty. The timer is inactive and optional alerts are off.
+
+Open a recipe from the daily feature or shelf. Change the portions, save a note and tap the heart. Open step-by-step cooking, advance a step, then close and reopen it to verify that the step is saved. Start the oven timer from the recipe detail or a timed step and try pausing and resuming it. Add the recipe to Shopping list, tick an item and try sharing the list as text through the system share sheet. Save a future bake and open it from Baking plan.
+
+The app requests local notification permission when you first enable a timer-ready alert or a Sunday or seasonal nudge. The countdown continues if permission is declined. Sending or updating a plan entry in Apple Reminders requests full Reminders access. The export creates a dated reminder with an alarm in the default list. The local plan remains available if access is declined or export fails.
+
+Preferences uses system file sheets to export and import a JSON file containing favourites, notes and plans. Widgets use shared local data for the timer, plans and shopping. On supported devices, the local Live Activity displays the timer on the Lock Screen and in Dynamic Island. System links open the corresponding screens in the app.

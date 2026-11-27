@@ -1,0 +1,31 @@
+{
+  "en": {
+    "name": "Dessert Book",
+    "subtitle": "Recipes, timers & baking plans",
+    "keywords": "dessert recipes,baking app,cake recipes,cupcakes,cookies,shopping list,oven timer,meal planner",
+    "description": "A little homemade happiness. Find six complete dessert recipes, search by ingredients, scale portions and follow a saved step-by-step method. Add shared ingredients to one shopping list, plan your next bakes and keep personal notes. Offline oven timers support Live Activities. Small, medium, large and Lock Screen widgets keep your kitchen page close. Choose a file to open, or send a copy directly to someone. Changes stay on this device until you share again. Local alerts and Apple Reminders export are optional. Free, with no ads or purchases."
+  },
+  "de": {
+    "name": "Dessert Book",
+    "subtitle": "Rezepte, Timer und Backplan",
+    "keywords": "Dessert,Backen,Kuchenrezepte,Cupcakes,Kekse,Einkaufsliste,Backtimer,Backplan,Rezeptbuch",
+    "description": "Kleine Glücksmomente aus deiner Küche. Sechs vollständige Dessertrezepte, Zutatensuche, Portionsanpassung und ein gespeicherter Schritt-für-Schritt-Modus. Gleiche Zutaten werden auf einer Einkaufsliste zusammengezählt. Plane deine Backideen und schreibe eigene Notizen. Offline-Timer mit Live-Aktivitäten sowie kleine, mittlere, große und Sperrbildschirm-Widgets. Öffne eine Datei oder sende jemandem direkt eine Kopie. Änderungen bleiben bis zur nächsten Freigabe auf diesem Gerät. Lokale Mitteilungen und Export an Apple Erinnerungen auf Wunsch. Kostenlos, ohne Werbung und Käufe."
+  },
+  "fr": {
+    "name": "Dessert Book",
+    "subtitle": "Recettes, minuteurs et projets",
+    "keywords": "dessert,recettes,pâtisserie,gâteau,cupcakes,biscuits,courses,minuteur,carnet,cuisine",
+    "description": "Le bonheur fait maison. Six recettes complètes de desserts, recherche par ingrédients, portions ajustables et préparation pas à pas enregistrée. Réunissez les ingrédients communs dans une liste de courses, programmez vos recettes et gardez vos notes. Minuteurs hors ligne avec activités en direct et widgets petit, moyen, grand et écran verrouillé. Ouvrez un fichier ou envoyez une copie directement à un proche. Les modifications restent sur cet appareil jusqu’au prochain partage. Notifications locales et export vers Rappels facultatifs. Gratuit, sans publicité ni achat."
+  },
+  "pt-BR": {
+    "name": "Dessert Book",
+    "subtitle": "Receitas, timer e planejamento",
+    "keywords": "sobremesa,receitas,confeitaria,bolo,cupcake,biscoito,compras,temporizador,cozinha,planejamento",
+    "description": "Felicidade feita em casa. Seis receitas completas de sobremesas, busca por ingredientes, ajuste de porções e preparo passo a passo com progresso salvo. Some ingredientes em uma lista de compras, planeje seus preparos e guarde anotações. Temporizadores offline com Atividades ao Vivo e widgets pequeno, médio, grande e de tela bloqueada. Abra um arquivo ou envie uma cópia diretamente a alguém. As alterações ficam neste dispositivo até o próximo envio. Avisos locais e exportação para Lembretes opcionais. Grátis, sem anúncios ou compras."
+  },
+  "ageRating": "4+",
+  "privacy": "No tracking, no developer-operated data collection. Choose a file to open, or send a copy directly to someone. Changes stay on this device until you share again.",
+  "price": "Free",
+  "inAppPurchases": false,
+  "advertising": false
+}

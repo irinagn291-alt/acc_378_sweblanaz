@@ -1,0 +1,5 @@
+Query chain:
+ →Find: Target Application 'studio.meringue.folio.d743'
+  ↪︎Find: Descendants matching type Alert
+    ↪︎Find: Descendants matching type Button
+      ↪︎Find: Elements matching predicate '"OK" IN identifiers'

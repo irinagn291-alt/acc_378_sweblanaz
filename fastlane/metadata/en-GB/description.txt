@@ -1,0 +1,7 @@
+Sweblanaz is an offline cookbook with 12 illustrated dessert recipes, from cocoa brownies and apple cake to mango sorbet and sesame brittle. Discover a different recipe each day, browse by category, or combine a search with ingredient filters. Recipes use metric measurements, and seasonal browsing follows the Northern Hemisphere calendar.
+
+Scale ingredients for 1–48 portions, check allergen information and save your own kitchen notes. Cook one step at a time and pick up where you left off. Start an oven timer from the recipe or from a step with a suggested cooking time.
+
+Save favourites, schedule your next bake and combine ingredients from multiple recipes into one shopping checklist. Tick off items as you shop or share the list as text. You can also add ingredients for bakes planned within the seven days starting today.
+
+Home Screen and Lock Screen widgets show the daily recipe and, depending on their size, the timer, upcoming bakes or shopping ingredients. Serving images are labelled as AI-created illustrations.

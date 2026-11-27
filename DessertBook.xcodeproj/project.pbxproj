@@ -1,0 +1,737 @@
+// !$*UTF8*$!
+{
+	"archiveVersion" = 1;
+	"classes" = {
+	};
+	"objectVersion" = 56;
+	"objects" = {
+		"C573AEAFE968440CB3AA92AE" = {
+			"isa" = "PBXFileReference";
+			"lastKnownFileType" = "sourcecode.swift";
+			"path" = "DessertBook/Source/P9Crumbs.swift";
+			"sourceTree" = "<group>";
+		};
+		"A1B8537647BC4F889851BC72" = {
+			"isa" = "PBXFileReference";
+			"lastKnownFileType" = "sourcecode.swift";
+			"path" = "DessertBook/Source/L2Oven.swift";
+			"sourceTree" = "<group>";
+		};
+		"4AB22C37AA5D41A08F182932" = {
+			"isa" = "PBXFileReference";
+			"lastKnownFileType" = "sourcecode.swift";
+			"path" = "DessertBook/Source/S5Pages.swift";
+			"sourceTree" = "<group>";
+		};
+		"3E6D27643244474081AAADE0" = {
+			"isa" = "PBXFileReference";
+			"lastKnownFileType" = "sourcecode.swift";
+			"path" = "DessertBook/Source/A7Folio.swift";
+			"sourceTree" = "<group>";
+		};
+		"623A9D529C1B43478481352C" = {
+			"isa" = "PBXFileReference";
+			"lastKnownFileType" = "sourcecode.swift";
+			"path" = "TimerTiles/W4Tiles.swift";
+			"sourceTree" = "<group>";
+		};
+		"2AEA8BFD54EF4835B09B2805" = {
+			"isa" = "PBXFileReference";
+			"lastKnownFileType" = "sourcecode.swift";
+			"path" = "Tests/V8Checks.swift";
+			"sourceTree" = "<group>";
+		};
+		"33663FC5D4D84A9394C06ECD" = {
+			"isa" = "PBXFileReference";
+			"lastKnownFileType" = "text.json";
+			"path" = "DessertBook/Resources/CrumbIndex.json";
+			"sourceTree" = "<group>";
+		};
+		"F5141E72EBED4C22B4E3A87E" = {
+			"isa" = "PBXFileReference";
+			"lastKnownFileType" = "text.json.xcstrings";
+			"path" = "DessertBook/Resources/Localizable.xcstrings";
+			"sourceTree" = "<group>";
+		};
+		"DF5A8651FAA84F77A9C9E36B" = {
+			"isa" = "PBXFileReference";
+			"lastKnownFileType" = "text.json.xcstrings";
+			"path" = "DessertBook/Resources/InfoPlist.xcstrings";
+			"sourceTree" = "<group>";
+		};
+		"DA43D09F79474975A36C25CD" = {
+			"isa" = "PBXFileReference";
+			"lastKnownFileType" = "folder.assetcatalog";
+			"path" = "DessertBook/Resources/Assets.xcassets";
+			"sourceTree" = "<group>";
+		};
+		"A6C22907F8144004BEFF58E7" = {
+			"isa" = "PBXFileReference";
+			"lastKnownFileType" = "text.xml";
+			"path" = "DessertBook/Resources/PrivacyInfo.xcprivacy";
+			"sourceTree" = "<group>";
+		};
+		"F30C707040D34E4B8F3B7F6D" = {
+			"isa" = "PBXFileReference";
+			"lastKnownFileType" = "text.plist.xml";
+			"path" = "DessertBook/Info.plist";
+			"sourceTree" = "<group>";
+		};
+		"51EA2B8633CB4BCB9AC102E0" = {
+			"isa" = "PBXFileReference";
+			"lastKnownFileType" = "text.plist.xml";
+			"path" = "TimerTiles/Info.plist";
+			"sourceTree" = "<group>";
+		};
+		"41ACAC4E4567432B8781E3DD" = {
+			"isa" = "PBXFileReference";
+			"lastKnownFileType" = "text.plist.entitlements";
+			"path" = "DessertBook/Folio.entitlements";
+			"sourceTree" = "<group>";
+		};
+		"2A2A6A0C4C4C41CE82228473" = {
+			"isa" = "PBXFileReference";
+			"lastKnownFileType" = "text.plist.entitlements";
+			"path" = "TimerTiles/Tile.entitlements";
+			"sourceTree" = "<group>";
+		};
+		"63CE7086E4CB4C58B5C0BD16" = {
+			"isa" = "PBXFileReference";
+			"explicitFileType" = "wrapper.application";
+			"includeInIndex" = 0;
+			"path" = "FolioKitchen.app";
+			"sourceTree" = "BUILT_PRODUCTS_DIR";
+		};
+		"721F3C42D8C340BAB4487D27" = {
+			"isa" = "PBXFileReference";
+			"explicitFileType" = "wrapper.app-extension";
+			"includeInIndex" = 0;
+			"path" = "KitchenPages.appex";
+			"sourceTree" = "BUILT_PRODUCTS_DIR";
+		};
+		"11C884C073FE449694CB3FBE" = {
+			"isa" = "PBXFileReference";
+			"explicitFileType" = "wrapper.cfbundle";
+			"includeInIndex" = 0;
+			"path" = "CrumbChecks.xctest";
+			"sourceTree" = "BUILT_PRODUCTS_DIR";
+		};
+		"E77D8E23D1BA4134A3B6DB36" = {
+			"isa" = "PBXFileReference";
+			"explicitFileType" = "wrapper.cfbundle";
+			"includeInIndex" = 0;
+			"path" = "KitchenJourney.xctest";
+			"sourceTree" = "BUILT_PRODUCTS_DIR";
+		};
+		"EC7F843E743C49EBAA1900FC" = {
+			"isa" = "PBXGroup";
+			"children" = ( "C573AEAFE968440CB3AA92AE", "A1B8537647BC4F889851BC72", "4AB22C37AA5D41A08F182932", "3E6D27643244474081AAADE0", "623A9D529C1B43478481352C", "2AEA8BFD54EF4835B09B2805", "33663FC5D4D84A9394C06ECD", "F5141E72EBED4C22B4E3A87E", "DF5A8651FAA84F77A9C9E36B", "DA43D09F79474975A36C25CD", "A6C22907F8144004BEFF58E7", "F30C707040D34E4B8F3B7F6D", "51EA2B8633CB4BCB9AC102E0", "41ACAC4E4567432B8781E3DD", "2A2A6A0C4C4C41CE82228473", "127089C5A38447B7A9899063" );
+			"sourceTree" = "<group>";
+		};
+		"127089C5A38447B7A9899063" = {
+			"isa" = "PBXGroup";
+			"children" = ( "63CE7086E4CB4C58B5C0BD16", "721F3C42D8C340BAB4487D27", "11C884C073FE449694CB3FBE", "E77D8E23D1BA4134A3B6DB36" );
+			"name" = "Products";
+			"sourceTree" = "<group>";
+		};
+		"348A30D4E35742E88C91CE94" = {
+			"isa" = "PBXProject";
+			"attributes" = {
+				"BuildIndependentTargetsInParallel" = "YES";
+				"LastUpgradeCheck" = "2720";
+				"ORGANIZATIONNAME" = "Meringue Folio Atelier";
+				"TargetAttributes" = {
+					"84FB9C8DBFFE45DB9C4FFCBD" = {
+						"SystemCapabilities" = {
+							"com.apple.ApplicationGroups.iOS" = {
+								"enabled" = 1;
+							};
+							"com.apple.Push" = {
+								"enabled" = 1;
+							};
+							
+						};
+					};
+				};
+			};
+			"buildConfigurationList" = "E79838BE14A244F6B6DD2F88";
+			"compatibilityVersion" = "Xcode 14.0";
+			"developmentRegion" = "en";
+			"hasScannedForEncodings" = 0;
+			"knownRegions" = ( "en", "de", "fr", "pt-BR", "Base" );
+			"mainGroup" = "EC7F843E743C49EBAA1900FC";
+			"productRefGroup" = "127089C5A38447B7A9899063";
+			"projectDirPath" = "";
+			"projectRoot" = "";
+			"targets" = ( "84FB9C8DBFFE45DB9C4FFCBD", "D538C34A5B39494381937DA9", "0AD8A2384B04407A93DD5B77", "FA555B18FBFA4179837CB2D8" );
+		};
+		"84FB9C8DBFFE45DB9C4FFCBD" = {
+			"isa" = "PBXNativeTarget";
+			"buildConfigurationList" = "708DE63341744B9B93632578";
+			"buildPhases" = ( "0B87AB98A5CC474A96A65F0A", "05C4A992B81644248AB0C92C", "6716176870724DABA1DAC4F0", "58EEAFC1201B48FEB09BE80E" );
+			"buildRules" = (  );
+			"dependencies" = ( "482581336D6D4E619480A045" );
+			"name" = "FolioKitchen";
+			"productName" = "FolioKitchen";
+			"productReference" = "63CE7086E4CB4C58B5C0BD16";
+			"productType" = "com.apple.product-type.application";
+		};
+		"D538C34A5B39494381937DA9" = {
+			"isa" = "PBXNativeTarget";
+			"buildConfigurationList" = "13B92CF3080C4E0BAC765ABA";
+			"buildPhases" = ( "223C075074344B228A049F2A", "4C41F808BAE54B57A24E710E", "3D1E88BC0BA44D7FA6A13158" );
+			"buildRules" = (  );
+			"dependencies" = (  );
+			"name" = "KitchenPages";
+			"productName" = "KitchenPages";
+			"productReference" = "721F3C42D8C340BAB4487D27";
+			"productType" = "com.apple.product-type.app-extension";
+		};
+		"0AD8A2384B04407A93DD5B77" = {
+			"isa" = "PBXNativeTarget";
+			"buildConfigurationList" = "E8DE8F8CA4504656B02D0216";
+			"buildPhases" = ( "B997225E5CB344FE82869BE5", "328372CBA68C4235B1EAD1CF", "8E018F3DC77B405EB5EDEF3E" );
+			"buildRules" = (  );
+			"dependencies" = ( "41E86B43DC1D4D2AB7DD226C" );
+			"name" = "CrumbChecks";
+			"productName" = "CrumbChecks";
+			"productReference" = "11C884C073FE449694CB3FBE";
+			"productType" = "com.apple.product-type.bundle.unit-test";
+		};
+		"FA555B18FBFA4179837CB2D8" = {
+			"isa" = "PBXNativeTarget";
+			"buildConfigurationList" = "AC1332F5A0EC4F3EBB2A2AF3";
+			"buildPhases" = ( "F7BD81B08177483582FDE95B", "2B5D26141BD84152AC8482A9", "60438F3BFA2D484BB51C1C47" );
+			"buildRules" = (  );
+			"dependencies" = ( "64DE2FA7376D4D9AA86A58CF" );
+			"name" = "KitchenJourney";
+			"productName" = "KitchenJourney";
+			"productReference" = "E77D8E23D1BA4134A3B6DB36";
+			"productType" = "com.apple.product-type.bundle.ui-testing";
+		};
+		"AD62EEA7BA6A4AB394059530" = {
+			"isa" = "PBXBuildFile";
+			"fileRef" = "721F3C42D8C340BAB4487D27";
+			"settings" = {
+				"ATTRIBUTES" = ( "RemoveHeadersOnCopy", "CodeSignOnCopy" );
+			};
+		};
+		"58EEAFC1201B48FEB09BE80E" = {
+			"isa" = "PBXCopyFilesBuildPhase";
+			"buildActionMask" = 2147483647;
+			"dstPath" = "";
+			"dstSubfolderSpec" = 13;
+			"files" = ( "AD62EEA7BA6A4AB394059530" );
+			"name" = "Embed Kitchen Pages";
+			"runOnlyForDeploymentPostprocessing" = 0;
+		};
+		"ECC112F8642A429EB4CFDFA7" = {
+			"isa" = "PBXContainerItemProxy";
+			"containerPortal" = "348A30D4E35742E88C91CE94";
+			"proxyType" = 1;
+			"remoteGlobalIDString" = "D538C34A5B39494381937DA9";
+			"remoteInfo" = "KitchenProduct";
+		};
+		"482581336D6D4E619480A045" = {
+			"isa" = "PBXTargetDependency";
+			"target" = "D538C34A5B39494381937DA9";
+			"targetProxy" = "ECC112F8642A429EB4CFDFA7";
+		};
+		"7FEC593700A4448BB0840D58" = {
+			"isa" = "PBXContainerItemProxy";
+			"containerPortal" = "348A30D4E35742E88C91CE94";
+			"proxyType" = 1;
+			"remoteGlobalIDString" = "84FB9C8DBFFE45DB9C4FFCBD";
+			"remoteInfo" = "KitchenProduct";
+		};
+		"41E86B43DC1D4D2AB7DD226C" = {
+			"isa" = "PBXTargetDependency";
+			"target" = "84FB9C8DBFFE45DB9C4FFCBD";
+			"targetProxy" = "7FEC593700A4448BB0840D58";
+		};
+		"F61E442766234A5EBFD8873C" = {
+			"isa" = "PBXContainerItemProxy";
+			"containerPortal" = "348A30D4E35742E88C91CE94";
+			"proxyType" = 1;
+			"remoteGlobalIDString" = "84FB9C8DBFFE45DB9C4FFCBD";
+			"remoteInfo" = "KitchenProduct";
+		};
+		"64DE2FA7376D4D9AA86A58CF" = {
+			"isa" = "PBXTargetDependency";
+			"target" = "84FB9C8DBFFE45DB9C4FFCBD";
+			"targetProxy" = "F61E442766234A5EBFD8873C";
+		};
+		"7A9D23F047D4444CBCBB117F" = {
+			"isa" = "PBXBuildFile";
+			"fileRef" = "3E6D27643244474081AAADE0";
+		};
+		"39A55A9B7B084E2695BDB348" = {
+			"isa" = "PBXBuildFile";
+			"fileRef" = "C573AEAFE968440CB3AA92AE";
+		};
+		"5AA3599EB9774042AB4075BA" = {
+			"isa" = "PBXBuildFile";
+			"fileRef" = "A1B8537647BC4F889851BC72";
+		};
+		"7E0D3F68197048CB91534EBE" = {
+			"isa" = "PBXBuildFile";
+			"fileRef" = "4AB22C37AA5D41A08F182932";
+		};
+		"0B87AB98A5CC474A96A65F0A" = {
+			"isa" = "PBXSourcesBuildPhase";
+			"buildActionMask" = 2147483647;
+			"files" = ( "7A9D23F047D4444CBCBB117F", "39A55A9B7B084E2695BDB348", "5AA3599EB9774042AB4075BA", "7E0D3F68197048CB91534EBE" );
+			"runOnlyForDeploymentPostprocessing" = 0;
+		};
+		"05C4A992B81644248AB0C92C" = {
+			"isa" = "PBXFrameworksBuildPhase";
+			"buildActionMask" = 2147483647;
+			"files" = (  );
+			"runOnlyForDeploymentPostprocessing" = 0;
+		};
+		"B8618E8D567A48A489CD7089" = {
+			"isa" = "PBXBuildFile";
+			"fileRef" = "33663FC5D4D84A9394C06ECD";
+		};
+		"895DA1C516524DBAB35505B5" = {
+			"isa" = "PBXBuildFile";
+			"fileRef" = "F5141E72EBED4C22B4E3A87E";
+		};
+		"0097BEF4C93341DEA256D646" = {
+			"isa" = "PBXBuildFile";
+			"fileRef" = "DF5A8651FAA84F77A9C9E36B";
+		};
+		"18EC4D1EB3F44BDF8919DAB6" = {
+			"isa" = "PBXBuildFile";
+			"fileRef" = "DA43D09F79474975A36C25CD";
+		};
+		"3F9E5E450A4E4C9FB29911B9" = {
+			"isa" = "PBXBuildFile";
+			"fileRef" = "A6C22907F8144004BEFF58E7";
+		};
+		"6716176870724DABA1DAC4F0" = {
+			"isa" = "PBXResourcesBuildPhase";
+			"buildActionMask" = 2147483647;
+			"files" = ( "B8618E8D567A48A489CD7089", "895DA1C516524DBAB35505B5", "0097BEF4C93341DEA256D646", "18EC4D1EB3F44BDF8919DAB6", "3F9E5E450A4E4C9FB29911B9" );
+			"runOnlyForDeploymentPostprocessing" = 0;
+		};
+		"B14A320A005B4187BC994D98" = {
+			"isa" = "XCBuildConfiguration";
+			"name" = "Debug";
+			"buildSettings" = {
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				"SDKROOT" = "iphoneos";
+				"IPHONEOS_DEPLOYMENT_TARGET" = "17.4";
+				"SWIFT_VERSION" = "5.0";
+				"TARGETED_DEVICE_FAMILY" = "1,2";
+				"MARKETING_VERSION" = "1.3.2";
+				"CURRENT_PROJECT_VERSION" = "17";
+				"CODE_SIGN_STYLE" = "Automatic";
+				"ENABLE_USER_SCRIPT_SANDBOXING" = "YES";
+				"CLANG_ENABLE_MODULES" = "YES";
+				"SWIFT_EMIT_LOC_STRINGS" = "NO";
+				"SUPPORTS_MACCATALYST" = "NO";
+				"SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD" = "NO";
+				"SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD" = "NO";
+				"DEBUG_INFORMATION_FORMAT" = "dwarf";
+				"GCC_C_LANGUAGE_STANDARD" = "gnu17";
+				"PRODUCT_NAME" = "FolioKitchen";
+				"PRODUCT_BUNDLE_IDENTIFIER" = "com.dessertbook.app";
+				"INFOPLIST_FILE" = "DessertBook/Info.plist";
+				"CODE_SIGN_ENTITLEMENTS" = "DessertBook/Folio.entitlements";
+				"ASSETCATALOG_COMPILER_APPICON_NAME" = "OvenMark";
+				"LD_RUNPATH_SEARCH_PATHS" = ( "$(inherited)", "@executable_path/Frameworks" );
+				"ENABLE_TESTABILITY" = "YES";
+				"SWIFT_OPTIMIZATION_LEVEL" = "-Onone";
+				"GCC_PREPROCESSOR_DEFINITIONS" = ( "DEBUG=1", "$(inherited)" );
+				"SWIFT_ACTIVE_COMPILATION_CONDITIONS" = "DEBUG";
+			};
+		};
+		"B20E41F3AE944E8FBFA94D2C" = {
+			"isa" = "XCBuildConfiguration";
+			"name" = "Release";
+			"buildSettings" = {
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				"OTHER_LDFLAGS" = ( "$(inherited)", "-Wl,-oso_prefix,$(SRCROOT)/" );
+				"STRIP_INSTALLED_PRODUCT" = "YES";
+				"DEPLOYMENT_POSTPROCESSING" = "YES";
+				"COPY_PHASE_STRIP" = "YES";
+				"STRIP_STYLE" = "non-global";
+				"SWIFT_SERIALIZE_DEBUGGING_OPTIONS" = "NO";
+				"DEBUG_INFORMATION_FORMAT" = "";
+				"SDKROOT" = "iphoneos";
+				"IPHONEOS_DEPLOYMENT_TARGET" = "17.4";
+				"SWIFT_VERSION" = "5.0";
+				"TARGETED_DEVICE_FAMILY" = "1,2";
+				"MARKETING_VERSION" = "1.3.2";
+				"CURRENT_PROJECT_VERSION" = "17";
+				"CODE_SIGN_STYLE" = "Automatic";
+				"ENABLE_USER_SCRIPT_SANDBOXING" = "YES";
+				"CLANG_ENABLE_MODULES" = "YES";
+				"SWIFT_EMIT_LOC_STRINGS" = "NO";
+				"SUPPORTS_MACCATALYST" = "NO";
+				"SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD" = "NO";
+				"SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD" = "NO";
+				
+				"GCC_C_LANGUAGE_STANDARD" = "gnu17";
+				"PRODUCT_NAME" = "FolioKitchen";
+				"PRODUCT_BUNDLE_IDENTIFIER" = "com.dessertbook.app";
+				"INFOPLIST_FILE" = "DessertBook/Info.plist";
+				"CODE_SIGN_ENTITLEMENTS" = "DessertBook/Folio.entitlements";
+				"ASSETCATALOG_COMPILER_APPICON_NAME" = "OvenMark";
+				"LD_RUNPATH_SEARCH_PATHS" = ( "$(inherited)", "@executable_path/Frameworks" );
+				"ENABLE_TESTABILITY" = "NO";
+				"SWIFT_OPTIMIZATION_LEVEL" = "-O";
+				"SWIFT_COMPILATION_MODE" = "wholemodule";
+			};
+		};
+		"708DE63341744B9B93632578" = {
+			"isa" = "XCConfigurationList";
+			"buildConfigurations" = ( "B14A320A005B4187BC994D98", "B20E41F3AE944E8FBFA94D2C" );
+			"defaultConfigurationIsVisible" = 0;
+			"defaultConfigurationName" = "Release";
+		};
+		"88D4DF76B223433993CE7EB0" = {
+			"isa" = "PBXBuildFile";
+			"fileRef" = "623A9D529C1B43478481352C";
+		};
+		"AEDEF75982D14EB4B7EB9963" = {
+			"isa" = "PBXBuildFile";
+			"fileRef" = "C573AEAFE968440CB3AA92AE";
+		};
+		"223C075074344B228A049F2A" = {
+			"isa" = "PBXSourcesBuildPhase";
+			"buildActionMask" = 2147483647;
+			"files" = ( "88D4DF76B223433993CE7EB0", "AEDEF75982D14EB4B7EB9963" );
+			"runOnlyForDeploymentPostprocessing" = 0;
+		};
+		"4C41F808BAE54B57A24E710E" = {
+			"isa" = "PBXFrameworksBuildPhase";
+			"buildActionMask" = 2147483647;
+			"files" = (  );
+			"runOnlyForDeploymentPostprocessing" = 0;
+		};
+		"B8FF498E829F433C9639A429" = {
+			"isa" = "PBXBuildFile";
+			"fileRef" = "33663FC5D4D84A9394C06ECD";
+		};
+		"9E8BBDE308FB42A2BFE15CE1" = {
+			"isa" = "PBXBuildFile";
+			"fileRef" = "F5141E72EBED4C22B4E3A87E";
+		};
+		"1A5FE50A92374AB9B4EDE979" = {
+			"isa" = "PBXBuildFile";
+			"fileRef" = "DA43D09F79474975A36C25CD";
+		};
+		"A0571D23FA064D00B36A19A4" = {
+			"isa" = "PBXBuildFile";
+			"fileRef" = "A6C22907F8144004BEFF58E7";
+		};
+		"3D1E88BC0BA44D7FA6A13158" = {
+			"isa" = "PBXResourcesBuildPhase";
+			"buildActionMask" = 2147483647;
+			"files" = ( "B8FF498E829F433C9639A429", "9E8BBDE308FB42A2BFE15CE1", "1A5FE50A92374AB9B4EDE979", "A0571D23FA064D00B36A19A4" );
+			"runOnlyForDeploymentPostprocessing" = 0;
+		};
+		"E2577B71459B474FB5761E61" = {
+			"isa" = "XCBuildConfiguration";
+			"name" = "Debug";
+			"buildSettings" = {
+				"SDKROOT" = "iphoneos";
+				"IPHONEOS_DEPLOYMENT_TARGET" = "17.4";
+				"SWIFT_VERSION" = "5.0";
+				"TARGETED_DEVICE_FAMILY" = "1,2";
+				"MARKETING_VERSION" = "1.3.2";
+				"CURRENT_PROJECT_VERSION" = "17";
+				"CODE_SIGN_STYLE" = "Automatic";
+				"ENABLE_USER_SCRIPT_SANDBOXING" = "YES";
+				"CLANG_ENABLE_MODULES" = "YES";
+				"SWIFT_EMIT_LOC_STRINGS" = "NO";
+				"SUPPORTS_MACCATALYST" = "NO";
+				"SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD" = "NO";
+				"SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD" = "NO";
+				"DEBUG_INFORMATION_FORMAT" = "dwarf";
+				"GCC_C_LANGUAGE_STANDARD" = "gnu17";
+				"PRODUCT_NAME" = "KitchenPages";
+				"PRODUCT_BUNDLE_IDENTIFIER" = "com.dessertbook.app.pages";
+				"INFOPLIST_FILE" = "TimerTiles/Info.plist";
+				"CODE_SIGN_ENTITLEMENTS" = "TimerTiles/Tile.entitlements";
+				"APPLICATION_EXTENSION_API_ONLY" = "YES";
+				"SKIP_INSTALL" = "YES";
+				"LD_RUNPATH_SEARCH_PATHS" = ( "$(inherited)", "@executable_path/Frameworks", "@executable_path/../../Frameworks" );
+				"SWIFT_OPTIMIZATION_LEVEL" = "-Onone";
+				"GCC_PREPROCESSOR_DEFINITIONS" = ( "DEBUG=1", "$(inherited)" );
+				"SWIFT_ACTIVE_COMPILATION_CONDITIONS" = "DEBUG";
+			};
+		};
+		"681C3E07811A4A7089403911" = {
+			"isa" = "XCBuildConfiguration";
+			"name" = "Release";
+			"buildSettings" = {
+				"OTHER_LDFLAGS" = ( "$(inherited)", "-Wl,-oso_prefix,$(SRCROOT)/" );
+				"STRIP_INSTALLED_PRODUCT" = "YES";
+				"DEPLOYMENT_POSTPROCESSING" = "YES";
+				"COPY_PHASE_STRIP" = "YES";
+				"STRIP_STYLE" = "non-global";
+				"SWIFT_SERIALIZE_DEBUGGING_OPTIONS" = "NO";
+				"DEBUG_INFORMATION_FORMAT" = "";
+				"SDKROOT" = "iphoneos";
+				"IPHONEOS_DEPLOYMENT_TARGET" = "17.4";
+				"SWIFT_VERSION" = "5.0";
+				"TARGETED_DEVICE_FAMILY" = "1,2";
+				"MARKETING_VERSION" = "1.3.2";
+				"CURRENT_PROJECT_VERSION" = "17";
+				"CODE_SIGN_STYLE" = "Automatic";
+				"ENABLE_USER_SCRIPT_SANDBOXING" = "YES";
+				"CLANG_ENABLE_MODULES" = "YES";
+				"SWIFT_EMIT_LOC_STRINGS" = "NO";
+				"SUPPORTS_MACCATALYST" = "NO";
+				"SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD" = "NO";
+				"SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD" = "NO";
+				
+				"GCC_C_LANGUAGE_STANDARD" = "gnu17";
+				"PRODUCT_NAME" = "KitchenPages";
+				"PRODUCT_BUNDLE_IDENTIFIER" = "com.dessertbook.app.pages";
+				"INFOPLIST_FILE" = "TimerTiles/Info.plist";
+				"CODE_SIGN_ENTITLEMENTS" = "TimerTiles/Tile.entitlements";
+				"APPLICATION_EXTENSION_API_ONLY" = "YES";
+				"SKIP_INSTALL" = "YES";
+				"LD_RUNPATH_SEARCH_PATHS" = ( "$(inherited)", "@executable_path/Frameworks", "@executable_path/../../Frameworks" );
+				"SWIFT_OPTIMIZATION_LEVEL" = "-O";
+				"SWIFT_COMPILATION_MODE" = "wholemodule";
+			};
+		};
+		"13B92CF3080C4E0BAC765ABA" = {
+			"isa" = "XCConfigurationList";
+			"buildConfigurations" = ( "E2577B71459B474FB5761E61", "681C3E07811A4A7089403911" );
+			"defaultConfigurationIsVisible" = 0;
+			"defaultConfigurationName" = "Release";
+		};
+		"40DCD048CE33439388709799" = {
+			"isa" = "PBXBuildFile";
+			"fileRef" = "2AEA8BFD54EF4835B09B2805";
+		};
+		"B997225E5CB344FE82869BE5" = {
+			"isa" = "PBXSourcesBuildPhase";
+			"buildActionMask" = 2147483647;
+			"files" = ( "4E09A3E16CA24F59A218A377", "40DCD048CE33439388709799" );
+			"runOnlyForDeploymentPostprocessing" = 0;
+		};
+		"328372CBA68C4235B1EAD1CF" = {
+			"isa" = "PBXFrameworksBuildPhase";
+			"buildActionMask" = 2147483647;
+			"files" = (  );
+			"runOnlyForDeploymentPostprocessing" = 0;
+		};
+		"8E018F3DC77B405EB5EDEF3E" = {
+			"isa" = "PBXResourcesBuildPhase";
+			"buildActionMask" = 2147483647;
+			"files" = (  );
+			"runOnlyForDeploymentPostprocessing" = 0;
+		};
+		"AC587F7F373E4DBBA91533C6" = {
+			"isa" = "XCBuildConfiguration";
+			"name" = "Debug";
+			"buildSettings" = {
+				"SDKROOT" = "iphoneos";
+				"IPHONEOS_DEPLOYMENT_TARGET" = "17.4";
+				"SWIFT_VERSION" = "5.0";
+				"TARGETED_DEVICE_FAMILY" = "1,2";
+				"MARKETING_VERSION" = "1.3.2";
+				"CURRENT_PROJECT_VERSION" = "17";
+				"CODE_SIGN_STYLE" = "Automatic";
+				"ENABLE_USER_SCRIPT_SANDBOXING" = "YES";
+				"CLANG_ENABLE_MODULES" = "YES";
+				"SWIFT_EMIT_LOC_STRINGS" = "NO";
+				"SUPPORTS_MACCATALYST" = "NO";
+				"SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD" = "NO";
+				"SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD" = "NO";
+				"DEBUG_INFORMATION_FORMAT" = "dwarf";
+				"GCC_C_LANGUAGE_STANDARD" = "gnu17";
+				"PRODUCT_NAME" = "CrumbChecks";
+				"PRODUCT_BUNDLE_IDENTIFIER" = "com.dessertbook.app.checks";
+				"GENERATE_INFOPLIST_FILE" = "YES";
+				"TEST_HOST" = "$(BUILT_PRODUCTS_DIR)/FolioKitchen.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FolioKitchen";
+				"BUNDLE_LOADER" = "$(TEST_HOST)";
+				"ENABLE_TESTABILITY" = "YES";
+				"SWIFT_OPTIMIZATION_LEVEL" = "-Onone";
+				"GCC_PREPROCESSOR_DEFINITIONS" = ( "DEBUG=1", "$(inherited)" );
+				"SWIFT_ACTIVE_COMPILATION_CONDITIONS" = "DEBUG WIDGET_QA";
+			};
+		};
+		"3A7D55AE900742079ED372E1" = {
+			"isa" = "XCBuildConfiguration";
+			"name" = "Release";
+			"buildSettings" = {
+				"OTHER_LDFLAGS" = ( "$(inherited)", "-Wl,-oso_prefix,$(SRCROOT)/" );
+				"STRIP_INSTALLED_PRODUCT" = "YES";
+				"DEPLOYMENT_POSTPROCESSING" = "YES";
+				"COPY_PHASE_STRIP" = "YES";
+				"STRIP_STYLE" = "non-global";
+				"SWIFT_SERIALIZE_DEBUGGING_OPTIONS" = "NO";
+				"DEBUG_INFORMATION_FORMAT" = "";
+				"SWIFT_ACTIVE_COMPILATION_CONDITIONS" = "WIDGET_QA";
+				"SDKROOT" = "iphoneos";
+				"IPHONEOS_DEPLOYMENT_TARGET" = "17.4";
+				"SWIFT_VERSION" = "5.0";
+				"TARGETED_DEVICE_FAMILY" = "1,2";
+				"MARKETING_VERSION" = "1.3.2";
+				"CURRENT_PROJECT_VERSION" = "17";
+				"CODE_SIGN_STYLE" = "Automatic";
+				"ENABLE_USER_SCRIPT_SANDBOXING" = "YES";
+				"CLANG_ENABLE_MODULES" = "YES";
+				"SWIFT_EMIT_LOC_STRINGS" = "NO";
+				"SUPPORTS_MACCATALYST" = "NO";
+				"SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD" = "NO";
+				"SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD" = "NO";
+				
+				"GCC_C_LANGUAGE_STANDARD" = "gnu17";
+				"PRODUCT_NAME" = "CrumbChecks";
+				"PRODUCT_BUNDLE_IDENTIFIER" = "com.dessertbook.app.checks";
+				"GENERATE_INFOPLIST_FILE" = "YES";
+				"TEST_HOST" = "$(BUILT_PRODUCTS_DIR)/FolioKitchen.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FolioKitchen";
+				"BUNDLE_LOADER" = "$(TEST_HOST)";
+				"ENABLE_TESTABILITY" = "NO";
+				"SWIFT_OPTIMIZATION_LEVEL" = "-O";
+				"SWIFT_COMPILATION_MODE" = "wholemodule";
+			};
+		};
+		"E8DE8F8CA4504656B02D0216" = {
+			"isa" = "XCConfigurationList";
+			"buildConfigurations" = ( "AC587F7F373E4DBBA91533C6", "3A7D55AE900742079ED372E1" );
+			"defaultConfigurationIsVisible" = 0;
+			"defaultConfigurationName" = "Release";
+		};
+		"83188C90D42F48878DDEBF38" = {
+			"isa" = "PBXBuildFile";
+			"fileRef" = "2AEA8BFD54EF4835B09B2805";
+		};
+		"F7BD81B08177483582FDE95B" = {
+			"isa" = "PBXSourcesBuildPhase";
+			"buildActionMask" = 2147483647;
+			"files" = ( "83188C90D42F48878DDEBF38" );
+			"runOnlyForDeploymentPostprocessing" = 0;
+		};
+		"2B5D26141BD84152AC8482A9" = {
+			"isa" = "PBXFrameworksBuildPhase";
+			"buildActionMask" = 2147483647;
+			"files" = (  );
+			"runOnlyForDeploymentPostprocessing" = 0;
+		};
+		"60438F3BFA2D484BB51C1C47" = {
+			"isa" = "PBXResourcesBuildPhase";
+			"buildActionMask" = 2147483647;
+			"files" = (  );
+			"runOnlyForDeploymentPostprocessing" = 0;
+		};
+		"1F52A64BC83643B4BCECC897" = {
+			"isa" = "XCBuildConfiguration";
+			"name" = "Debug";
+			"buildSettings" = {
+				"SDKROOT" = "iphoneos";
+				"IPHONEOS_DEPLOYMENT_TARGET" = "17.4";
+				"SWIFT_VERSION" = "5.0";
+				"TARGETED_DEVICE_FAMILY" = "1,2";
+				"MARKETING_VERSION" = "1.3.2";
+				"CURRENT_PROJECT_VERSION" = "17";
+				"CODE_SIGN_STYLE" = "Automatic";
+				"ENABLE_USER_SCRIPT_SANDBOXING" = "YES";
+				"CLANG_ENABLE_MODULES" = "YES";
+				"SWIFT_EMIT_LOC_STRINGS" = "NO";
+				"SUPPORTS_MACCATALYST" = "NO";
+				"SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD" = "NO";
+				"SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD" = "NO";
+				"DEBUG_INFORMATION_FORMAT" = "dwarf";
+				"GCC_C_LANGUAGE_STANDARD" = "gnu17";
+				"PRODUCT_NAME" = "KitchenJourney";
+				"PRODUCT_BUNDLE_IDENTIFIER" = "com.dessertbook.app.journey";
+				"GENERATE_INFOPLIST_FILE" = "YES";
+				"TEST_TARGET_NAME" = "FolioKitchen";
+				"SWIFT_OPTIMIZATION_LEVEL" = "-Onone";
+				"GCC_PREPROCESSOR_DEFINITIONS" = ( "DEBUG=1", "$(inherited)" );
+				"SWIFT_ACTIVE_COMPILATION_CONDITIONS" = "DEBUG KITCHEN_UI";
+			};
+		};
+		"1C906E53AA17453E969FF274" = {
+			"isa" = "XCBuildConfiguration";
+			"name" = "Release";
+			"buildSettings" = {
+				"OTHER_LDFLAGS" = ( "$(inherited)", "-Wl,-oso_prefix,$(SRCROOT)/" );
+				"STRIP_INSTALLED_PRODUCT" = "YES";
+				"DEPLOYMENT_POSTPROCESSING" = "YES";
+				"COPY_PHASE_STRIP" = "YES";
+				"STRIP_STYLE" = "non-global";
+				"SWIFT_SERIALIZE_DEBUGGING_OPTIONS" = "NO";
+				"DEBUG_INFORMATION_FORMAT" = "";
+				"SWIFT_ACTIVE_COMPILATION_CONDITIONS" = "KITCHEN_UI";
+				"SDKROOT" = "iphoneos";
+				"IPHONEOS_DEPLOYMENT_TARGET" = "17.4";
+				"SWIFT_VERSION" = "5.0";
+				"TARGETED_DEVICE_FAMILY" = "1,2";
+				"MARKETING_VERSION" = "1.3.2";
+				"CURRENT_PROJECT_VERSION" = "17";
+				"CODE_SIGN_STYLE" = "Automatic";
+				"ENABLE_USER_SCRIPT_SANDBOXING" = "YES";
+				"CLANG_ENABLE_MODULES" = "YES";
+				"SWIFT_EMIT_LOC_STRINGS" = "NO";
+				"SUPPORTS_MACCATALYST" = "NO";
+				"SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD" = "NO";
+				"SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD" = "NO";
+				
+				"GCC_C_LANGUAGE_STANDARD" = "gnu17";
+				"PRODUCT_NAME" = "KitchenJourney";
+				"PRODUCT_BUNDLE_IDENTIFIER" = "com.dessertbook.app.journey";
+				"GENERATE_INFOPLIST_FILE" = "YES";
+				"TEST_TARGET_NAME" = "FolioKitchen";
+				"SWIFT_OPTIMIZATION_LEVEL" = "-O";
+				"SWIFT_COMPILATION_MODE" = "wholemodule";
+			};
+		};
+		"AC1332F5A0EC4F3EBB2A2AF3" = {
+			"isa" = "XCConfigurationList";
+			"buildConfigurations" = ( "1F52A64BC83643B4BCECC897", "1C906E53AA17453E969FF274" );
+			"defaultConfigurationIsVisible" = 0;
+			"defaultConfigurationName" = "Release";
+		};
+		"B691C7FAA873453C8B8EDD1F" = {
+			"isa" = "XCBuildConfiguration";
+			"name" = "Debug";
+			"buildSettings" = {
+				"CLANG_ENABLE_OBJC_ARC" = "YES";
+				"SWIFT_VERSION" = "5.0";
+				"IPHONEOS_DEPLOYMENT_TARGET" = "17.4";
+				"SDKROOT" = "iphoneos";
+				"SWIFT_OPTIMIZATION_LEVEL" = "-Onone";
+				"GCC_PREPROCESSOR_DEFINITIONS" = ( "DEBUG=1", "$(inherited)" );
+				"SWIFT_ACTIVE_COMPILATION_CONDITIONS" = "DEBUG";
+			};
+		};
+		"FCB8BD4E30BF41DBA647CFD5" = {
+			"isa" = "XCBuildConfiguration";
+			"name" = "Release";
+			"buildSettings" = {
+				"OTHER_LDFLAGS" = ( "$(inherited)", "-Wl,-oso_prefix,$(SRCROOT)/" );
+				"STRIP_INSTALLED_PRODUCT" = "YES";
+				"DEPLOYMENT_POSTPROCESSING" = "YES";
+				"COPY_PHASE_STRIP" = "YES";
+				"STRIP_STYLE" = "non-global";
+				"SWIFT_SERIALIZE_DEBUGGING_OPTIONS" = "NO";
+				"DEBUG_INFORMATION_FORMAT" = "";
+				"CLANG_ENABLE_OBJC_ARC" = "YES";
+				"SWIFT_VERSION" = "5.0";
+				"IPHONEOS_DEPLOYMENT_TARGET" = "17.4";
+				"SDKROOT" = "iphoneos";
+				"SWIFT_OPTIMIZATION_LEVEL" = "-O";
+				"SWIFT_COMPILATION_MODE" = "wholemodule";
+			};
+		};
+		"E79838BE14A244F6B6DD2F88" = {
+			"isa" = "XCConfigurationList";
+			"buildConfigurations" = ( "B691C7FAA873453C8B8EDD1F", "FCB8BD4E30BF41DBA647CFD5" );
+			"defaultConfigurationIsVisible" = 0;
+			"defaultConfigurationName" = "Release";
+		};
+		"4E09A3E16CA24F59A218A377" = { "isa" = "PBXBuildFile"; "fileRef" = "623A9D529C1B43478481352C"; };
+	};
+	"rootObject" = "348A30D4E35742E88C91CE94";
+}

@@ -1,0 +1,93 @@
+Skipped export for V8Checks/testBundledCookbookIsComplete(): no matching attachments
+
+Skipped export for V8Checks/testCalendarWeekWindow(): no matching attachments
+
+Skipped export for V8Checks/testCloudMergeKeepsLatestAndTombstones(): no matching attachments
+
+Skipped export for V8Checks/testDailyRollsOver(): no matching attachments
+
+Skipped export for V8Checks/testFuturePlansReachWidgetCache(): no matching attachments
+
+Skipped export for V8Checks/testMilkMeasuresAggregate(): no matching attachments
+
+Skipped export for V8Checks/testPantryUsesEveryIngredient(): no matching attachments
+
+Skipped export for V8Checks/testPlanDeletionAndShopping(): no matching attachments
+
+Skipped export for V8Checks/testSaveReloadAndStepBoundaries(): no matching attachments
+
+Skipped export for V8Checks/testScaledMethod(): no matching attachments
+
+Skipped export for V8Checks/testSharedIngredientAggregationAndScale(): no matching attachments
+
+Skipped export for V8Checks/testSinglePortionLabel(): no matching attachments
+
+Skipped export for V8Checks/testTextAndCategory(): no matching attachments
+
+Skipped export for V8Checks/testTimerPauseResumeCancel(): no matching attachments
+
+Exported 6 attachments for: V8Checks/testWidgetFamilyRendersOffline():
+File: 6D526AE3-5D89-4F78-89B4-54DBACBAA92E.png, suggested name: "widget-lock-inline_0_CAF39249-E151-453B-86BA-30547BD23E7B.png"
+File: 86ED2EF2-FBB2-4B34-9335-231446CDC786.png, suggested name: "widget-lock-circle_0_58D25E4C-73A2-49D0-8527-F4F8BE547659.png"
+File: D10D8B9B-4F2A-4C47-AC7E-1B922F9C3BDC.png, suggested name: "widget-lock-rect_0_057B429B-E6F0-4C19-8EAD-02B608159145.png"
+File: 28C1D68E-315A-4A68-BEC3-B7052D5E44DE.png, suggested name: "widget-large_0_E5B7456E-2A58-4B4F-80A5-FA7B3CEF6DE7.png"
+File: 6A04B937-9FAF-4FE1-915F-EAF5D4978EA9.png, suggested name: "widget-medium_0_ACE03D24-8D7F-41F5-9BA8-DC94F92C5D48.png"
+File: 9B0F22C3-5D77-455A-9E2D-38F0331D06B6.png, suggested name: "widget-small_0_D0F3FC7B-E99C-4D71-8065-F7A20A3D5252.png"
+
+Exported 2 attachments for: V8Journey/testFrenchAndGermanLaunch():
+File: 6426C44A-FE91-489F-BDBC-FF6417A9A271.png, suggested name: "09-de-home_0_2F653616-D5EE-4376-9CA0-C1746D633280.png"
+File: 8AF0C4B2-33B8-49D9-9941-FAFF60A19E33.png, suggested name: "08-fr-home_0_A8686356-A4EB-4210-9FFD-BC322D07C133.png"
+
+Exported 6 attachments for: V8Journey/testKitchenFlowAndPersistence():
+File: F6DF0092-6562-46F0-A639-DF1A2B6E8C5C.png, suggested name: "06-favorites_0_59B9B620-FBDB-4525-92A6-078C37D37A88.png"
+File: 4F25C0A7-1714-4A3C-8785-2BC5A2AF9A54.png, suggested name: "05-planner_0_5A1897A7-C290-4589-9880-E7B90252A9E9.png"
+File: 92DC0FF8-B34B-4F01-9B45-F38500400144.png, suggested name: "04-shopping_0_09CDC1F2-AC2A-4DD1-9E29-460C1865F3C2.png"
+File: 8EBFD200-CFFC-4803-B512-878E30BA1063.png, suggested name: "03-cooking-step-two_0_5F08D8AF-8AE4-4449-B185-1E6CDCED8645.png"
+File: 72D41BB8-D23A-4C70-9125-841882624281.png, suggested name: "02-recipe_0_293F9E14-30B6-4E74-A93A-1EEE913884B5.png"
+File: 0C63ED5E-15B8-4B9F-B515-D20852286C98.png, suggested name: "01-en-home_0_176A87A9-BCA5-4AB3-9B03-7FF7A4E6EEBC.png"
+
+Exported 2 attachments for: V8Journey/testPortuguesePreferences():
+File: 4C638682-4F3C-4F2C-86E8-225753835CBB.png, suggested name: "11-pt-preferences_0_98679190-D0FE-4C16-9DCC-788917E0739B.png"
+File: B42486E9-B0D8-4D43-A681-BE6C8DDADD79.png, suggested name: "10-pt-home_0_645553DD-CB3E-4F3B-85E7-255E5FF06EC3.png"
+
+Exported 18 attachments for: V8Journey/testRemindersPermissionResponse():
+File: DAFA6B67-A2F6-4F8B-B53A-7DB12DD5F896, suggested name: "Synthesized Event 2026-11-15 at 03.34.11 PM"
+File: 9562C071-FFD0-41D9-9859-7B98A3AF59B0.png, suggested name: "14-reminders-permission-response_0_4823AE96-19B2-4A51-AD20-645BC1368BE6.png"
+File: FA6079FF-5D11-4FB4-A785-1FD9313AC131.txt, suggested name: "App UI hierarchy for com.apple_0_345FA8D0-8227-4C1F-8E60-917DED9C05D8.springboard"
+File: 4F817E7A-3AA3-4CA4-9538-D740F48C377F, suggested name: "UI Snapshot 2026-11-15 at 03.34.10 PM"
+File: AD95CF69-BE23-463F-8126-CC1FA0FEC9FF.txt, suggested name: "Debug description for `"Don’t Allow" ButtoError: Failed to generate manifest.json: file already exists.
+n`_0_57C15D5F-AA9A-45F0-8589-879C5EADD9DD.txt"
+File: CA662353-5F93-410F-A150-2D77A8ECCA60.txt, suggested name: "Debug description for `"Don’t Allow" Button`_0_CCE83A69-1664-446C-BD3F-155EAED82D73.txt"
+File: BAFE1CDF-176C-4BCF-90D4-C58877A1952F.txt, suggested name: "Debug description for `"Don’t Allow" Button`_0_CEF5CE84-882B-444E-AA67-15564E48AC48.txt"
+File: 9937B0D5-4747-48A3-B1C7-BE0DDA0942E0.txt, suggested name: "Debug description for `"Don’t Allow" Button`_0_4A48C64D-3CD3-45CF-B67B-0E419895198F.txt"
+File: 73DD685F-91DA-4025-8F98-D332C0DB778A.txt, suggested name: "Debug description for `"Don’t Allow" Button`_0_8FDA63D6-289B-4018-BB92-0486AC097E39.txt"
+File: 4E9840C2-0AA6-43AD-9F84-E48A4B07621F.txt, suggested name: "Debug description for `"Don’t Allow" Button`_0_DF9F95F6-7281-4CA9-9BC8-A7F7F6BEE037.txt"
+File: 55AE13FE-E3B9-4163-8B48-65A8E794BEBB.txt, suggested name: "Debug description for `"Don’t Allow" Button`_0_F8457AD4-E739-4223-A9A4-BDACDAD73610.txt"
+File: 69AA8296-DA9B-456C-AEC8-43C4D6930E5A.txt, suggested name: "Debug description for `"Don’t Allow" Button`_0_B32877E8-5FCC-4002-ACCC-DF0DE36A23B9.txt"
+File: 66489B06-EE90-4CFD-8497-6C06F3619EA6, suggested name: "Synthesized Event 2026-11-15 at 03.34.02 PM"
+File: BEBC6126-4E9A-4DDB-B93A-7464A020429E, suggested name: "Synthesized Event 2026-11-15 at 03.34.00 PM"
+File: 02B32AA7-B340-4E73-805F-0641C1206CC0, suggested name: "Synthesized Event 2026-11-15 at 03.33.58 PM"
+File: A9FB30D1-2CD8-4FD5-96C0-FB89D5369483, suggested name: "Synthesized Event 2026-11-15 at 03.33.58 PM"
+File: 91A640FF-7E3B-429E-B508-7E1654144B9B, suggested name: "Synthesized Event 2026-11-15 at 03.33.56 PM"
+File: 5A13F096-9488-46A0-B4FE-C8470BAA9051.mp4, suggested name: "Screen Recording 2026-11-15 at 03.33.51 PM.mp4"
+
+Exported 19 attachments for: V8Journey/testSearchAndPantry():
+File: C46F6141-DF9E-4405-9A49-65A0700EF3F3, suggested name: "UI Snapshot 2026-11-15 at 03.34.26 PM"
+File: 486E364C-5D10-4C1B-A1CF-03700460CA96, suggested name: "Synthesized Event 2026-11-15 at 03.34.27 PM"
+File: 0843ED69-E266-4B62-8FF2-8EE20921877E, suggested name: "UI Snapshot 2026-11-15 at 03.34.24 PM"
+File: 28993D3A-C742-4A2C-B8EB-1843803D94A8, suggested name: "Synthesized Event 2026-11-15 at 03.34.24 PM"
+File: 3343C5C0-806C-4753-A3F8-1A1070C3C73E, suggested name: "UI Snapshot 2026-11-15 at 03.34.22 PM"
+File: B3C36094-CF1E-4537-B367-FCE323C0EFA2, suggested name: "Synthesized Event 2026-11-15 at 03.34.23 PM"
+File: D605317C-1DE0-44C9-BF3F-A9828ABB508A, suggested name: "UI Snapshot 2026-11-15 at 03.34.21 PM"
+File: 22E02E9A-B0CA-47FB-AD04-9ECE36B0EED2, suggested name: "Synthesized Event 2026-11-15 at 03.34.22 PM"
+File: E9768255-E003-40FD-9D2A-9B3BF909E3C6.png, suggested name: "12-search_0_810CBB94-182F-472D-95E7-C6BA975FFA99.png"
+File: DA1FD1A3-4753-44CB-9443-243121FBE946, suggested name: "UI Snapshot 2026-11-15 at 03.34.20 PM"
+File: 52220505-A76D-438D-8DB4-619BD3DEAD91, suggested name: "Synthesized Event 2026-11-15 at 03.34.20 PM"
+File: F9F3075D-ECA7-428C-86C1-F3C29B4C8547, suggested name: "UI Snapshot 2026-11-15 at 03.34.19 PM"
+File: 8644A3E2-FC53-4711-A401-7F452E78F2E0, suggested name: "Synthesized Event 2026-11-15 at 03.34.19 PM"
+File: 454A6B0A-4365-440B-8CAA-21241819543D, suggested name: "UI Snapshot 2026-11-15 at 03.34.16 PM"
+File: 2A3376AF-14CD-4F19-9065-678B07AC511B, suggested name: "Synthesized Event 2026-11-15 at 03.34.17 PM"
+File: 9D6594C3-2DAD-4F6E-9CCB-8129792AEACC.mp4, suggested name: "Screen Recording 2026-11-15 at 03.34.12 PM.mp4"
+File: 68EFAE1D-8E04-4A9B-B7D3-97BC8C008B24.txt, suggested name: "Complete Issue Description.txt"
+File: 187752CB-927D-4C96-829C-DDB399ABEF8F.txt, suggested name: "App UI hierarchy for studio.meringue.folio_0_2ACFB1C1-373A-467F-8A21-BDE3BE0F21F5.d743"
+File: D12421C6-CBA5-4499-9AD1-18DB6D738DD4, suggested name: "UI Snapshot 2026-11-15 at 03.34.29 PM"

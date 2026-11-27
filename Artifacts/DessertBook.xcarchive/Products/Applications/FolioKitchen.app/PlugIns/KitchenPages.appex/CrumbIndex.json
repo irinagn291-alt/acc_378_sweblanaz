@@ -1,0 +1,1544 @@
+[
+  {
+    "id": "cupcake",
+    "title": {
+      "en": "Vanilla cloud cupcakes",
+      "de": "Vanille-Wolkenküchlein",
+      "fr": "Cupcakes nuage à la vanille",
+      "pt-BR": "Cupcakes nuvem de baunilha"
+    },
+    "intro": {
+      "en": "A soft crumb, a swirl of pink, a little joy.",
+      "de": "Zarte Küchlein mit rosa Creme für kleine Genussmomente.",
+      "fr": "Une mie tendre et une touche de crème rose.",
+      "pt-BR": "Massa macia e uma delicada cobertura rosa."
+    },
+    "category": "cake",
+    "minutes": 45,
+    "servings": 6,
+    "seasons": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "allergens": {
+      "en": "Wheat, eggs, milk.",
+      "de": "Weizen, Eier, Milch.",
+      "fr": "Blé, œufs, lait.",
+      "pt-BR": "Trigo, ovos, leite."
+    },
+    "ingredients": [
+      {
+        "id": "flour",
+        "amount": 120,
+        "unit": "g",
+        "name": {
+          "en": "Plain flour",
+          "de": "Weizenmehl",
+          "fr": "Farine de blé",
+          "pt-BR": "Farinha de trigo"
+        }
+      },
+      {
+        "id": "sugar",
+        "amount": 90,
+        "unit": "g",
+        "name": {
+          "en": "Sugar",
+          "de": "Zucker",
+          "fr": "Sucre",
+          "pt-BR": "Açúcar"
+        }
+      },
+      {
+        "id": "butter",
+        "amount": 120,
+        "unit": "g",
+        "name": {
+          "en": "Butter",
+          "de": "Butter",
+          "fr": "Beurre",
+          "pt-BR": "Manteiga"
+        }
+      },
+      {
+        "id": "egg",
+        "amount": 1,
+        "unit": "piece",
+        "name": {
+          "en": "Eggs",
+          "de": "Eier",
+          "fr": "Œufs",
+          "pt-BR": "Ovos"
+        }
+      },
+      {
+        "id": "milk",
+        "amount": 60,
+        "unit": "ml",
+        "name": {
+          "en": "Milk",
+          "de": "Milch",
+          "fr": "Lait",
+          "pt-BR": "Leite"
+        }
+      },
+      {
+        "id": "bakingpowder",
+        "amount": 1,
+        "unit": "tsp",
+        "name": {
+          "en": "Baking powder",
+          "de": "Backpulver",
+          "fr": "Levure chimique",
+          "pt-BR": "Fermento químico"
+        }
+      },
+      {
+        "id": "vanilla",
+        "amount": 1,
+        "unit": "tsp",
+        "name": {
+          "en": "Vanilla extract",
+          "de": "Vanilleextrakt",
+          "fr": "Extrait de vanille",
+          "pt-BR": "Extrato de baunilha"
+        }
+      },
+      {
+        "id": "icingsugar",
+        "amount": 100,
+        "unit": "g",
+        "name": {
+          "en": "Icing sugar",
+          "de": "Puderzucker",
+          "fr": "Sucre glace",
+          "pt-BR": "Açúcar de confeiteiro"
+        }
+      },
+      {
+        "id": "berries",
+        "amount": 30,
+        "unit": "g",
+        "name": {
+          "en": "Mixed berries",
+          "de": "Beerenmischung",
+          "fr": "Fruits rouges",
+          "pt-BR": "Frutas vermelhas"
+        }
+      }
+    ],
+    "steps": [
+      {
+        "text": {
+          "en": "Heat a conventional oven to 175°C. Line a six-hole muffin tin. Set aside [[half]] g of the butter for the frosting.",
+          "de": "Backofen auf 175 °C Ober-/Unterhitze vorheizen. Sechs Muffinmulden auslegen. [[half]] g Butter für die Creme beiseitestellen.",
+          "fr": "Préchauffez le four traditionnel à 175 °C. Garnissez six moules de caissettes. Réservez [[half]] g de beurre pour la crème.",
+          "pt-BR": "Preaqueça o forno convencional a 175 °C. Forre seis formas de cupcake. Reserve [[half]] g da manteiga para a cobertura."
+        },
+        "seconds": 0
+      },
+      {
+        "text": {
+          "en": "Beat the remaining [[half]] g soft butter with the sugar until pale. Beat in the egg and vanilla.",
+          "de": "Übrige [[half]] g weiche Butter mit Zucker hell aufschlagen. Ei und Vanille unterrühren.",
+          "fr": "Fouettez les [[half]] g de beurre mou restants avec le sucre. Ajoutez l’œuf et la vanille.",
+          "pt-BR": "Bata os [[half]] g restantes de manteiga macia com o açúcar. Junte o ovo e a baunilha."
+        },
+        "seconds": 0
+      },
+      {
+        "text": {
+          "en": "Fold in flour and baking powder, alternating with milk. Divide between the cases, filling each two-thirds full.",
+          "de": "Mehl und Backpulver abwechselnd mit Milch unterheben. Förmchen zu zwei Dritteln füllen.",
+          "fr": "Incorporez farine et levure en alternant avec le lait. Remplissez les caissettes aux deux tiers.",
+          "pt-BR": "Incorpore a farinha e o fermento alternando com o leite. Encha as formas até dois terços."
+        },
+        "seconds": 0
+      },
+      {
+        "text": {
+          "en": "Bake for 18–20 minutes, until a skewer comes out clean. Cool completely before frosting.",
+          "de": "18–20 Minuten backen, bis die Stäbchenprobe sauber ist. Vor dem Verzieren ganz abkühlen lassen.",
+          "fr": "Faites cuire 18 à 20 minutes, jusqu’à ce qu’une pique ressorte propre. Laissez refroidir complètement.",
+          "pt-BR": "Asse por 18–20 minutos, até um palito sair limpo. Espere esfriar completamente."
+        },
+        "seconds": 1200
+      },
+      {
+        "text": {
+          "en": "Beat reserved butter with icing sugar. Mash the berries, strain, and add a few drops to tint the cream. Spread or pipe onto the cool cakes. Refrigerate and eat within 2 days.",
+          "de": "Reservierte Butter mit Puderzucker aufschlagen. Beeren zerdrücken, passieren und die Creme mit etwas Saft färben. Auf die kalten Küchlein geben. Kühl lagern und binnen 2 Tagen essen.",
+          "fr": "Fouettez le beurre réservé et le sucre glace. Écrasez et filtrez les fruits, puis ajoutez quelques gouttes pour colorer. Décorez les gâteaux froids. Conservez au frais et consommez sous 2 jours.",
+          "pt-BR": "Bata a manteiga reservada com o açúcar de confeiteiro. Amasse e coe as frutas; use algumas gotas para colorir. Cubra os bolinhos frios. Refrigere e consuma em até 2 dias."
+        },
+        "seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "brownie",
+    "title": {
+      "en": "Fudgy cocoa brownies",
+      "de": "Saftige Schoko-Brownies",
+      "fr": "Brownies fondants au cacao",
+      "pt-BR": "Brownies cremosos de cacau"
+    },
+    "intro": {
+      "en": "Deep chocolate. Crisp edges. A soft middle.",
+      "de": "Viel Schokolade, knuspriger Rand, weicher Kern.",
+      "fr": "Du chocolat intense, un cœur tendre.",
+      "pt-BR": "Chocolate intenso e um centro macio."
+    },
+    "category": "quick",
+    "minutes": 40,
+    "servings": 8,
+    "seasons": [
+      1,
+      4
+    ],
+    "allergens": {
+      "en": "Wheat, eggs, milk. Check chocolate label.",
+      "de": "Weizen, Eier, Milch. Schokoladenetikett prüfen.",
+      "fr": "Blé, œufs, lait. Vérifiez le chocolat.",
+      "pt-BR": "Trigo, ovos, leite. Confira o rótulo do chocolate."
+    },
+    "ingredients": [
+      {
+        "id": "chocolate",
+        "amount": 150,
+        "unit": "g",
+        "name": {
+          "en": "Dark chocolate",
+          "de": "Zartbitterschokolade",
+          "fr": "Chocolat noir",
+          "pt-BR": "Chocolate amargo"
+        }
+      },
+      {
+        "id": "butter",
+        "amount": 100,
+        "unit": "g",
+        "name": {
+          "en": "Butter",
+          "de": "Butter",
+          "fr": "Beurre",
+          "pt-BR": "Manteiga"
+        }
+      },
+      {
+        "id": "sugar",
+        "amount": 140,
+        "unit": "g",
+        "name": {
+          "en": "Sugar",
+          "de": "Zucker",
+          "fr": "Sucre",
+          "pt-BR": "Açúcar"
+        }
+      },
+      {
+        "id": "egg",
+        "amount": 2,
+        "unit": "piece",
+        "name": {
+          "en": "Eggs",
+          "de": "Eier",
+          "fr": "Œufs",
+          "pt-BR": "Ovos"
+        }
+      },
+      {
+        "id": "flour",
+        "amount": 60,
+        "unit": "g",
+        "name": {
+          "en": "Plain flour",
+          "de": "Weizenmehl",
+          "fr": "Farine de blé",
+          "pt-BR": "Farinha de trigo"
+        }
+      },
+      {
+        "id": "cocoa",
+        "amount": 20,
+        "unit": "g",
+        "name": {
+          "en": "Cocoa powder",
+          "de": "Kakaopulver",
+          "fr": "Cacao en poudre",
+          "pt-BR": "Cacau em pó"
+        }
+      }
+    ],
+    "steps": [
+      {
+        "text": {
+          "en": "Heat a conventional oven to 175°C. Line a 20 cm square tin with baking paper.",
+          "de": "Backofen auf 175 °C Ober-/Unterhitze vorheizen. Eine 20-cm-Form mit Backpapier auslegen.",
+          "fr": "Préchauffez le four traditionnel à 175 °C. Chemisez un moule carré de 20 cm.",
+          "pt-BR": "Preaqueça o forno convencional a 175 °C. Forre uma forma quadrada de 20 cm."
+        },
+        "seconds": 0
+      },
+      {
+        "text": {
+          "en": "Melt chocolate and butter in a bowl over gently simmering water. Remove from heat and cool for 5 minutes.",
+          "de": "Schokolade und Butter über einem sanft siedenden Wasserbad schmelzen. Vom Herd nehmen und 5 Minuten abkühlen lassen.",
+          "fr": "Faites fondre chocolat et beurre au bain-marie doux. Retirez du feu et laissez tiédir 5 minutes.",
+          "pt-BR": "Derreta o chocolate e a manteiga em banho-maria suave. Retire do fogo e deixe amornar por 5 minutos."
+        },
+        "seconds": 0
+      },
+      {
+        "text": {
+          "en": "Whisk eggs and sugar for 2 minutes. Stir in the chocolate mixture, then fold in flour and cocoa just until combined.",
+          "de": "Eier und Zucker 2 Minuten aufschlagen. Schokoladenmasse einrühren, dann Mehl und Kakao kurz unterheben.",
+          "fr": "Fouettez œufs et sucre 2 minutes. Incorporez le chocolat, puis délicatement farine et cacao.",
+          "pt-BR": "Bata os ovos e o açúcar por 2 minutos. Misture o chocolate e incorpore a farinha e o cacau sem bater demais."
+        },
+        "seconds": 0
+      },
+      {
+        "text": {
+          "en": "Spread in the tin. Bake 22–25 minutes: edges should be set and a skewer should carry moist crumbs, not raw batter.",
+          "de": "In die Form geben. 22–25 Minuten backen: Der Rand soll fest sein, am Stäbchen dürfen feuchte Krümel, aber kein roher Teig haften.",
+          "fr": "Versez dans le moule. Cuisez 22 à 25 minutes : les bords sont pris et une pique porte des miettes humides, pas de pâte crue.",
+          "pt-BR": "Espalhe na forma. Asse por 22–25 minutos: as bordas devem estar firmes e o palito com migalhas úmidas, sem massa crua."
+        },
+        "seconds": 1500
+      },
+      {
+        "text": {
+          "en": "Cool fully in the tin before cutting into 8 squares. Keep in an airtight container for up to 3 days.",
+          "de": "In der Form ganz abkühlen lassen und in 8 Stücke schneiden. Luftdicht bis zu 3 Tage aufbewahren.",
+          "fr": "Laissez refroidir dans le moule et coupez en 8 carrés. Conservez dans une boîte hermétique jusqu’à 3 jours.",
+          "pt-BR": "Deixe esfriar na forma e corte em 8 quadrados. Guarde em recipiente fechado por até 3 dias."
+        },
+        "seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "lemon",
+    "title": {
+      "en": "Sunday lemon loaf",
+      "de": "Sonntags-Zitronenkuchen",
+      "fr": "Cake au citron du dimanche",
+      "pt-BR": "Bolo de limão de domingo"
+    },
+    "intro": {
+      "en": "Bright citrus under a delicate lemon glaze.",
+      "de": "Frische Zitrone unter einer feinen Glasur.",
+      "fr": "Un cake lumineux au glaçage délicat.",
+      "pt-BR": "Sabor cítrico com uma cobertura delicada."
+    },
+    "category": "cake",
+    "minutes": 65,
+    "servings": 8,
+    "seasons": [
+      1,
+      2
+    ],
+    "allergens": {
+      "en": "Wheat, eggs, milk.",
+      "de": "Weizen, Eier, Milch.",
+      "fr": "Blé, œufs, lait.",
+      "pt-BR": "Trigo, ovos, leite."
+    },
+    "ingredients": [
+      {
+        "id": "flour",
+        "amount": 180,
+        "unit": "g",
+        "name": {
+          "en": "Plain flour",
+          "de": "Weizenmehl",
+          "fr": "Farine de blé",
+          "pt-BR": "Farinha de trigo"
+        }
+      },
+      {
+        "id": "butter",
+        "amount": 120,
+        "unit": "g",
+        "name": {
+          "en": "Butter",
+          "de": "Butter",
+          "fr": "Beurre",
+          "pt-BR": "Manteiga"
+        }
+      },
+      {
+        "id": "sugar",
+        "amount": 130,
+        "unit": "g",
+        "name": {
+          "en": "Sugar",
+          "de": "Zucker",
+          "fr": "Sucre",
+          "pt-BR": "Açúcar"
+        }
+      },
+      {
+        "id": "egg",
+        "amount": 2,
+        "unit": "piece",
+        "name": {
+          "en": "Eggs",
+          "de": "Eier",
+          "fr": "Œufs",
+          "pt-BR": "Ovos"
+        }
+      },
+      {
+        "id": "milk",
+        "amount": 60,
+        "unit": "ml",
+        "name": {
+          "en": "Milk",
+          "de": "Milch",
+          "fr": "Lait",
+          "pt-BR": "Leite"
+        }
+      },
+      {
+        "id": "lemon",
+        "amount": 1,
+        "unit": "piece",
+        "name": {
+          "en": "Lemon",
+          "de": "Zitrone",
+          "fr": "Citron",
+          "pt-BR": "Limão-siciliano"
+        }
+      },
+      {
+        "id": "bakingpowder",
+        "amount": 1.5,
+        "unit": "tsp",
+        "name": {
+          "en": "Baking powder",
+          "de": "Backpulver",
+          "fr": "Levure chimique",
+          "pt-BR": "Fermento químico"
+        }
+      },
+      {
+        "id": "icingsugar",
+        "amount": 80,
+        "unit": "g",
+        "name": {
+          "en": "Icing sugar",
+          "de": "Puderzucker",
+          "fr": "Sucre glace",
+          "pt-BR": "Açúcar de confeiteiro"
+        }
+      }
+    ],
+    "steps": [
+      {
+        "text": {
+          "en": "Heat a conventional oven to 170°C. Grease and line a 20 × 10 cm loaf tin. Wash and zest the lemon; reserve the juice.",
+          "de": "Backofen auf 170 °C Ober-/Unterhitze vorheizen. Eine 20 × 10 cm Kastenform auslegen. Zitrone waschen und abreiben, Saft aufbewahren.",
+          "fr": "Préchauffez le four traditionnel à 170 °C. Chemisez un moule à cake de 20 × 10 cm. Lavez et zestez le citron ; réservez le jus.",
+          "pt-BR": "Preaqueça o forno convencional a 170 °C. Unte e forre uma forma de 20 × 10 cm. Lave e raspe o limão; reserve o suco."
+        },
+        "seconds": 0
+      },
+      {
+        "text": {
+          "en": "Beat soft butter, sugar and zest until light. Add eggs one at a time, beating after each.",
+          "de": "Weiche Butter, Zucker und Abrieb hell aufschlagen. Eier einzeln unterrühren.",
+          "fr": "Fouettez beurre mou, sucre et zeste. Ajoutez les œufs un à un en fouettant.",
+          "pt-BR": "Bata a manteiga macia, o açúcar e as raspas. Adicione os ovos, um de cada vez."
+        },
+        "seconds": 0
+      },
+      {
+        "text": {
+          "en": "Fold in flour and baking powder with the milk. Spoon into the tin and level the surface.",
+          "de": "Mehl und Backpulver mit Milch unterheben. In die Form füllen und glatt streichen.",
+          "fr": "Incorporez farine et levure avec le lait. Versez dans le moule et lissez.",
+          "pt-BR": "Incorpore a farinha e o fermento com o leite. Coloque na forma e nivele."
+        },
+        "seconds": 0
+      },
+      {
+        "text": {
+          "en": "Bake for 40–45 minutes, until golden and a skewer comes out clean. Cool for 10 minutes in the tin, then transfer to a rack.",
+          "de": "40–45 Minuten goldgelb backen; Stäbchenprobe machen. 10 Minuten in der Form, dann auf einem Gitter abkühlen lassen.",
+          "fr": "Cuisez 40 à 45 minutes, jusqu’à ce qu’une pique ressorte propre. Laissez 10 minutes dans le moule, puis sur une grille.",
+          "pt-BR": "Asse por 40–45 minutos, até dourar e um palito sair limpo. Espere 10 minutos na forma e transfira para uma grade."
+        },
+        "seconds": 2700
+      },
+      {
+        "text": {
+          "en": "Mix icing sugar with 1–2 tablespoons lemon juice to make a thick glaze. Spoon over the cold loaf. Keep covered for up to 3 days.",
+          "de": "Puderzucker mit 1–2 EL Zitronensaft zu einer dicken Glasur rühren. Über den kalten Kuchen geben. Abgedeckt bis zu 3 Tage lagern.",
+          "fr": "Mélangez le sucre glace avec 1 à 2 cuillères à soupe de jus. Nappez le cake froid. Conservez couvert jusqu’à 3 jours.",
+          "pt-BR": "Misture o açúcar de confeiteiro com 1–2 colheres de sopa de suco. Cubra o bolo frio. Guarde coberto por até 3 dias."
+        },
+        "seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "berry",
+    "title": {
+      "en": "Berry yogurt cups",
+      "de": "Beeren-Joghurtgläser",
+      "fr": "Verrines aux fruits rouges",
+      "pt-BR": "Taças de iogurte e frutas"
+    },
+    "intro": {
+      "en": "A cool, no-bake dessert in ten minutes.",
+      "de": "Ein kühles Dessert ohne Backen in zehn Minuten.",
+      "fr": "Un dessert frais sans cuisson en dix minutes.",
+      "pt-BR": "Uma sobremesa fresca sem forno em dez minutos."
+    },
+    "category": "nobake",
+    "minutes": 10,
+    "servings": 2,
+    "seasons": [
+      2,
+      3
+    ],
+    "allergens": {
+      "en": "Milk, oats. Honey is unsuitable for babies under 12 months.",
+      "de": "Milch, Hafer. Honig ist für Babys unter 12 Monaten ungeeignet.",
+      "fr": "Lait, avoine. Pas de miel avant 12 mois.",
+      "pt-BR": "Leite, aveia. Mel não é indicado para menores de 12 meses."
+    },
+    "ingredients": [
+      {
+        "id": "yogurt",
+        "amount": 300,
+        "unit": "g",
+        "name": {
+          "en": "Greek yogurt",
+          "de": "Griechischer Joghurt",
+          "fr": "Yaourt grec",
+          "pt-BR": "Iogurte grego"
+        }
+      },
+      {
+        "id": "berries",
+        "amount": 200,
+        "unit": "g",
+        "name": {
+          "en": "Mixed berries",
+          "de": "Beerenmischung",
+          "fr": "Fruits rouges",
+          "pt-BR": "Frutas vermelhas"
+        }
+      },
+      {
+        "id": "honey",
+        "amount": 1,
+        "unit": "tbsp",
+        "name": {
+          "en": "Honey",
+          "de": "Honig",
+          "fr": "Miel",
+          "pt-BR": "Mel"
+        }
+      },
+      {
+        "id": "oats",
+        "amount": 30,
+        "unit": "g",
+        "name": {
+          "en": "Rolled oats",
+          "de": "Haferflocken",
+          "fr": "Flocons d’avoine",
+          "pt-BR": "Aveia em flocos"
+        }
+      }
+    ],
+    "steps": [
+      {
+        "text": {
+          "en": "Wash the berries and pat dry. Reserve a few for the top; gently crush the rest with a fork.",
+          "de": "Beeren waschen und trocken tupfen. Einige zum Garnieren aufbewahren, übrige mit einer Gabel zerdrücken.",
+          "fr": "Lavez et séchez les fruits. Réservez-en quelques-uns et écrasez le reste à la fourchette.",
+          "pt-BR": "Lave e seque as frutas. Reserve algumas para decorar e amasse o restante com um garfo."
+        },
+        "seconds": 0
+      },
+      {
+        "text": {
+          "en": "Stir honey into the yogurt. Divide half the yogurt between two clean glasses.",
+          "de": "Honig in den Joghurt rühren. Die Hälfte auf zwei saubere Gläser verteilen.",
+          "fr": "Mélangez miel et yaourt. Répartissez la moitié dans deux verres propres.",
+          "pt-BR": "Misture o mel ao iogurte. Divida metade entre dois copos limpos."
+        },
+        "seconds": 0
+      },
+      {
+        "text": {
+          "en": "Add the crushed berries, then the remaining yogurt. Scatter oats and whole berries over the top.",
+          "de": "Zerdrückte Beeren, dann restlichen Joghurt einschichten. Mit Haferflocken und ganzen Beeren bestreuen.",
+          "fr": "Ajoutez les fruits écrasés, puis le yaourt restant. Parsemez d’avoine et de fruits entiers.",
+          "pt-BR": "Adicione as frutas amassadas e o iogurte restante. Cubra com aveia e as frutas inteiras."
+        },
+        "seconds": 0
+      },
+      {
+        "text": {
+          "en": "Serve immediately, or cover and refrigerate for up to 24 hours. Add oats just before serving if you prefer a firmer texture.",
+          "de": "Sofort servieren oder abgedeckt bis zu 24 Stunden kühlen. Für festere Flocken diese erst vor dem Servieren zugeben.",
+          "fr": "Servez aussitôt ou couvrez et réfrigérez jusqu’à 24 heures. Pour garder la texture, ajoutez l’avoine au dernier moment.",
+          "pt-BR": "Sirva na hora ou cubra e refrigere por até 24 horas. Para manter a textura, acrescente a aveia apenas ao servir."
+        },
+        "seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "cookie",
+    "title": {
+      "en": "Honey oat cookies",
+      "de": "Honig-Hafer-Kekse",
+      "fr": "Biscuits avoine et miel",
+      "pt-BR": "Biscoitos de aveia e mel"
+    },
+    "intro": {
+      "en": "Golden little cookies for the afternoon table.",
+      "de": "Goldene kleine Kekse zum Nachmittagskaffee.",
+      "fr": "Des biscuits dorés pour le goûter.",
+      "pt-BR": "Biscoitos dourados para o lanche."
+    },
+    "category": "quick",
+    "minutes": 30,
+    "servings": 12,
+    "seasons": [
+      1,
+      3,
+      4
+    ],
+    "allergens": {
+      "en": "Wheat, oats, milk. No honey for babies under 12 months.",
+      "de": "Weizen, Hafer, Milch. Kein Honig für Babys unter 12 Monaten.",
+      "fr": "Blé, avoine, lait. Pas de miel avant 12 mois.",
+      "pt-BR": "Trigo, aveia, leite. Sem mel para menores de 12 meses."
+    },
+    "ingredients": [
+      {
+        "id": "oats",
+        "amount": 120,
+        "unit": "g",
+        "name": {
+          "en": "Rolled oats",
+          "de": "Haferflocken",
+          "fr": "Flocons d’avoine",
+          "pt-BR": "Aveia em flocos"
+        }
+      },
+      {
+        "id": "flour",
+        "amount": 80,
+        "unit": "g",
+        "name": {
+          "en": "Plain flour",
+          "de": "Weizenmehl",
+          "fr": "Farine de blé",
+          "pt-BR": "Farinha de trigo"
+        }
+      },
+      {
+        "id": "butter",
+        "amount": 80,
+        "unit": "g",
+        "name": {
+          "en": "Butter",
+          "de": "Butter",
+          "fr": "Beurre",
+          "pt-BR": "Manteiga"
+        }
+      },
+      {
+        "id": "honey",
+        "amount": 3,
+        "unit": "tbsp",
+        "name": {
+          "en": "Honey",
+          "de": "Honig",
+          "fr": "Miel",
+          "pt-BR": "Mel"
+        }
+      },
+      {
+        "id": "sugar",
+        "amount": 40,
+        "unit": "g",
+        "name": {
+          "en": "Sugar",
+          "de": "Zucker",
+          "fr": "Sucre",
+          "pt-BR": "Açúcar"
+        }
+      },
+      {
+        "id": "bakingpowder",
+        "amount": 0.5,
+        "unit": "tsp",
+        "name": {
+          "en": "Baking powder",
+          "de": "Backpulver",
+          "fr": "Levure chimique",
+          "pt-BR": "Fermento químico"
+        }
+      },
+      {
+        "id": "milk",
+        "amount": 30,
+        "unit": "ml",
+        "name": {
+          "en": "Milk",
+          "de": "Milch",
+          "fr": "Lait",
+          "pt-BR": "Leite"
+        }
+      }
+    ],
+    "steps": [
+      {
+        "text": {
+          "en": "Heat a conventional oven to 180°C. Line two baking trays. Mix oats, flour, sugar and baking powder.",
+          "de": "Backofen auf 180 °C Ober-/Unterhitze vorheizen. Zwei Bleche auslegen. Haferflocken, Mehl, Zucker und Backpulver mischen.",
+          "fr": "Préchauffez le four traditionnel à 180 °C. Chemisez deux plaques. Mélangez avoine, farine, sucre et levure.",
+          "pt-BR": "Preaqueça o forno convencional a 180 °C. Forre duas assadeiras. Misture a aveia, a farinha, o açúcar e o fermento."
+        },
+        "seconds": 0
+      },
+      {
+        "text": {
+          "en": "Melt butter with honey over low heat. Remove from heat, stir in milk and add to the dry mixture.",
+          "de": "Butter mit Honig bei kleiner Hitze schmelzen. Vom Herd nehmen, Milch einrühren und zu den trockenen Zutaten geben.",
+          "fr": "Faites fondre beurre et miel à feu doux. Hors du feu, ajoutez le lait puis mélangez aux ingrédients secs.",
+          "pt-BR": "Derreta a manteiga com o mel em fogo baixo. Retire do fogo, junte o leite e misture aos ingredientes secos."
+        },
+        "seconds": 0
+      },
+      {
+        "text": {
+          "en": "Shape 12 small balls. Place well apart on the trays and flatten lightly with your palm.",
+          "de": "12 kleine Kugeln formen. Mit Abstand auf die Bleche legen und leicht flach drücken.",
+          "fr": "Formez 12 petites boules. Espacez-les sur les plaques et aplatissez légèrement.",
+          "pt-BR": "Forme 12 bolinhas. Coloque nas assadeiras com espaço entre elas e achate levemente."
+        },
+        "seconds": 0
+      },
+      {
+        "text": {
+          "en": "Bake for 12–15 minutes until golden at the edges. Cookies will firm up as they cool.",
+          "de": "12–15 Minuten backen, bis die Ränder goldbraun sind. Die Kekse werden beim Abkühlen fester.",
+          "fr": "Cuisez 12 à 15 minutes jusqu’à ce que les bords dorent. Les biscuits se raffermissent en refroidissant.",
+          "pt-BR": "Asse por 12–15 minutos, até dourar nas bordas. Os biscoitos ficam firmes ao esfriar."
+        },
+        "seconds": 900
+      },
+      {
+        "text": {
+          "en": "Cool on the trays for 5 minutes, then on a rack. Keep airtight for up to 4 days.",
+          "de": "5 Minuten auf dem Blech, dann auf einem Gitter abkühlen lassen. Luftdicht bis zu 4 Tage lagern.",
+          "fr": "Laissez 5 minutes sur les plaques, puis sur une grille. Gardez en boîte hermétique jusqu’à 4 jours.",
+          "pt-BR": "Espere 5 minutos na assadeira e transfira para uma grade. Guarde em pote fechado por até 4 dias."
+        },
+        "seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "apple",
+    "title": {
+      "en": "Orchard apple cake",
+      "de": "Apfelkuchen vom Obstgarten",
+      "fr": "Gâteau aux pommes du verger",
+      "pt-BR": "Bolo de maçã do pomar"
+    },
+    "intro": {
+      "en": "Tender apple slices with a touch of cinnamon.",
+      "de": "Zarte Apfelscheiben mit einem Hauch Zimt.",
+      "fr": "Des pommes fondantes et une touche de cannelle.",
+      "pt-BR": "Fatias macias de maçã com um toque de canela."
+    },
+    "category": "cake",
+    "minutes": 60,
+    "servings": 8,
+    "seasons": [
+      3,
+      4
+    ],
+    "allergens": {
+      "en": "Wheat, eggs, milk.",
+      "de": "Weizen, Eier, Milch.",
+      "fr": "Blé, œufs, lait.",
+      "pt-BR": "Trigo, ovos, leite."
+    },
+    "ingredients": [
+      {
+        "id": "apple",
+        "amount": 2,
+        "unit": "piece",
+        "name": {
+          "en": "Apples",
+          "de": "Äpfel",
+          "fr": "Pommes",
+          "pt-BR": "Maçãs"
+        }
+      },
+      {
+        "id": "flour",
+        "amount": 180,
+        "unit": "g",
+        "name": {
+          "en": "Plain flour",
+          "de": "Weizenmehl",
+          "fr": "Farine de blé",
+          "pt-BR": "Farinha de trigo"
+        }
+      },
+      {
+        "id": "sugar",
+        "amount": 120,
+        "unit": "g",
+        "name": {
+          "en": "Sugar",
+          "de": "Zucker",
+          "fr": "Sucre",
+          "pt-BR": "Açúcar"
+        }
+      },
+      {
+        "id": "butter",
+        "amount": 100,
+        "unit": "g",
+        "name": {
+          "en": "Butter",
+          "de": "Butter",
+          "fr": "Beurre",
+          "pt-BR": "Manteiga"
+        }
+      },
+      {
+        "id": "egg",
+        "amount": 2,
+        "unit": "piece",
+        "name": {
+          "en": "Eggs",
+          "de": "Eier",
+          "fr": "Œufs",
+          "pt-BR": "Ovos"
+        }
+      },
+      {
+        "id": "milk",
+        "amount": 60,
+        "unit": "ml",
+        "name": {
+          "en": "Milk",
+          "de": "Milch",
+          "fr": "Lait",
+          "pt-BR": "Leite"
+        }
+      },
+      {
+        "id": "bakingpowder",
+        "amount": 1.5,
+        "unit": "tsp",
+        "name": {
+          "en": "Baking powder",
+          "de": "Backpulver",
+          "fr": "Levure chimique",
+          "pt-BR": "Fermento químico"
+        }
+      },
+      {
+        "id": "cinnamon",
+        "amount": 1,
+        "unit": "tsp",
+        "name": {
+          "en": "Ground cinnamon",
+          "de": "Zimt",
+          "fr": "Cannelle moulue",
+          "pt-BR": "Canela em pó"
+        }
+      }
+    ],
+    "steps": [
+      {
+        "text": {
+          "en": "Heat a conventional oven to 175°C. Grease and line a 20 cm round tin. Core apples and cut into thin slices.",
+          "de": "Backofen auf 175 °C Ober-/Unterhitze vorheizen. Eine 20-cm-Springform auslegen. Äpfel entkernen und dünn schneiden.",
+          "fr": "Préchauffez le four traditionnel à 175 °C. Chemisez un moule rond de 20 cm. Évidez et émincez les pommes.",
+          "pt-BR": "Preaqueça o forno convencional a 175 °C. Unte e forre uma forma redonda de 20 cm. Retire o miolo das maçãs e corte em fatias finas."
+        },
+        "seconds": 0
+      },
+      {
+        "text": {
+          "en": "Beat soft butter and sugar until pale. Beat in the eggs one at a time.",
+          "de": "Weiche Butter und Zucker hell aufschlagen. Eier einzeln unterrühren.",
+          "fr": "Fouettez beurre mou et sucre. Incorporez les œufs un à un.",
+          "pt-BR": "Bata a manteiga macia com o açúcar. Junte os ovos, um de cada vez."
+        },
+        "seconds": 0
+      },
+      {
+        "text": {
+          "en": "Fold in flour, baking powder and cinnamon, alternating with milk. Spread the batter in the tin.",
+          "de": "Mehl, Backpulver und Zimt abwechselnd mit Milch unterheben. Teig in der Form verteilen.",
+          "fr": "Incorporez farine, levure et cannelle en alternant avec le lait. Étalez la pâte dans le moule.",
+          "pt-BR": "Incorpore a farinha, o fermento e a canela alternando com o leite. Espalhe a massa na forma."
+        },
+        "seconds": 0
+      },
+      {
+        "text": {
+          "en": "Arrange apple slices on top. Bake for 35–40 minutes, until a skewer through the cake comes out clean.",
+          "de": "Apfelscheiben darauflegen. 35–40 Minuten backen, bis die Stäbchenprobe sauber ist.",
+          "fr": "Disposez les pommes dessus. Cuisez 35 à 40 minutes, jusqu’à ce qu’une pique dans la pâte ressorte propre.",
+          "pt-BR": "Disponha as maçãs por cima. Asse por 35–40 minutos, até um palito inserido na massa sair limpo."
+        },
+        "seconds": 2400
+      },
+      {
+        "text": {
+          "en": "Cool for 15 minutes before removing from the tin. Enjoy warm or cold. Cover and refrigerate for up to 3 days.",
+          "de": "Vor dem Herausnehmen 15 Minuten abkühlen lassen. Warm oder kalt genießen. Abgedeckt bis zu 3 Tage im Kühlschrank lagern.",
+          "fr": "Laissez tiédir 15 minutes avant de démouler. Servez tiède ou froid. Couvrez et réfrigérez jusqu’à 3 jours.",
+          "pt-BR": "Espere 15 minutos antes de desenformar. Sirva morno ou frio. Cubra e refrigere por até 3 dias."
+        },
+        "seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "pear",
+    "title": {
+      "en": "Cinnamon-poached pears",
+      "de": "Pochierte Zimtbirnen",
+      "fr": "Poires pochées à la cannelle",
+      "pt-BR": "Peras cozidas com canela"
+    },
+    "intro": {
+      "en": "Cook firm pears gently, then reduce the liquid to a glossy syrup.",
+      "de": "Feste Birnen sanft garen und den Sud zu Sirup einkochen.",
+      "fr": "Pochez des poires fermes puis faites réduire leur jus en sirop.",
+      "pt-BR": "Cozinhe peras firmes em fogo baixo e reduza o líquido até obter uma calda."
+    },
+    "category": "nobake",
+    "minutes": 35,
+    "servings": 4,
+    "seasons": [
+      3,
+      4
+    ],
+    "allergens": {
+      "en": "Check your ingredients for individual allergies.",
+      "de": "Zutaten auf persönliche Allergien prüfen.",
+      "fr": "Vérifiez les ingrédients en cas d’allergie individuelle.",
+      "pt-BR": "Confira os ingredientes em caso de alergia individual."
+    },
+    "ingredients": [
+      {
+        "id": "pear",
+        "amount": 2,
+        "unit": "piece",
+        "name": {
+          "en": "Firm pear",
+          "de": "Feste Birne",
+          "fr": "Poire ferme",
+          "pt-BR": "Pera firme"
+        }
+      },
+      {
+        "id": "water",
+        "amount": 400,
+        "unit": "ml",
+        "name": {
+          "en": "Water",
+          "de": "Wasser",
+          "fr": "Eau",
+          "pt-BR": "Água"
+        }
+      },
+      {
+        "id": "sugar",
+        "amount": 70,
+        "unit": "g",
+        "name": {
+          "en": "Sugar",
+          "de": "Zucker",
+          "fr": "Sucre",
+          "pt-BR": "Açúcar"
+        }
+      },
+      {
+        "id": "lemonjuice",
+        "amount": 10,
+        "unit": "ml",
+        "name": {
+          "en": "Lemon juice",
+          "de": "Zitronensaft",
+          "fr": "Jus de citron",
+          "pt-BR": "Suco de limão"
+        }
+      },
+      {
+        "id": "cinnamon",
+        "amount": 0.5,
+        "unit": "tsp",
+        "name": {
+          "en": "Ground cinnamon",
+          "de": "Gemahlener Zimt",
+          "fr": "Cannelle moulue",
+          "pt-BR": "Canela em pó"
+        }
+      }
+    ],
+    "steps": [
+      {
+        "text": {
+          "en": "Peel, halve and core the pears. Choose a pan just wide enough to hold them in one layer.",
+          "de": "Birnen schälen, halbieren und entkernen. Einen Topf wählen, in den sie nebeneinander passen.",
+          "fr": "Pelez, coupez en deux et évidez les poires. Choisissez une casserole où elles tiennent sur un rang.",
+          "pt-BR": "Descasque as peras, corte ao meio e retire os miolos. Escolha uma panela onde caibam lado a lado."
+        },
+        "seconds": 0
+      },
+      {
+        "text": {
+          "en": "Dissolve the sugar in the water with cinnamon and lemon juice. Add pears, cover and simmer gently, turning once, until a knife slips in easily.",
+          "de": "Zucker, Wasser, Zimt und Zitronensaft erwärmen. Birnen zugedeckt leise köcheln lassen, einmal wenden. Ein Messer soll leicht hineingleiten.",
+          "fr": "Faites fondre le sucre dans l’eau avec la cannelle et le citron. Ajoutez les poires, couvrez, retournez une fois et pochez jusqu’à ce qu’un couteau entre facilement.",
+          "pt-BR": "Dissolva o açúcar na água com canela e limão. Junte as peras, tampe e cozinhe em fogo baixo, virando uma vez, até a faca entrar facilmente."
+        },
+        "seconds": 1080
+      },
+      {
+        "text": {
+          "en": "Lift out the fruit. Boil the liquid uncovered until it lightly coats a spoon. Spoon over the pears and serve warm or cool.",
+          "de": "Birnen herausheben. Sud offen einkochen, bis er einen Löffel dünn überzieht. Über die Birnen geben und warm oder kalt servieren.",
+          "fr": "Retirez les fruits. Faites bouillir le jus à découvert jusqu’à ce qu’il nappe légèrement une cuillère. Versez sur les poires et servez tiède ou froid.",
+          "pt-BR": "Retire as frutas. Ferva a calda destampada até cobrir levemente uma colher. Despeje sobre as peras e sirva mornas ou frias."
+        },
+        "seconds": 480
+      }
+    ]
+  },
+  {
+    "id": "truffle",
+    "title": {
+      "en": "Cocoa-dusted truffles",
+      "de": "Kakaotrüffel",
+      "fr": "Truffes poudrées de cacao",
+      "pt-BR": "Trufas de cacau"
+    },
+    "intro": {
+      "en": "A firm dark ganache rolled by hand. Two small pieces per serving.",
+      "de": "Dunkle Ganache, von Hand gerollt. Zwei kleine Trüffel pro Portion.",
+      "fr": "Une ganache noire ferme, roulée à la main. Deux petites truffes par portion.",
+      "pt-BR": "Ganache firme de chocolate amargo, enrolada à mão. Duas trufas pequenas por porção."
+    },
+    "category": "nobake",
+    "minutes": 145,
+    "servings": 6,
+    "seasons": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "allergens": {
+      "en": "Milk.",
+      "de": "Milch.",
+      "fr": "Lait.",
+      "pt-BR": "Leite."
+    },
+    "ingredients": [
+      {
+        "id": "chocolate",
+        "amount": 150,
+        "unit": "g",
+        "name": {
+          "en": "Dark chocolate",
+          "de": "Zartbitterschokolade",
+          "fr": "Chocolat noir",
+          "pt-BR": "Chocolate amargo"
+        }
+      },
+      {
+        "id": "cream",
+        "amount": 75,
+        "unit": "ml",
+        "name": {
+          "en": "Heavy cream",
+          "de": "Schlagsahne",
+          "fr": "Crème entière liquide",
+          "pt-BR": "Creme de leite fresco"
+        }
+      },
+      {
+        "id": "cocoa",
+        "amount": 15,
+        "unit": "g",
+        "name": {
+          "en": "Cocoa powder",
+          "de": "Kakaopulver",
+          "fr": "Cacao en poudre",
+          "pt-BR": "Cacau em pó"
+        }
+      }
+    ],
+    "steps": [
+      {
+        "text": {
+          "en": "Finely chop dark chocolate into a dry bowl. Heat cream just until steam rises, then pour it over the chocolate.",
+          "de": "Dunkle Schokolade fein hacken und in eine trockene Schüssel geben. Sahne bis zum Dampfen erhitzen und darübergießen.",
+          "fr": "Hachez finement le chocolat noir dans un bol sec. Chauffez la crème jusqu’aux premières volutes de vapeur et versez-la dessus.",
+          "pt-BR": "Pique o chocolate amargo e coloque em uma tigela seca. Aqueça o creme até soltar vapor e despeje sobre o chocolate."
+        },
+        "seconds": 0
+      },
+      {
+        "text": {
+          "en": "Wait before stirring. Mix in small circles from the centre until the ganache is smooth and shiny.",
+          "de": "Kurz stehen lassen. Von der Mitte aus in kleinen Kreisen rühren, bis die Ganache glatt glänzt.",
+          "fr": "Laissez reposer. Mélangez par petits cercles en partant du centre jusqu’à obtenir une ganache lisse et brillante.",
+          "pt-BR": "Espere um pouco. Misture em círculos pequenos a partir do centro até obter uma ganache lisa e brilhante."
+        },
+        "seconds": 120
+      },
+      {
+        "text": {
+          "en": "Chill in a shallow covered dish until scoopable. Roll teaspoonfuls quickly between cool palms, then coat in cocoa. Refrigerate in a sealed container.",
+          "de": "In einer flachen, abgedeckten Form kühlen, bis die Masse formbar ist. Teelöffelgroße Portionen mit kühlen Händen rollen, in Kakao wälzen und verschlossen kalt stellen.",
+          "fr": "Réfrigérez dans un plat peu profond et couvert. Formez rapidement de petites boules entre vos mains fraîches, roulez dans le cacao et gardez au frais en boîte fermée.",
+          "pt-BR": "Leve à geladeira em um prato raso e coberto até firmar. Enrole pequenas porções com as mãos frias, passe no cacau e guarde na geladeira em pote fechado."
+        },
+        "seconds": 7200
+      }
+    ]
+  },
+  {
+    "id": "rice",
+    "title": {
+      "en": "Vanilla rice pudding",
+      "de": "Vanille-Milchreis",
+      "fr": "Riz au lait vanillé",
+      "pt-BR": "Arroz-doce com baunilha"
+    },
+    "intro": {
+      "en": "Slow stirring releases the starch that thickens the milk.",
+      "de": "Langsames Rühren löst die Stärke, die die Milch bindet.",
+      "fr": "Le brassage libère l’amidon qui épaissit le lait.",
+      "pt-BR": "Mexer devagar libera o amido que engrossa o leite."
+    },
+    "category": "nobake",
+    "minutes": 40,
+    "servings": 4,
+    "seasons": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "allergens": {
+      "en": "Milk.",
+      "de": "Milch.",
+      "fr": "Lait.",
+      "pt-BR": "Leite."
+    },
+    "ingredients": [
+      {
+        "id": "rice",
+        "amount": 80,
+        "unit": "g",
+        "name": {
+          "en": "Short-grain rice",
+          "de": "Rundkornreis",
+          "fr": "Riz rond",
+          "pt-BR": "Arroz de grão curto"
+        }
+      },
+      {
+        "id": "milk",
+        "amount": 650,
+        "unit": "ml",
+        "name": {
+          "en": "Milk",
+          "de": "Milch",
+          "fr": "Lait",
+          "pt-BR": "Leite"
+        }
+      },
+      {
+        "id": "sugar",
+        "amount": 35,
+        "unit": "g",
+        "name": {
+          "en": "Sugar",
+          "de": "Zucker",
+          "fr": "Sucre",
+          "pt-BR": "Açúcar"
+        }
+      },
+      {
+        "id": "vanilla",
+        "amount": 1,
+        "unit": "tsp",
+        "name": {
+          "en": "Vanilla extract",
+          "de": "Vanilleextrakt",
+          "fr": "Extrait de vanille",
+          "pt-BR": "Extrato de baunilha"
+        }
+      },
+      {
+        "id": "cinnamon",
+        "amount": 0.25,
+        "unit": "tsp",
+        "name": {
+          "en": "Ground cinnamon",
+          "de": "Gemahlener Zimt",
+          "fr": "Cannelle moulue",
+          "pt-BR": "Canela em pó"
+        }
+      }
+    ],
+    "steps": [
+      {
+        "text": {
+          "en": "Put the rice and milk in a heavy pan. Warm on medium heat, stirring the base to stop the rice sticking.",
+          "de": "Reis und Milch in einen Topf mit dickem Boden geben. Bei mittlerer Hitze erwärmen und am Boden entlangrühren.",
+          "fr": "Mettez le riz et le lait dans une casserole à fond épais. Chauffez à feu moyen en raclant doucement le fond.",
+          "pt-BR": "Coloque o arroz e o leite em uma panela de fundo grosso. Aqueça em fogo médio, mexendo o fundo."
+        },
+        "seconds": 0
+      },
+      {
+        "text": {
+          "en": "Reduce to a bare simmer and stir often. When the grains are tender and the milk looks creamy, stir in sugar and vanilla.",
+          "de": "Bei sehr geringer Hitze köcheln und häufig rühren. Sind die Körner weich und die Milch cremig, Zucker und Vanille einrühren.",
+          "fr": "Baissez le feu et remuez souvent. Quand les grains sont tendres et le lait crémeux, incorporez le sucre et la vanille.",
+          "pt-BR": "Abaixe o fogo e mexa com frequência. Quando os grãos estiverem macios e o leite cremoso, acrescente o açúcar e a baunilha."
+        },
+        "seconds": 1680
+      },
+      {
+        "text": {
+          "en": "Rest off the heat, then divide between cups. Sprinkle with cinnamon just before serving. For a softer texture add a splash of milk.",
+          "de": "Vom Herd nehmen und ruhen lassen. Auf Schalen verteilen und vor dem Servieren mit Zimt bestreuen. Bei Bedarf etwas Milch unterrühren.",
+          "fr": "Laissez reposer hors du feu puis répartissez en pots. Saupoudrez de cannelle au service. Détendez avec un peu de lait si nécessaire.",
+          "pt-BR": "Retire do fogo e deixe descansar. Distribua em potinhos e polvilhe canela ao servir. Para ficar mais fluido, junte um pouco de leite."
+        },
+        "seconds": 300
+      }
+    ]
+  },
+  {
+    "id": "apricot",
+    "title": {
+      "en": "Honey-roasted apricots",
+      "de": "Honigaprikosen aus dem Ofen",
+      "fr": "Abricots rôtis au miel",
+      "pt-BR": "Damascos assados com mel"
+    },
+    "intro": {
+      "en": "A shallow dish lets the fruit juices concentrate at the edges.",
+      "de": "In einer flachen Form konzentriert sich der Saft an den Rändern.",
+      "fr": "Un plat peu profond laisse le jus se concentrer sur les bords.",
+      "pt-BR": "Uma assadeira rasa concentra o suco da fruta nas bordas."
+    },
+    "category": "quick",
+    "minutes": 28,
+    "servings": 4,
+    "seasons": [
+      2,
+      3
+    ],
+    "allergens": {
+      "en": "Check your ingredients for individual allergies.",
+      "de": "Zutaten auf persönliche Allergien prüfen.",
+      "fr": "Vérifiez les ingrédients en cas d’allergie individuelle.",
+      "pt-BR": "Confira os ingredientes em caso de alergia individual."
+    },
+    "ingredients": [
+      {
+        "id": "apricot",
+        "amount": 8,
+        "unit": "piece",
+        "name": {
+          "en": "Apricot",
+          "de": "Aprikose",
+          "fr": "Abricot",
+          "pt-BR": "Damasco fresco"
+        }
+      },
+      {
+        "id": "honey",
+        "amount": 2,
+        "unit": "tbsp",
+        "name": {
+          "en": "Honey",
+          "de": "Honig",
+          "fr": "Miel",
+          "pt-BR": "Mel"
+        }
+      },
+      {
+        "id": "water",
+        "amount": 30,
+        "unit": "ml",
+        "name": {
+          "en": "Water",
+          "de": "Wasser",
+          "fr": "Eau",
+          "pt-BR": "Água"
+        }
+      },
+      {
+        "id": "lemonjuice",
+        "amount": 5,
+        "unit": "ml",
+        "name": {
+          "en": "Lemon juice",
+          "de": "Zitronensaft",
+          "fr": "Jus de citron",
+          "pt-BR": "Suco de limão"
+        }
+      }
+    ],
+    "steps": [
+      {
+        "text": {
+          "en": "Heat the oven to 190°C. Halve and pit the apricots, then set them cut side up in a shallow ovenproof dish.",
+          "de": "Backofen auf 190 °C vorheizen. Aprikosen halbieren, entsteinen und mit der Schnittseite nach oben in eine flache Ofenform legen.",
+          "fr": "Préchauffez le four à 190 °C. Coupez et dénoyautez les abricots, puis rangez-les face coupée vers le haut dans un plat peu profond.",
+          "pt-BR": "Aqueça o forno a 190 °C. Corte os damascos ao meio, retire os caroços e coloque em uma assadeira rasa com o corte para cima."
+        },
+        "seconds": 0
+      },
+      {
+        "text": {
+          "en": "Mix honey, water and lemon juice. Brush over the fruit and pour the rest around it. Roast until the edges soften and the syrup bubbles.",
+          "de": "Honig, Wasser und Zitronensaft verrühren. Früchte damit bestreichen und den Rest angießen. Rösten, bis die Ränder weich sind und der Sirup blubbert.",
+          "fr": "Mélangez le miel, l’eau et le citron. Badigeonnez les fruits et versez le reste autour. Rôtissez jusqu’à ce que les bords soient tendres et que le sirop bouillonne.",
+          "pt-BR": "Misture o mel, a água e o limão. Pincele as frutas e despeje o restante ao redor. Asse até as bordas ficarem macias e a calda borbulhar."
+        },
+        "seconds": 1080
+      },
+      {
+        "text": {
+          "en": "Rest in the dish. Lift the fruit gently onto plates and spoon the warm orange juices over each portion.",
+          "de": "In der Form ruhen lassen. Früchte vorsichtig auf Teller heben und mit dem warmen Sud beträufeln.",
+          "fr": "Laissez reposer dans le plat. Déposez les fruits sur les assiettes et nappez du jus chaud.",
+          "pt-BR": "Deixe descansar na assadeira. Transfira as frutas delicadamente para os pratos e regue com a calda morna."
+        },
+        "seconds": 300
+      }
+    ]
+  },
+  {
+    "id": "mango",
+    "title": {
+      "en": "Mango sorbet",
+      "de": "Mangosorbet",
+      "fr": "Sorbet à la mangue",
+      "pt-BR": "Sorbet de manga"
+    },
+    "intro": {
+      "en": "Frozen mango becomes a smooth sorbet in a food processor.",
+      "de": "In der Küchenmaschine wird gefrorene Mango zu glattem Sorbet.",
+      "fr": "La mangue congelée se transforme en sorbet au robot.",
+      "pt-BR": "A manga congelada vira um sorbet cremoso no processador."
+    },
+    "category": "nobake",
+    "minutes": 255,
+    "servings": 4,
+    "seasons": [
+      2,
+      3
+    ],
+    "allergens": {
+      "en": "Check your ingredients for individual allergies.",
+      "de": "Zutaten auf persönliche Allergien prüfen.",
+      "fr": "Vérifiez les ingrédients en cas d’allergie individuelle.",
+      "pt-BR": "Confira os ingredientes em caso de alergia individual."
+    },
+    "ingredients": [
+      {
+        "id": "mango",
+        "amount": 500,
+        "unit": "g",
+        "name": {
+          "en": "Ripe mango flesh",
+          "de": "Reifes Mangofruchtfleisch",
+          "fr": "Chair de mangue mûre",
+          "pt-BR": "Polpa de manga madura"
+        }
+      },
+      {
+        "id": "sugar",
+        "amount": 45,
+        "unit": "g",
+        "name": {
+          "en": "Sugar",
+          "de": "Zucker",
+          "fr": "Sucre",
+          "pt-BR": "Açúcar"
+        }
+      },
+      {
+        "id": "water",
+        "amount": 50,
+        "unit": "ml",
+        "name": {
+          "en": "Water",
+          "de": "Wasser",
+          "fr": "Eau",
+          "pt-BR": "Água"
+        }
+      },
+      {
+        "id": "lemonjuice",
+        "amount": 12,
+        "unit": "ml",
+        "name": {
+          "en": "Lemon juice",
+          "de": "Zitronensaft",
+          "fr": "Jus de citron",
+          "pt-BR": "Suco de limão"
+        }
+      }
+    ],
+    "steps": [
+      {
+        "text": {
+          "en": "Dice the mango into small pieces. Spread on a lined tray and freeze in a single layer until hard throughout.",
+          "de": "Mango klein würfeln, auf Backpapier verteilen und in einer Lage vollständig durchfrieren lassen.",
+          "fr": "Coupez la mangue en petits dés. Étalez-les en une seule couche sur une plaque chemisée et congelez à cœur.",
+          "pt-BR": "Corte a manga em cubos pequenos. Espalhe em uma camada sobre uma assadeira forrada e congele até ficar firme."
+        },
+        "seconds": 14400
+      },
+      {
+        "text": {
+          "en": "While the mango freezes, dissolve sugar in warm water. Stir in lemon juice and chill the syrup completely.",
+          "de": "Währenddessen Zucker in warmem Wasser lösen. Zitronensaft einrühren und den Sirup vollständig abkühlen lassen.",
+          "fr": "Pendant ce temps, faites fondre le sucre dans l’eau tiède. Ajoutez le citron et réfrigérez le sirop jusqu’à complet refroidissement.",
+          "pt-BR": "Enquanto isso, dissolva o açúcar na água morna. Junte o limão e leve a calda à geladeira até esfriar por completo."
+        },
+        "seconds": 0
+      },
+      {
+        "text": {
+          "en": "Pulse the frozen pieces, adding cold syrup a little at a time. Stop to scrape down the bowl until smooth. Serve straight away for a soft scoop.",
+          "de": "Die gefrorenen Stücke mit kurzen Impulsen mixen. Kalten Sirup nach und nach zugeben, zwischendurch die Schüssel auskratzen. Glatt mixen und sofort servieren.",
+          "fr": "Mixez les dés par impulsions en versant le sirop froid petit à petit. Raclez les parois, mixez jusqu’à consistance lisse et servez aussitôt.",
+          "pt-BR": "Pulse os cubos congelados, acrescentando a calda fria aos poucos. Pare para raspar as laterais e bata até ficar cremoso. Sirva imediatamente."
+        },
+        "seconds": 0
+      }
+    ]
+  },
+  {
+    "id": "sesame",
+    "title": {
+      "en": "Sesame brittle",
+      "de": "Sesamkrokant",
+      "fr": "Nougatine au sésame",
+      "pt-BR": "Crocante de gergelim"
+    },
+    "intro": {
+      "en": "A thin caramel sheet snaps cleanly when completely cool.",
+      "de": "Eine dünne Karamellplatte bricht nach dem Auskühlen glatt.",
+      "fr": "Une fine plaque de caramel se casse nettement après refroidissement.",
+      "pt-BR": "Uma lâmina fina de caramelo quebra com facilidade depois de esfriar."
+    },
+    "category": "quick",
+    "minutes": 30,
+    "servings": 6,
+    "seasons": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "allergens": {
+      "en": "Sesame.",
+      "de": "Sesam.",
+      "fr": "Sésame.",
+      "pt-BR": "Gergelim."
+    },
+    "ingredients": [
+      {
+        "id": "sesame",
+        "amount": 60,
+        "unit": "g",
+        "name": {
+          "en": "Sesame seeds",
+          "de": "Sesamsamen",
+          "fr": "Graines de sésame",
+          "pt-BR": "Gergelim"
+        }
+      },
+      {
+        "id": "sugar",
+        "amount": 100,
+        "unit": "g",
+        "name": {
+          "en": "Sugar",
+          "de": "Zucker",
+          "fr": "Sucre",
+          "pt-BR": "Açúcar"
+        }
+      },
+      {
+        "id": "water",
+        "amount": 30,
+        "unit": "ml",
+        "name": {
+          "en": "Water",
+          "de": "Wasser",
+          "fr": "Eau",
+          "pt-BR": "Água"
+        }
+      }
+    ],
+    "steps": [
+      {
+        "text": {
+          "en": "Line a tray with baking parchment. Toast the seeds in a dry pan, stirring until fragrant, then tip them into a bowl.",
+          "de": "Blech mit Backpapier auslegen. Sesam in einer trockenen Pfanne unter Rühren rösten, bis er duftet, und in eine Schüssel geben.",
+          "fr": "Chemisez une plaque de papier cuisson. Faites griller les graines à sec en remuant jusqu’à ce qu’elles embaument, puis réservez.",
+          "pt-BR": "Forre uma assadeira com papel próprio para forno. Toste o gergelim em frigideira seca, mexendo até perfumar, e reserve."
+        },
+        "seconds": 180
+      },
+      {
+        "text": {
+          "en": "Heat sugar and water in a small heavy pan without stirring once boiling. Swirl gently until amber. Remove from heat and stir in the warm seeds with a long-handled spoon.",
+          "de": "Zucker und Wasser im kleinen Topf erhitzen. Nach dem Aufkochen nicht umrühren. Sanft schwenken, bis der Sirup bernsteinfarben ist. Vom Herd nehmen und warmen Sesam mit langem Löffel unterrühren.",
+          "fr": "Chauffez le sucre et l’eau dans une petite casserole. Dès l’ébullition, ne remuez plus. Inclinez doucement jusqu’à une couleur ambrée. Hors du feu, incorporez les graines avec une cuillère à long manche.",
+          "pt-BR": "Aqueça o açúcar e a água em panela pequena e pesada. Após ferver, não mexa. Gire a panela suavemente até a cor de âmbar. Retire do fogo e incorpore as sementes com colher de cabo longo."
+        },
+        "seconds": 0
+      },
+      {
+        "text": {
+          "en": "Pour onto the lined tray and spread thinly with a heatproof spatula. Hot caramel burns: keep hands clear. Leave untouched until cold, then break into pieces.",
+          "de": "Auf das Backpapier gießen und mit einem hitzefesten Spatel dünn verstreichen. Heißen Karamell nicht berühren. Vollständig erkalten lassen und in Stücke brechen.",
+          "fr": "Versez sur le papier et étalez finement avec une spatule résistante à la chaleur. Le caramel brûle : gardez les mains à distance. Laissez refroidir sans toucher avant de casser en morceaux.",
+          "pt-BR": "Despeje sobre a assadeira e espalhe com espátula resistente ao calor. Evite tocar no caramelo quente. Espere esfriar por completo e quebre em pedaços."
+        },
+        "seconds": 1200
+      }
+    ]
+  }
+]

@@ -1,0 +1,111 @@
+Application, 0x10a6baf80, pid: 4620, label: 'Dessert Book' <App element pid: 4620>
+  Window (Main), 0x10a6bb5c0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 4620, elementOrHash.elementID: 4410818560.4>
+    Other, 0x10a6bb840, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 4620, elementOrHash.elementID: 4412370432.6>
+    Other, 0x10a6bb980, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 4620, elementOrHash.elementID: 4455617536.7>
+      Other, 0x10a6bbac0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 4620, elementOrHash.elementID: 4455618176.9>
+        Other, 0x10a6bbc00, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 4620, elementOrHash.elementID: 4410870272.11>
+          Other, 0x10a6bbd40, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 4620, elementOrHash.elementID: 4574055552.12>
+            Other, 0x10a6bbe80, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 4620, elementOrHash.elementID: 4412361728.13>
+              Other, 0x10a6babc0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 4620, elementOrHash.elementID: 4455620736.14>
+                Other, 0x10a6b8dc0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 4620, elementOrHash.elementID: 4411997696.16>
+                  Other, 0x10a6b8f00, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 4620, elementOrHash.elementID: 4410872832.18>
+                    Other, 0x10a6b8000, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 4620, elementOrHash.elementID: 4638524192.23>
+                      Other, 0x10a6b8640, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 4620, elementOrHash.elementID: 4638524672.28>
+                        Other, 0x10a6b8780, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 4620, elementOrHash.elementID: 4455345664.29>
+                          NavigationBar, 0x10a6b88c0, {{0.0, 32.0}, {1032.0, 54.0}}, identifier: 'Dessert Book' <AX element pid: 4620, elementOrHash.elementID: 4455201024.30>
+                            Other, 0x10a6b9040, {{926.0, 36.0}, {36.0, 36.0}} <AX element pid: 4620, elementOrHash.elementID: 4584834304.33>
+                              Other, 0x10a6b8140, {{926.0, 36.0}, {36.0, 36.0}} <AX element pid: 4620, elementOrHash.elementID: 4664463904.212>
+                                Button, 0x10a6b8c80, {{928.5, 36.0}, {31.0, 36.0}}, identifier: 'settings', label: 'Preferences' <AX element pid: 4620, elementOrHash.elementID: 4664470304.213>
+                            Button, 0x10a6bb200, {{982.0, 36.0}, {36.0, 36.0}}, label: 'Search' <AX element pid: 4620, elementOrHash.elementID: 4637196928.211>
+                          Other, 0x10a6bb340, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 4620, elementOrHash.elementID: 4412154624.31>
+                            Other, 0x10a6bb0c0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 4620, elementOrHash.elementID: 4455290880.35>
+                              Other, 0x10a6bad00, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 4620, elementOrHash.elementID: 4410833920.38>
+                                Other, 0x10a6bae40, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 4620, elementOrHash.elementID: 4664466624.214>
+                                  ScrollView, 0x10a6b8a00, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 4620, elementOrHash.elementID: 4454389760.41>
+                                    Other, 0x10a6bb480, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 4620, elementOrHash.elementID: 4412153728.42>
+                                      Other, 0x10a6b8280, {{0.0, 0.0}, {1032.0, 126.0}} <AX element pid: 4620, elementOrHash.elementID: 4412352128.46>
+                                    Other, 0x10a6b83c0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 4620, elementOrHash.elementID: 4412153280.43>
+                                    Other, 0x10a6b8500, {{0.0, 86.0}, {1032.0, 1317.0}} <AX element pid: 4620, elementOrHash.elementID: 4585112192.44>
+                                      StaticText, 0x10a6b8b40, {{20.0, 106.0}, {258.0, 14.5}}, label: 'A LITTLE HOMEMADE HAPPINESS' <AX element pid: 4620, elementOrHash.elementID: 4638524832.47>
+                                      StaticText, 0x106fc7480, {{20.0, 129.5}, {298.5, 86.0}}, label: 'Something sweet,
+made by you.' <AX element pid: 4620, elementOrHash.elementID: 4638524992.48>
+                                      StaticText, 0x106fc5a40, {{20.0, 224.5}, {193.5, 18.0}}, label: 'Find your next favorite bake.' <AX element pid: 4620, elementOrHash.elementID: 4638525152.49>
+                                      Button, 0x106fc4f00, {{19.5, -104.0}, {993.0, 992.0}}, identifier: 'daily.recipe', label: 'Recipe of the day, NO BAKE, 10 min, Berry yogurt cups, A cool, no-bake dessert in ten minutes., Open the recipe' <AX element pid: 4620, elementOrHash.elementID: 4638526912.50>
+                                        Image, 0x106fc5e00, {{20.0, -104.0}, {992.0, 992.0}}, label: 'berry' <AX element pid: 4620, elementOrHash.elementID: 4638525312.57>
+                                        StaticText, 0x106fc5cc0, {{46.0, 289.5}, {126.0, 14.5}}, label: 'Recipe of the day' <AX element pid: 4620, elementOrHash.elementID: 4638525632.58>
+                                        Image, 0x106fc7980, {{46.0, 290.5}, {12.5, 12.5}}, identifier: 'sparkle', label: 'Sparkle Star' <AX element pid: 4620, elementOrHash.elementID: 4638525472.59>
+                                        StaticText, 0x106fc7d40, {{38.0, 537.5}, {64.0, 14.5}}, label: 'NO BAKE' <AX element pid: 4620, elementOrHash.elementID: 4638525792.60>
+                                        StaticText, 0x106fc75c0, {{934.5, 537.5}, {59.5, 14.5}}, label: '10 min' <AX element pid: 4620, elementOrHash.elementID: 4638526112.61>
+                                        Image, 0x106fc7700, {{934.5, 538.5}, {12.5, 12.5}}, identifier: 'clock', label: 'Clock' <AX element pid: 4620, elementOrHash.elementID: 4638525952.62>
+                                        StaticText, 0x106fc5400, {{38.0, 560.0}, {228.0, 32.5}}, label: 'Berry yogurt cups' <AX element pid: 4620, elementOrHash.elementID: 4638526272.63>
+                                        StaticText, 0x106fc57c0, {{38.0, 600.5}, {268.0, 18.0}}, label: 'A cool, no-bake dessert in ten minutes.' <AX element pid: 4620, elementOrHash.elementID: 4638526432.64>
+                                        StaticText, 0x106fc7e80, {{38.0, 631.5}, {114.0, 18.0}}, label: 'Open the recipe' <AX element pid: 4620, elementOrHash.elementID: 4638526592.65>
+                                        Image, 0x106fc48c0, {{161.5, 635.0}, {11.5, 11.5}}, identifier: 'arrow.up.right', label: 'Up-Right Diagonal Arrow' <AX element pid: 4620, elementOrHash.elementID: 4638526752.66>
+                                      ScrollView, 0x106fc43c0, {{20.0, 689.5}, {992.0, 38.0}} <AX element pid: 4620, elementOrHash.elementID: 4454386688.51>
+                                        Other, 0x106fc4dc0, {{20.0, 689.5}, {553.5, 38.0}} <AX element pid: 4620, elementOrHash.elementID: 4573673856.67>
+                                          Button, 0x106fc5180, {{20.0, 689.5}, {107.0, 38.0}}, label: 'All recipes', Selected <AX element pid: 4620, elementOrHash.elementID: 4638527072.76>
+                                          Button, 0x106fc5900, {{136.0, 689.5}, {100.0, 38.0}}, label: 'In season' <AX element pid: 4620, elementOrHash.elementID: 4638527232.77>
+                                          Button, 0x106fc7ac0, {{245.0, 689.5}, {76.0, 38.0}}, label: 'Cakes' <AX element pid: 4620, elementOrHash.elementID: 4638527392.78>
+                                          Button, 0x106fc7c00, {{330.0, 689.5}, {144.0, 38.0}}, label: 'Everyday treats' <AX element pid: 4620, elementOrHash.elementID: 4638527552.79>
+                                          Button, 0x106e9f980, {{483.0, 689.5}, {90.5, 38.0}}, label: 'No bake' <AX element pid: 4620, elementOrHash.elementID: 4638527712.80>
+                                      Other, 0x106e9f700, {{19.5, 723.5}, {993.0, 605.0}} <AX element pid: 4620, elementOrHash.elementID: 4638534592.52>
+                                        Button, 0x106e9cf00, {{19.5, 723.5}, {319.5, 331.0}}, identifier: 'recipe.cupcake', label: 'CAKES, 45 min, Vanilla cloud cupcakes' <AX element pid: 4620, elementOrHash.elementID: 4638529632.68>
+                                          Image, 0x106e9c780, {{20.0, 723.5}, {318.5, 319.0}}, label: 'cupcake' <AX element pid: 4620, elementOrHash.elementID: 4638528832.81>
+                                          StaticText, 0x106e9f340, {{38.0, 986.0}, {48.0, 14.5}}, label: 'CAKES' <AX element pid: 4620, elementOrHash.elementID: 4638528992.82>
+                                          StaticText, 0x106e9f840, {{259.0, 986.0}, {61.7, 14.5}}, label: '45 min' <AX element pid: 4620, elementOrHash.elementID: 4638529312.83>
+                                          Image, 0x10a7ac000, {{259.0, 987.0}, {12.5, 12.5}}, identifier: 'clock', label: 'Clock' <AX element pid: 4620, elementOrHash.elementID: 4638529152.84>
+                                          StaticText, 0x10a7ac140, {{38.0, 1008.5}, {244.0, 27.5}}, label: 'Vanilla cloud cupcakes' <AX element pid: 4620, elementOrHash.elementID: 4638529472.85>
+                                        Button, 0x10a7ac280, {{356.0, 723.5}, {320.0, 331.0}}, identifier: 'recipe.brownie', label: 'EVERYDAY TREATS, 40 min, Fudgy cocoa brownies' <AX element pid: 4620, elementOrHash.elementID: 4638530592.69>
+                                          Image, 0x10a7ac3c0, {{356.5, 723.5}, {319.0, 319.0}}, label: 'brownie' <AX element pid: 4620, elementOrHash.elementID: 4638529792.86>
+                                          StaticText, 0x10a7ac500, {{374.7, 986.0}, {134.5, 14.5}}, label: 'EVERYDAY TREATS' <AX element pid: 4620, elementOrHash.elementID: 4638529952.87>
+                                          StaticText, 0x10a7ac640, {{595.5, 986.0}, {61.8, 14.5}}, label: '40 min' <AX element pid: 4620, elementOrHash.elementID: 4638530272.88>
+                                          Image, 0x10a7ac780, {{595.5, 987.0}, {12.5, 12.5}}, identifier: 'clock', label: 'Clock' <AX element pid: 4620, elementOrHash.elementID: 4638530112.89>
+                                          StaticText, 0x10a7ac8c0, {{374.7, 1008.5}, {238.0, 27.5}}, label: 'Fudgy cocoa brownies' <AX element pid: 4620, elementOrHash.elementID: 4638530432.90>
+                                        Button, 0x10a7aca00, {{693.0, 723.5}, {319.5, 331.0}}, identifier: 'recipe.lemon', label: 'CAKES, 65 min, Sunday lemon loaf' <AX element pid: 4620, elementOrHash.elementID: 4638531552.70>
+                                          Image, 0x10a7acb40, {{693.5, 723.5}, {318.5, 319.0}}, label: 'lemon' <AX element pid: 4620, elementOrHash.elementID: 4638530752.91>
+                                          StaticText, 0x10a7acc80, {{711.3, 986.0}, {48.0, 14.5}}, label: 'CAKES' <AX element pid: 4620, elementOrHash.elementID: 4638530912.92>
+                                          StaticText, 0x10a7acdc0, {{932.5, 986.0}, {61.5, 14.5}}, label: '65 min' <AX element pid: 4620, elementOrHash.elementID: 4638531232.93>
+                                          Image, 0x10a7acf00, {{932.5, 987.0}, {12.5, 12.5}}, identifier: 'clock', label: 'Clock' <AX element pid: 4620, elementOrHash.elementID: 4638531072.94>
+                                          StaticText, 0x10a7ad040, {{711.3, 1008.5}, {200.5, 27.5}}, label: 'Sunday lemon loaf' <AX element pid: 4620, elementOrHash.elementID: 4638531392.95>
+                                        Button, 0x10a7ad180, {{19.5, 997.5}, {319.5, 331.0}}, identifier: 'recipe.berry', label: 'NO BAKE, 10 min, Berry yogurt cups' <AX element pid: 4620, elementOrHash.elementID: 4638532512.71>
+                                          Image, 0x10a7ad2c0, {{20.0, 997.5}, {318.5, 319.0}}, label: 'berry' <AX element pid: 4620, elementOrHash.elementID: 4638531712.96>
+                                          StaticText, 0x10a7ad400, {{38.0, 1260.0}, {64.0, 14.5}}, label: 'NO BAKE' <AX element pid: 4620, elementOrHash.elementID: 4638531872.97>
+                                          StaticText, 0x10a7ad540, {{261.0, 1260.0}, {59.7, 14.5}}, label: '10 min' <AX element pid: 4620, elementOrHash.elementID: 4638532192.98>
+                                          Image, 0x10a7ad680, {{261.0, 1261.0}, {12.5, 12.5}}, identifier: 'clock', label: 'Clock' <AX element pid: 4620, elementOrHash.elementID: 4638532032.99>
+                                          StaticText, 0x10a7ad7c0, {{38.0, 1282.6}, {191.0, 27.5}}, label: 'Berry yogurt cups' <AX element pid: 4620, elementOrHash.elementID: 4638532352.100>
+                                        Button, 0x10a7ad900, {{356.0, 997.5}, {320.0, 331.0}}, identifier: 'recipe.cookie', label: 'EVERYDAY TREATS, 30 min, Honey oat cookies' <AX element pid: 4620, elementOrHash.elementID: 4638533472.72>
+                                          Image, 0x10a7ada40, {{356.5, 997.5}, {319.0, 319.0}}, label: 'cookie' <AX element pid: 4620, elementOrHash.elementID: 4638532672.101>
+                                          StaticText, 0x10a7adb80, {{374.7, 1260.0}, {134.5, 14.5}}, label: 'EVERYDAY TREATS' <AX element pid: 4620, elementOrHash.elementID: 4638532832.102>
+                                          StaticText, 0x10a7adcc0, {{596.0, 1260.0}, {61.3, 14.5}}, label: '30 min' <AX element pid: 4620, elementOrHash.elementID: 4638533152.103>
+                                          Image, 0x10a7ade00, {{596.0, 1261.0}, {12.5, 12.5}}, identifier: 'clock', label: 'Clock' <AX element pid: 4620, elementOrHash.elementID: 4638532992.104>
+                                          StaticText, 0x10a7adf40, {{374.7, 1282.6}, {198.0, 27.5}}, label: 'Honey oat cookies' <AX element pid: 4620, elementOrHash.elementID: 4638533312.105>
+                                        Button, 0x10a7ae080, {{693.0, 997.5}, {319.5, 331.0}}, identifier: 'recipe.apple', label: 'CAKES, 60 min, Orchard apple cake' <AX element pid: 4620, elementOrHash.elementID: 4638534432.73>
+                                          Image, 0x10a7ae1c0, {{693.5, 997.5}, {318.5, 319.0}}, label: 'apple' <AX element pid: 4620, elementOrHash.elementID: 4638533632.106>
+                                          StaticText, 0x10a7ae300, {{711.3, 1260.0}, {48.0, 14.5}}, label: 'CAKES' <AX element pid: 4620, elementOrHash.elementID: 4638533792.107>
+                                          StaticText, 0x10a7ae440, {{932.5, 1260.0}, {61.5, 14.5}}, label: '60 min' <AX element pid: 4620, elementOrHash.elementID: 4638534112.108>
+                                          Image, 0x10a7ae580, {{932.5, 1261.0}, {12.5, 12.5}}, identifier: 'clock', label: 'Clock' <AX element pid: 4620, elementOrHash.elementID: 4638533952.109>
+                                          StaticText, 0x10a7ae6c0, {{711.3, 1282.6}, {208.5, 27.5}}, label: 'Orchard apple cake' <AX element pid: 4620, elementOrHash.elementID: 4638534272.110>
+                                      StaticText, 0x10a7ae800, {{20.0, 749.5}, {168.0, 26.5}}, label: 'The recipe shelf' <AX element pid: 4620, elementOrHash.elementID: 4638528192.53>
+                                      Button, 0x10a7ae940, {{908.0, 754.0}, {104.0, 18.0}}, identifier: 'pantry.filter', label: 'Ingredients' <AX element pid: 4620, elementOrHash.elementID: 4638528672.54>
+                                        StaticText, 0x10a7aea80, {{908.0, 754.0}, {104.0, 18.0}}, label: 'Ingredients' <AX element pid: 4620, elementOrHash.elementID: 4638528512.74>
+                                        Image, 0x10a7aebc0, {{910.0, 758.0}, {15.0, 9.0}}, identifier: 'line.3.horizontal.decrease', label: 'Filter' <AX element pid: 4620, elementOrHash.elementID: 4638528352.75>
+                                      StaticText, 0x10a7aed00, {{374.2, 1359.0}, {283.5, 16.0}}, label: 'Always in your kitchen. All recipes work offline.' <AX element pid: 4620, elementOrHash.elementID: 4638534752.55>
+                                    Other, 0x10a7aee40, {{999.0, 86.0}, {30.0, 1260.0}}, label: 'Vertical scroll bar, 2 pages', value: 0% <AX element pid: 4620, elementOrHash.elementID: 4455235584.45>
+                                      Other, 0x10a7aef80, {{1026.0, 89.0}, {3.0, 1212.5}} <AX element pid: 4620, elementOrHash.elementID: 4412348096.56>
+                                    Other, 0x10a7af0c0, {{999.0, 86.0}, {30.0, 1260.0}}, label: 'Vertical scroll bar, 2 pages', value: 0% <AX element pid: 4620, elementOrHash.elementID: 4455235584.45>
+                                      Other, 0x10a7af200, {{1026.0, 89.0}, {3.0, 1212.5}} <AX element pid: 4620, elementOrHash.elementID: 4412348096.56>
+                          Toolbar, 0x10a7af340, {{0.0, 0.0}, {1032.0, 1376.0}}, identifier: 'Toolbar', label: 'Toolbar' <AX element pid: 4620, elementOrHash.elementID: 4455346176.32>
+                            Other, 0x10a7af480, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 4620, elementOrHash.elementID: 4585114752.36>
+              Other, 0x10a7af5c0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 4620, elementOrHash.elementID: 4410822656.15>
+                Other, 0x10a7af700, {{0.0, 32.0}, {1032.0, 44.0}} <AX element pid: 4620, elementOrHash.elementID: 4456988672.17>
+                  Button, 0x10a7af840, {{289.0, 36.0}, {94.0, 36.0}}, identifier: 'book.closed', label: 'Recipes', Selected <AX element pid: 4620, elementOrHash.elementID: 4455197184.19>
+                    Button, 0x10a7af980, {{289.0, 36.0}, {94.0, 36.0}}, identifier: 'book.closed', label: 'Recipes', Selected <AX element pid: 4620, elementOrHash.elementID: 4412225024.24>
+                  Button, 0x10a7afac0, {{383.0, 36.0}, {134.0, 36.0}}, identifier: 'basket', label: 'Shopping list' <AX element pid: 4620, elementOrHash.elementID: 4455197952.20>
+                    Button, 0x10a7afc00, {{383.0, 36.0}, {134.0, 36.0}}, identifier: 'basket', label: 'Shopping list' <AX element pid: 4620, elementOrHash.elementID: 4455383552.25>
+                  Button, 0x10a7afd40, {{517.0, 36.0}, {123.0, 36.0}}, identifier: 'calendar', label: 'Baking plan' <AX element pid: 4620, elementOrHash.elementID: 4455198720.21>
+                    Button, 0x10a7afe80, {{517.0, 36.0}, {123.0, 36.0}}, identifier: 'calendar', label: 'Baking plan' <AX element pid: 4620, elementOrHash.elementID: 4455386112.26>
+                  Button, 0x10a7b4000, {{640.0, 36.0}, {103.0, 36.0}}, identifier: 'heart', label: 'Favorites' <AX element pid: 4620, elementOrHash.elementID: 4455199488.22>
+                    Button, 0x10a7b4140, {{640.0, 36.0}, {103.0, 36.0}}, identifier: 'heart', label: 'Favorites' <AX element pid: 4620, elementOrHash.elementID: 4455388672.27>
+  Window, 0x10a7b4280, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 4620, elementOrHash.elementID: 4584835584.5>
+    Other, 0x10a7b43c0, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 4620, elementOrHash.elementID: 4455243264.8>
+      Other, 0x10a7b4500, {{0.0, 0.0}, {1032.0, 1376.0}} <AX element pid: 4620, elementOrHash.elementID: 4455244288.10>

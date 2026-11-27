@@ -1,0 +1,63 @@
+Skipped export for V8Checks/testBundledCookbookIsComplete(): no matching attachments
+
+Skipped export for V8Checks/testCalendarWeekWindow(): no matching attachments
+
+Skipped export for V8Checks/testCloudMergeKeepsLatestAndTombstones(): no matching attachments
+
+Skipped export for V8Checks/testDailyRollsOver(): no matching attachments
+
+Skipped export for V8Checks/testFuturePlansReachWidgetCache(): no matching attachments
+
+Skipped export for V8Checks/testMilkMeasuresAggregate(): no matching attachments
+
+Skipped export for V8Checks/testPantryUsesEveryIngredient(): no matching attachments
+
+Skipped export for V8Checks/testPlanDeletionAndShopping(): no matching attachments
+
+Skipped export for V8Checks/testSaveReloadAndStepBoundaries(): no matching attachments
+
+Skipped export for V8Checks/testScaledMethod(): no matching attachments
+
+Skipped export for V8Checks/testSharedIngredientAggregationAndScale(): no matching attachments
+
+Skipped export for V8Checks/testSinglePortionLabel(): no matching attachments
+
+Skipped export for V8Checks/testTextAndCategory(): no matching attachments
+
+Skipped export for V8Checks/testTimerPauseResumeCancel(): no matching attachments
+
+Exported 6 attachments for: V8Checks/testWidgetFamilyRendersOffline():
+File: AA18CA86-A8CB-47D0-958A-D984CE1FCE3C.png, suggested name: "widget-lock-inline_0_DF172277-66E0-40AF-BFFB-72A729FFC312.png"
+File: 01889C82-C971-4697-98CD-D474D4B021DA.png, suggested name: "widget-lock-circle_0_42EE6FFC-E879-43BB-823C-FAC41DBA76FD.png"
+File: B435CE3F-AC12-425D-AA92-F9B4FF8F0E96.png, suggested name: "widget-lock-rect_0_A05A1E08-F553-4B20-8210-C72DEEEBA110.png"
+File: 28423F27-2FEF-454F-92F5-02F10645F8AA.png, suggested name: "widget-large_0_A442C77D-39E4-489E-BF7B-3748401E28DF.png"
+File: 8B0E3AE8-7821-4313-8D1A-B28A68519FAE.png, suggested name: "widget-medium_0_AC389CE1-F46F-44EE-A7BF-2184A3683EE6.png"
+File: 79954FDB-0D3C-4D82-81B1-F22BF3BEF3BE.png, suggested name: "widget-small_0_F581BED6-4CCB-4A9D-9770-317E676BE629.png"
+
+Exported 2 attachments for: V8Journey/testFrenchAndGermanLaunch():
+File: 715DDC39-EFB6-459B-B0D6-382F61065FF0.png, suggested name: "09-de-home_0_EEF9A96D-1FBC-4EFD-9C1A-6462D23392EE.png"
+File: F99A4328-357E-4ABB-9887-010EFB1C3FD5.png, suggested name: "08-fr-home_0_B9AC74A6-AB8A-47F0-A0ED-39C17C0B2052.png"
+
+Exported 6 attachments for: V8Journey/testKitchenFlowAndPersistence():
+File: BBADEDFD-922D-4E00-ABE3-363C5AC5EE9A.png, suggested name: "06-favorites_0_BE0AD60E-D166-4236-89AC-F99BBE4150CB.png"
+File: 31F6C250-1F33-4652-8773-81A25333A9A6.png, suggested name: "05-planner_0_3A196551-58EC-4EF2-B484-5662B75171FD.png"
+File: 046F7FDD-AC64-4C8B-88A1-012FA3FE05E7.png, suggested name: "04-shopping_0_62E44BEE-5891-4863-9009-9EFA95025430.png"
+File: CD7104D8-8E22-4C07-9544-D1F880C7A046.png, suggested name: "03-cooking-step-two_0_6B579732-9411-4897-BBC6-DF64D86937EC.png"
+File: 84A7FD1C-C90F-4252-A77E-D915B97CCBF5.png, suggested name: "02-recipe_0_53386D2A-FE15-4BC7-B8EF-30E4903EA696.png"
+File: 943F4742-CB47-422F-822A-7D33576054EA.png, suggested name: "01-en-home_0_F583367D-7279-403C-84A9-80B4502A8F86.png"
+
+Exported 2 attachments for: V8Journey/testPortuguesePreferences():
+File: 5C70A2AF-745A-498B-9411-CC7A6805B56A.png, suggested name: "11-pt-preferences_0_78C83DCD-7D7B-4696-974C-54CF2DFDBAB3.png"
+File: CBD8F282-2BF2-43EF-A68E-A91CE04D7CC8.png, suggested name: "10-pt-home_0_1A9B04EA-FB99-468D-A7A3-F8BED8B80D10.png"
+
+Exported 1 attachment for: V8Journey/testRemindersPermissionResponse():
+File: BEAAA4FD-A9AB-4318-B1BE-51271A526CE7.png, suggested name: "14-reminders-permission-response_0_39C60A58-34E9-438A-AECB-B30A372B8E2B.png"
+
+Exported 2 attachments for: V8Journey/testSearchAndPantry():
+File: 549637D6-C172-49F7-9975-85E681684D2C.png, suggested name: "13-pantry_0_B0E2419E-06CC-4641-805D-195836B7D2EE.png"
+File: C2DAF8D5-A72D-41BF-83E1-335CD74985C3.png, suggested name: "12-search_0_34C48A84-533E-4386-A3B4-0BBA7CF2B3F0.png"
+
+Exported 1 attachment for: V8Journey/testTimerPauseResume():
+File: 80F5DCA5-09B5-4241-AEFB-4D393C27FD32.png, suggested name: "07-paused-timer_0_E471CC02-DA93-486D-8FEC-43CD4A153011.png"
+
+Generated manifest file with attachment details: $PROJECT_ROOT/QA/Verified-iPhone/manifest.json

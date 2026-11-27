@@ -1,0 +1,150 @@
+Application, 0x106bed180, pid: 5611, label: ' ' <App element pid: 5611>
+  Window, 0x106bed400, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4648731648.5>
+    Other, 0x106bed2c0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4634605120.19>
+  Window, 0x106bec8c0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4607495168.6>
+    Other, 0x106beca00, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4607341248.20>
+      Other, 0x106befc00, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4607340352.35>
+        Other, 0x106befe80, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4607339904.48>
+        Other, 0x106befd40, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4607340800.49>
+        Other, 0x106befac0, {{153.7, 14.0}, {94.7, 36.7}} <AX element pid: 5611, elementOrHash.elementID: 4608393728.50>
+          Other, 0x106bef700, {{153.7, 14.0}, {94.7, 36.7}} <AX element pid: 5611, elementOrHash.elementID: 4608394240.58>
+  Window, 0x106bed900, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4607494144.7>
+    Other, 0x106bed7c0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4607339008.21>
+      Other, 0x106bedb80, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4607335424.36>
+        Other, 0x106bedcc0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4607336768.51>
+          Other, 0x106bedf40, {{153.7, 14.0}, {94.7, 36.7}} <AX element pid: 5611, elementOrHash.elementID: 4609123520.59>
+            Other, 0x106bee080, {{153.7, 14.0}, {94.7, 36.7}} <AX element pid: 5611, elementOrHash.elementID: 4727455744.66>
+            Other, 0x106bede00, {{153.7, 14.0}, {94.7, 36.7}} <AX element pid: 5611, elementOrHash.elementID: 4727456256.67>
+              Other, 0x106bee1c0, {{153.7, 14.0}, {94.7, 36.7}} <AX element pid: 5611, elementOrHash.elementID: 4727456768.78>
+            Other, 0x106bee440, {{154.7, 15.0}, {92.7, 34.7}} <AX element pid: 5611, elementOrHash.elementID: 4634035968.68>
+        Other, 0x106bee580, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4607337216.52>
+          Other, 0x106beef80, {{153.7, 14.0}, {94.7, 36.7}} <AX element pid: 5611, elementOrHash.elementID: 4595416576.60>
+            Other, 0x106beee40, {{153.7, 14.0}, {94.7, 36.7}} <AX element pid: 5611, elementOrHash.elementID: 4608393216.69>
+          Other, 0x106beed00, {{153.7, 14.0}, {94.7, 36.7}} <AX element pid: 5611, elementOrHash.elementID: 4634600640.61>
+            Other, 0x106bef0c0, {{154.3, 14.7}, {93.3, 35.3}} <AX element pid: 5611, elementOrHash.elementID: 4634600192.70>
+        Other, 0x106bef340, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4607337664.53>
+          Other, 0x106bef480, {{153.7, 14.0}, {94.7, 36.7}} <AX element pid: 5611, elementOrHash.elementID: 4460393600.62>
+            Other, 0x106bef200, {{143.7, 10.0}, {114.7, 52.0}} <AX element pid: 5611, elementOrHash.elementID: 4609125760.71>
+            Other, 0x106bef5c0, {{153.7, 14.0}, {94.7, 36.7}} <AX element pid: 5611, elementOrHash.elementID: 4609115008.72>
+              Other, 0x106bef840, {{153.7, 14.0}, {94.7, 36.7}} <AX element pid: 5611, elementOrHash.elementID: 4649314368.79>
+                Other, 0x106bee300, {{153.7, 14.0}, {94.7, 36.7}} <AX element pid: 5611, elementOrHash.elementID: 4649308544.88>
+              Other, 0x106bee6c0, {{153.7, 14.0}, {94.7, 36.7}} <AX element pid: 5611, elementOrHash.elementID: 4727458304.80>
+        Other, 0x106bee940, {{202.7, 28.0}, {9.0, 9.0}} <AX element pid: 5611, elementOrHash.elementID: 4607335872.54>
+  Window, 0x106beea80, {{0.0, 0.0}, {1206.0, 2622.0}} <AX element pid: 5611, elementOrHash.elementID: 4678389504.8>
+    Other, 0x106bee800, {{0.0, 0.0}, {1206.0, 2622.0}} <AX element pid: 5611, elementOrHash.elementID: 4678060672.22>
+      Other, 0x106beebc0, {{0.0, 0.0}, {1206.0, 2622.0}} <AX element pid: 5611, elementOrHash.elementID: 4677962880.37>
+      Other, 0x10a712f80, {{0.0, 0.0}, {1206.0, 2622.0}} <AX element pid: 5611, elementOrHash.elementID: 4677961600.38>
+      Other, 0x10a712e40, {{0.0, 0.0}, {1206.0, 2622.0}} <AX element pid: 5611, elementOrHash.elementID: 4677960320.39>
+  Window, 0x10a712d00, {{0.0, 0.0}, {1206.0, 2622.0}} <AX element pid: 5611, elementOrHash.elementID: 4468716032.9>
+    Other, 0x10a712bc0, {{0.0, 0.0}, {1206.0, 2622.0}} <AX element pid: 5611, elementOrHash.elementID: 4468781312.23>
+  Window, 0x10a712a80, {{0.0, 0.0}, {402.0, 874.0}}, identifier: 'SBSwitcherWindow:Main' <AX element pid: 5611, elementOrHash.elementID: 4648733696.10>
+    Other, 0x10a712940, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4649309440.24>
+      Other, 0x10a712800, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4648290304.40>
+        Other, 0x10a7126c0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4649517056.55>
+          Other, 0x10a712580, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4649309888.63>
+            ScrollView, 0x10a712440, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4634353152.73>
+            Other, 0x10a712300, {{0.0, 0.0}, {402.0, 874.0}}, identifier: 'AppSwitcherContentView' <AX element pid: 5611, elementOrHash.elementID: 4649518592.74>
+              Other, 0x10a7121c0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4648002560.81>
+                Other, 0x10a711900, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4729811968.89>
+                  Other, 0x106a9b5c0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4730305856.100>
+              Other, 0x106a98dc0, {{0.0, 0.0}, {402.0, 874.0}}, identifier: 'card:studio.meringue.folio.d743:sceneID:studio.meringue.folio.d743-default', label: 'Dessert Book' <AX element pid: 5611, elementOrHash.elementID: 4648561920.82>
+                Other, 0x106a98640, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4729806336.90>
+                  Other, 0x106a9be80, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4729958272.101>
+                    Other, 0x112dac000, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4730298240.112>
+                      Other, 0x112dac140, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4730298688.117>
+                        Other, 0x112dac280, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4730297792.121>
+                          ScrollView, 0x112dac3c0, {{0.0, -437.0}, {402.0, 1311.0}} <AX element pid: 5611, elementOrHash.elementID: 4648489984.122>
+                            Other, 0x112dac500, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4679549952.123>
+                              Other, 0x112dac640, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4730301824.124>
+                                Other, 0x112dac780, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4729807872.125>
+                                  Other, 0x112dac8c0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4728762880.128>
+                                    Other, 0x112daca00, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4728765952.129>
+                                      Other, 0x112dacb40, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4464075072.130>
+                                        Other, 0x112dacc80, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4730951680.131>
+                                          Other, 0x112dacdc0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4730958336.133>
+                                            Other, 0x112dacf00, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4464067904.135>
+                                              StatusBar, 0x112dad040, {{0.0, 0.0}, {402.0, 54.0}} <AX element pid: 5611, elementOrHash.elementID: 4728082944.137>
+                                                Other, 0x112dad180, {{0.0, 0.0}, {402.0, 54.0}} <AX element pid: 5611, elementOrHash.elementID: 4728080640.138>
+                                                  Other, 0x112dad2c0, {{0.0, 0.0}, {402.0, 54.0}} <AX element pid: 5611, elementOrHash.elementID: 4464081792.139>
+                                                    StaticText, 0x112dad400, {{62.0, 21.7}, {39.3, 21.7}}, label: '3:28 PM' <AX element pid: 5611, elementOrHash.elementID: 4875483520.140>
+                                                    Other, 0x112dad540, {{277.0, 25.0}, {20.7, 13.7}}, label: 'Cellular', value: No signal <AX element pid: 5611, elementOrHash.elementID: 4875468800.141>
+                                                    Other, 0x112dad680, {{306.7, 26.0}, {17.3, 12.7}}, identifier: '3 of 3 Wi-Fi bars', value: SSID, 3 of 3 Wi-Fi... <AX element pid: 5611, elementOrHash.elementID: 4875469440.142>
+                                                      Image, 0x112dad7c0, {{304.0, 23.7}, {23.0, 17.3}}, identifier: 'wifi', label: 'Wi-Fi' <AX element pid: 5611, elementOrHash.elementID: 4875479040.144>
+                                                    Other, 0x112dad900, {{333.0, 25.3}, {29.3, 13.7}}, label: '100% battery power', value: Not charging <AX element pid: 5611, elementOrHash.elementID: 4875477120.143>
+                                        Other, 0x112dada40, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4679594240.132>
+                                          Other, 0x112dadb80, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4464075968.134>
+                                            Other, 0x112dadcc0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4843636608.136>
+                                Other, 0x112dade00, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4730303616.126>
+                                Other, 0x112dadf40, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4730302272.127>
+              Other, 0x112dae080, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4648007168.83>
+                Other, 0x112dae1c0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4729810944.91>
+                  Other, 0x112dae300, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4730305408.102>
+                    Other, 0x112dae440, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4730959360.113>
+  Window, 0x112dae580, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4678399744.11>
+    Other, 0x112dae6c0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4419664896.25>
+      Other, 0x112dae800, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4469095936.41>
+  Window, 0x112dae940, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4634330368.12>
+    Other, 0x112daea80, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4650940928.26>
+      Other, 0x112daebc0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4650937856.42>
+  Window, 0x112daed00, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4634335488.13>
+    Other, 0x112daee40, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4650929152.27>
+      Other, 0x112daef80, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4648289792.43>
+  Window, 0x112daf0c0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4678386944.14>
+    Other, 0x112daf200, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4595411456.28>
+      Other, 0x112daf340, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4595400704.44>
+  Window, 0x112daf480, {{0.0, 0.0}, {1206.0, 2622.0}} <AX element pid: 5611, elementOrHash.elementID: 4608381952.15>
+    Other, 0x112daf5c0, {{461.0, 42.0}, {284.0, 110.0}} <AX element pid: 5611, elementOrHash.elementID: 4609118144.29>
+  Window, 0x112daf700, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4419389440.16>
+  Window, 0x112daf840, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4419387392.17>
+    Other, 0x112daf980, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4463081024.30>
+  Window, 0x112dafac0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4607498240.18>
+    Other, 0x112dafc00, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4609118592.31>
+  Window (Main), 0x112dafd40, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4648564480.4>
+    Other, 0x112dafe80, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4677883904.32>
+    Other, 0x112db4000, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4730289024.33>
+    Other, 0x112db4140, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4843642368.34>
+      Other, 0x112db4280, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4728503168.45>
+      Other, 0x112db43c0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4462985216.46>
+      Alert, 0x112db4500, {{41.0, 299.3}, {320.0, 303.3}}, identifier: 'kTCCServiceReminders-alert', label: 'Allow “Dessert Book” to access your reminders?' <AX element pid: 5611, elementOrHash.elementID: 4729743360.47>
+        Other, 0x112db4640, {{41.0, 299.3}, {320.0, 303.3}} <AX element pid: 5611, elementOrHash.elementID: 4650525888.56>
+          Other, 0x112db4780, {{41.0, 299.3}, {320.0, 303.3}} <AX element pid: 5611, elementOrHash.elementID: 4728081408.64>
+            Other, 0x112db48c0, {{41.0, 299.3}, {320.0, 303.3}} <AX element pid: 5611, elementOrHash.elementID: 4729762944.75>
+            Other, 0x112db4a00, {{41.0, 299.3}, {320.0, 303.3}} <AX element pid: 5611, elementOrHash.elementID: 4729753984.76>
+              ScrollView, 0x112db4b40, {{41.0, 299.3}, {320.0, 223.3}} <AX element pid: 5611, elementOrHash.elementID: 4648495104.84>
+                Other, 0x112db4c80, {{41.0, 299.3}, {320.0, 223.3}} <AX element pid: 5611, elementOrHash.elementID: 4650930176.92>
+                  Other, 0x112db4dc0, {{67.0, 299.3}, {268.0, 89.0}} <AX element pid: 5611, elementOrHash.elementID: 4464076416.103>
+                    Other, 0x112db4f00, {{67.0, 299.3}, {268.0, 89.0}} <AX element pid: 5611, elementOrHash.elementID: 4650525440.114>
+                      Image, 0x112db5040, {{67.0, 319.3}, {69.0, 69.0}}, identifier: '/Users/belzephyrus/Library/Developer/CoreSimulator/Devices/7A209686-75BA-4ECF-A08B-664D2703E691/data/tmp/com.apple.tccd/kTCCServiceReminders@3x.png' <AX element pid: 5611, elementOrHash.elementID: 4843637248.118>
+                  StaticText, 0x112db5180, {{71.0, 410.3}, {260.0, 42.3}}, label: 'Allow “Dessert Book” to access your reminders?' <AX element pid: 5611, elementOrHash.elementID: 4650928640.104>
+                  StaticText, 0x112db52c0, {{71.0, 460.3}, {260.0, 58.0}}, label: 'Dessert Book can add a planned bake to Apple Reminders when you choose to export it.' <AX element pid: 5611, elementOrHash.elementID: 4650929664.105>
+                Other, 0x112db5400, {{328.0, 299.3}, {30.0, 223.3}}, label: 'Vertical scroll bar, 1 page', value: 0% <AX element pid: 5611, elementOrHash.elementID: 4730946048.93>
+                  Other, 0x112db5540, {{355.0, 260.3}, {3.0, 36.0}} <AX element pid: 5611, elementOrHash.elementID: 4728498240.106>
+                Other, 0x112db5680, {{41.0, 489.7}, {320.0, 30.0}}, label: 'Horizontal scroll bar, 1 page', value: 0% <AX element pid: 5611, elementOrHash.elementID: 4730960384.94>
+                  Other, 0x112db57c0, {{2.0, 516.7}, {36.0, 3.0}} <AX element pid: 5611, elementOrHash.elementID: 4728489728.107>
+                Other, 0x112db5900, {{328.0, 299.3}, {30.0, 223.3}}, label: 'Vertical scroll bar, 1 page', value: 0% <AX element pid: 5611, elementOrHash.elementID: 4730946048.93>
+                  Other, 0x112db5a40, {{355.0, 260.3}, {3.0, 36.0}} <AX element pid: 5611, elementOrHash.elementID: 4728498240.106>
+                Other, 0x112db5b80, {{41.0, 489.7}, {320.0, 30.0}}, label: 'Horizontal scroll bar, 1 page', value: 0% <AX element pid: 5611, elementOrHash.elementID: 4730960384.94>
+                  Other, 0x112db5cc0, {{2.0, 516.7}, {36.0, 3.0}} <AX element pid: 5611, elementOrHash.elementID: 4728489728.107>
+              ScrollView, 0x112db5e00, {{41.0, 522.7}, {320.0, 80.0}} <AX element pid: 5611, elementOrHash.elementID: 4648487424.85>
+                Other, 0x112db5f40, {{41.0, 522.7}, {320.0, 80.0}} <AX element pid: 5611, elementOrHash.elementID: 4843643648.95>
+                  Other, 0x112db6080, {{57.0, 538.7}, {288.0, 48.0}} <AX element pid: 5611, elementOrHash.elementID: 4633950720.108>
+                    Button, 0x112db61c0, {{57.0, 538.7}, {140.0, 48.0}}, identifier: 'kTCCServiceReminders-deny-button', label: 'Don’t Allow' <AX element pid: 5611, elementOrHash.elementID: 4875471360.115>
+                      Button, 0x112db6300, {{57.0, 538.7}, {140.0, 48.0}}, identifier: 'kTCCServiceReminders-deny-button', label: 'Don’t Allow' <AX element pid: 5611, elementOrHash.elementID: 4728084480.119>
+                    Button, 0x112db6440, {{205.0, 538.7}, {140.0, 48.0}}, identifier: 'kTCCServiceReminders-allow-button', label: 'Allow' <AX element pid: 5611, elementOrHash.elementID: 4875479680.116>
+                      Button, 0x112db6580, {{205.0, 538.7}, {140.0, 48.0}}, identifier: 'kTCCServiceReminders-allow-button', label: 'Allow' <AX element pid: 5611, elementOrHash.elementID: 4728085248.120>
+                Other, 0x112db66c0, {{328.0, 522.7}, {30.0, 80.0}}, label: 'Vertical scroll bar, 1 page', value: 0% <AX element pid: 5611, elementOrHash.elementID: 4728762368.96>
+                  Other, 0x112db6800, {{355.0, 612.7}, {3.0, 7.0}} <AX element pid: 5611, elementOrHash.elementID: 4728493312.109>
+                Other, 0x112db6940, {{41.0, 569.7}, {320.0, 30.0}}, label: 'Horizontal scroll bar, 1 page', value: 0% <AX element pid: 5611, elementOrHash.elementID: 4728751104.97>
+                  Other, 0x112db6a80, {{131.0, 596.7}, {7.0, 3.0}} <AX element pid: 5611, elementOrHash.elementID: 4728501376.110>
+                Other, 0x112db6bc0, {{328.0, 522.7}, {30.0, 80.0}}, label: 'Vertical scroll bar, 1 page', value: 0% <AX element pid: 5611, elementOrHash.elementID: 4728762368.96>
+                  Other, 0x112db6d00, {{355.0, 612.7}, {3.0, 7.0}} <AX element pid: 5611, elementOrHash.elementID: 4728493312.109>
+                Other, 0x112db6e40, {{41.0, 569.7}, {320.0, 30.0}}, label: 'Horizontal scroll bar, 1 page', value: 0% <AX element pid: 5611, elementOrHash.elementID: 4728751104.97>
+                  Other, 0x112db6f80, {{131.0, 596.7}, {7.0, 3.0}} <AX element pid: 5611, elementOrHash.elementID: 4728501376.110>
+        Other, 0x112db70c0, {{41.0, 299.3}, {320.0, 303.3}} <AX element pid: 5611, elementOrHash.elementID: 4648292352.57>
+          Other, 0x112db7200, {{41.0, 299.3}, {320.0, 303.3}} <AX element pid: 5611, elementOrHash.elementID: 4650386944.65>
+            Other, 0x112db7340, {{41.0, 299.3}, {320.0, 303.3}} <AX element pid: 5611, elementOrHash.elementID: 4648293376.77>
+              Other, 0x112db7480, {{41.0, 299.3}, {320.0, 303.3}} <AX element pid: 5611, elementOrHash.elementID: 4648289280.86>
+                Other, 0x112db75c0, {{41.0, 299.3}, {320.0, 303.3}} <AX element pid: 5611, elementOrHash.elementID: 4680063232.98>
+                  Other, 0x112db7700, {{41.0, 299.3}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4728502720.111>
+              Other, 0x112db7840, {{41.0, 299.3}, {320.0, 303.3}} <AX element pid: 5611, elementOrHash.elementID: 4875617536.87>
+                Other, 0x112db7980, {{41.0, 299.3}, {402.0, 874.0}} <AX element pid: 5611, elementOrHash.elementID: 4648302080.99>

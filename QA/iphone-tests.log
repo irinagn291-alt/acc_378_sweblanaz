@@ -1,0 +1,781 @@
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project $PROJECT_ROOT/DessertBook.xcodeproj -scheme DessertKitchen -configuration Debug -destination id=7A209686-75BA-4ECF-A08B-664D2703E691 -parallel-testing-enabled NO -jobs 2 -derivedDataPath $PROJECT_ROOT/Artifacts/TestCompilerCache -resultBundlePath $PROJECT_ROOT/QA/iPhone.xcresult CODE_SIGNING_ALLOWED=NO ARCHS=arm64 test
+
+Build settings from command line:
+    ARCHS = arm64
+    CODE_SIGNING_ALLOWED = NO
+
+Writing result bundle at path:
+	$PROJECT_ROOT/QA/iPhone.xcresult
+
+Build Preparation
+Build task concurrency set to 2 via user default IDEBuildOperationMaxNumberOfConcurrentCompileTasks
+
+ComputePackagePrebuildTargetDependencyGraph
+
+Prepare packages
+
+CreateBuildRequest
+
+SendProjectDescription
+
+CreateBuildOperation
+
+ComputeTargetDependencyGraph
+note: Building targets in dependency order
+note: Target dependency graph (4 targets)
+    Target 'KitchenJourney' in project 'DessertBook'
+        ➜ Explicit dependency on target 'FolioKitchen' in project 'DessertBook'
+    Target 'CrumbChecks' in project 'DessertBook'
+        ➜ Explicit dependency on target 'FolioKitchen' in project 'DessertBook'
+    Target 'FolioKitchen' in project 'DessertBook'
+        ➜ Explicit dependency on target 'KitchenPages' in project 'DessertBook'
+    Target 'KitchenPages' in project 'DessertBook' (no dependencies)
+
+GatherProvisioningInputs
+
+CreateBuildDescription
+
+ClangStatCache /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang-stat-cache /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.2.sdk $PROJECT_ROOT/Artifacts/TestCompilerCache/SDKStatCaches.noindex/iphonesimulator27.2-24B8118-9aa026f88bf9ed31cff8761912ac5bd1cc78df9d8a9de6526dea716b1c70fd8e.sdkstatcache
+    cd $PROJECT_ROOT/DessertBook.xcodeproj
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang-stat-cache /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.2.sdk -o $PROJECT_ROOT/Artifacts/TestCompilerCache/SDKStatCaches.noindex/iphonesimulator27.2-24B8118-9aa026f88bf9ed31cff8761912ac5bd1cc78df9d8a9de6526dea716b1c70fd8e.sdkstatcache
+
+CompileAssetCatalogVariant thinned $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/KitchenPages.appex $PROJECT_ROOT/DessertBook/Resources/Assets.xcassets (in target 'KitchenPages' from project 'DessertBook')
+    cd $PROJECT_ROOT
+    /Applications/Xcode.app/Contents/Developer/usr/bin/actool $PROJECT_ROOT/DessertBook/Resources/Assets.xcassets --compile $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/KitchenPages.build/assetcatalog_output/thinned --output-format human-readable-text --notices --warnings --export-dependency-info $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/KitchenPages.build/assetcatalog_dependencies_thinned --output-partial-info-plist $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/KitchenPages.build/assetcatalog_generated_info.plist_thinned --compress-pngs --enable-on-demand-resources NO --standalone-icon-behavior all --filter-for-thinning-device-configuration iPhone19,2 --filter-for-device-os-version 27.2 --development-region en --target-device iphone --target-device ipad --minimum-deployment-target 17.4 --platform iphonesimulator
+/* com.apple.actool.compilation-results */
+$PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/KitchenPages.build/assetcatalog_generated_info.plist_thinned
+$PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/KitchenPages.build/assetcatalog_output/thinned/Assets.car
+
+
+CompileAssetCatalogVariant thinned $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app $PROJECT_ROOT/DessertBook/Resources/Assets.xcassets (in target 'FolioKitchen' from project 'DessertBook')
+    cd $PROJECT_ROOT
+    /Applications/Xcode.app/Contents/Developer/usr/bin/actool $PROJECT_ROOT/DessertBook/Resources/Assets.xcassets --compile $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/FolioKitchen.build/assetcatalog_output/thinned --output-format human-readable-text --notices --warnings --export-dependency-info $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/FolioKitchen.build/assetcatalog_dependencies_thinned --output-partial-info-plist $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/FolioKitchen.build/assetcatalog_generated_info.plist_thinned --app-icon OvenMark --compress-pngs --enable-on-demand-resources YES --filter-for-thinning-device-configuration iPhone19,2 --filter-for-device-os-version 27.2 --development-region en --target-device iphone --target-device ipad --minimum-deployment-target 17.4 --platform iphonesimulator
+/* com.apple.actool.compilation-results */
+$PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/FolioKitchen.build/assetcatalog_generated_info.plist_thinned
+$PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/FolioKitchen.build/assetcatalog_output/thinned/Assets.car
+$PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/FolioKitchen.build/assetcatalog_output/thinned/OvenMark60x60@2x.png
+$PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/FolioKitchen.build/assetcatalog_output/thinned/OvenMark76x76@2x~ipad.png
+
+
+LinkAssetCatalog $PROJECT_ROOT/DessertBook/Resources/Assets.xcassets (in target 'KitchenPages' from project 'DessertBook')
+    cd $PROJECT_ROOT
+    builtin-linkAssetCatalog --thinned $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/KitchenPages.build/assetcatalog_output/thinned --thinned-dependencies $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/KitchenPages.build/assetcatalog_dependencies_thinned --thinned-info-plist-content $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/KitchenPages.build/assetcatalog_generated_info.plist_thinned --unthinned $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/KitchenPages.build/assetcatalog_output/unthinned --unthinned-dependencies $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/KitchenPages.build/assetcatalog_dependencies_unthinned --unthinned-info-plist-content $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/KitchenPages.build/assetcatalog_generated_info.plist_unthinned --output $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/KitchenPages.appex --plist-output $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/KitchenPages.build/assetcatalog_generated_info.plist
+note: Emplaced $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/KitchenPages.appex/Assets.car (in target 'KitchenPages' from project 'DessertBook')
+
+ProcessInfoPlistFile $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/KitchenPages.appex/Info.plist $PROJECT_ROOT/TimerTiles/Info.plist (in target 'KitchenPages' from project 'DessertBook')
+    cd $PROJECT_ROOT
+    builtin-infoPlistUtility $PROJECT_ROOT/TimerTiles/Info.plist -producttype com.apple.product-type.app-extension -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/KitchenPages.build/assetcatalog_generated_info.plist -o $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/KitchenPages.appex/Info.plist
+
+LinkAssetCatalog $PROJECT_ROOT/DessertBook/Resources/Assets.xcassets (in target 'FolioKitchen' from project 'DessertBook')
+    cd $PROJECT_ROOT
+    builtin-linkAssetCatalog --thinned $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/FolioKitchen.build/assetcatalog_output/thinned --thinned-dependencies $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/FolioKitchen.build/assetcatalog_dependencies_thinned --thinned-info-plist-content $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/FolioKitchen.build/assetcatalog_generated_info.plist_thinned --unthinned $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/FolioKitchen.build/assetcatalog_output/unthinned --unthinned-dependencies $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/FolioKitchen.build/assetcatalog_dependencies_unthinned --unthinned-info-plist-content $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/FolioKitchen.build/assetcatalog_generated_info.plist_unthinned --output $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app --plist-output $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/FolioKitchen.build/assetcatalog_generated_info.plist
+note: Emplaced $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/OvenMark60x60@2x.png (in target 'FolioKitchen' from project 'DessertBook')
+note: Emplaced $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/Assets.car (in target 'FolioKitchen' from project 'DessertBook')
+note: Emplaced $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/OvenMark76x76@2x~ipad.png (in target 'FolioKitchen' from project 'DessertBook')
+
+Copy $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/PlugIns/KitchenPages.appex $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/KitchenPages.appex (in target 'FolioKitchen' from project 'DessertBook')
+    cd $PROJECT_ROOT
+    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -exclude Headers -exclude PrivateHeaders -exclude Modules -exclude \*.tbd -strip-unsigned-binaries -strip-deterministic -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks -remove-static-executable $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/KitchenPages.appex $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/PlugIns
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -D -S -no_atom_info $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/KitchenPages.appex/KitchenPages -o $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/PlugIns/KitchenPages.appex/KitchenPages/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -D -S -no_atom_info $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/KitchenPages.appex/__preview.dylib -o $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/PlugIns/KitchenPages.appex/__preview.dylib/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -D -S -no_atom_info $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/KitchenPages.appex/KitchenPages.debug.dylib -o $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/PlugIns/KitchenPages.appex/KitchenPages.debug.dylib
+ProcessInfoPlistFile $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/Info.plist $PROJECT_ROOT/DessertBook/Info.plist (in target 'FolioKitchen' from project 'DessertBook')
+    cd $PROJECT_ROOT
+    builtin-infoPlistUtility $PROJECT_ROOT/DessertBook/Info.plist -producttype com.apple.product-type.application -genpkginfo $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/FolioKitchen.build/assetcatalog_generated_info.plist -scanforprivacyfile $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/PlugIns/KitchenPages.appex -o $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/Info.plist
+
+CopySwiftLibs $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app (in target 'FolioKitchen' from project 'DessertBook')
+    cd $PROJECT_ROOT
+    builtin-swiftStdLibTool --copy --verbose --scan-executable $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/FolioKitchen.debug.dylib --scan-folder $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/Frameworks --scan-folder $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/PlugIns --scan-folder $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/SystemExtensions --scan-folder $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/Extensions --platform iphonesimulator --toolchain /var/run/com.apple.security.cryptexd/mnt/com.apple.MobileAsset.MetalToolchain-v27.2.47.0.L9KO4x/Metal.xctoolchain --toolchain /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain --destination $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/Frameworks --strip-bitcode --strip-bitcode-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip --emit-dependency-info $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/FolioKitchen.build/SwiftStdLibToolInputDependencies.dep --filter-for-swift-os
+Ignoring --strip-bitcode because --sign was not passed
+
+ProcessInfoPlistFile $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/PlugIns/CrumbChecks.xctest/Info.plist $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/CrumbChecks.build/empty-CrumbChecks.plist (in target 'CrumbChecks' from project 'DessertBook')
+    cd $PROJECT_ROOT
+    builtin-infoPlistUtility $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/CrumbChecks.build/empty-CrumbChecks.plist -producttype com.apple.product-type.bundle.unit-test -expandbuildsettings -format binary -platform iphonesimulator -o $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/PlugIns/CrumbChecks.xctest/Info.plist
+
+ValidateEmbeddedBinary $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/PlugIns/KitchenPages.appex (in target 'FolioKitchen' from project 'DessertBook')
+    cd $PROJECT_ROOT
+    /Applications/Xcode.app/Contents/Developer/usr/bin/embeddedBinaryValidationUtility $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/PlugIns/KitchenPages.appex -info-plist-path $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/Info.plist
+
+CopySwiftLibs $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/PlugIns/CrumbChecks.xctest (in target 'CrumbChecks' from project 'DessertBook')
+    cd $PROJECT_ROOT
+    builtin-swiftStdLibTool --copy --verbose --scan-executable $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/PlugIns/CrumbChecks.xctest/CrumbChecks --scan-folder $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/PlugIns/CrumbChecks.xctest/Frameworks --scan-folder $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/PlugIns/CrumbChecks.xctest/PlugIns --scan-folder $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/PlugIns/CrumbChecks.xctest/SystemExtensions --scan-folder $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/PlugIns/CrumbChecks.xctest/Extensions --platform iphonesimulator --toolchain /var/run/com.apple.security.cryptexd/mnt/com.apple.MobileAsset.MetalToolchain-v27.2.47.0.L9KO4x/Metal.xctoolchain --toolchain /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain --destination $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/FolioKitchen.app/PlugIns/CrumbChecks.xctest/Frameworks --strip-bitcode --scan-executable /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/lib/libXCTestSwiftSupport.dylib --strip-bitcode-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip --emit-dependency-info $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/CrumbChecks.build/SwiftStdLibToolInputDependencies.dep --filter-for-swift-os
+Ignoring --strip-bitcode because --sign was not passed
+
+ProcessInfoPlistFile $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/KitchenJourney-Runner.app/PlugIns/KitchenJourney.xctest/Info.plist $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/KitchenJourney.build/empty-KitchenJourney.plist (in target 'KitchenJourney' from project 'DessertBook')
+    cd $PROJECT_ROOT
+    builtin-infoPlistUtility $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/KitchenJourney.build/empty-KitchenJourney.plist -producttype com.apple.product-type.bundle.ui-testing -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/KitchenJourney.build/ProductTypeInfoPlistAdditions.plist -o $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/KitchenJourney-Runner.app/PlugIns/KitchenJourney.xctest/Info.plist
+
+CopySwiftLibs $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/KitchenJourney-Runner.app/PlugIns/KitchenJourney.xctest (in target 'KitchenJourney' from project 'DessertBook')
+    cd $PROJECT_ROOT
+    builtin-swiftStdLibTool --copy --verbose --scan-executable $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/KitchenJourney-Runner.app/PlugIns/KitchenJourney.xctest/KitchenJourney --scan-folder $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/KitchenJourney-Runner.app/PlugIns/KitchenJourney.xctest/Frameworks --scan-folder $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/KitchenJourney-Runner.app/PlugIns/KitchenJourney.xctest/PlugIns --scan-folder $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/KitchenJourney-Runner.app/PlugIns/KitchenJourney.xctest/SystemExtensions --scan-folder $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/KitchenJourney-Runner.app/PlugIns/KitchenJourney.xctest/Extensions --platform iphonesimulator --toolchain /var/run/com.apple.security.cryptexd/mnt/com.apple.MobileAsset.MetalToolchain-v27.2.47.0.L9KO4x/Metal.xctoolchain --toolchain /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain --destination $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Products/Debug-iphonesimulator/KitchenJourney-Runner.app/PlugIns/KitchenJourney.xctest/Frameworks --strip-bitcode --scan-executable /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/lib/libXCTestSwiftSupport.dylib --strip-bitcode-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip --emit-dependency-info $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/DessertBook.build/Debug-iphonesimulator/KitchenJourney.build/SwiftStdLibToolInputDependencies.dep --filter-for-swift-os
+Ignoring --strip-bitcode because --sign was not passed
+
+PruneExplicitPrecompiledModules $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/ExplicitPrecompiledModules
+
+PruneExplicitPrecompiledModules $PROJECT_ROOT/Artifacts/TestCompilerCache/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules
+
+PruneExplicitPrecompiledModules $PROJECT_ROOT/Artifacts/TestCompilerCache/SDKExplicitPrecompiledModules
+
+2026-11-15 15:44:31.983892+0300 FolioKitchen[13220:7508181] [XPCErrors] non-launching port is incompatible with service identifier "com.apple.PointerUI.pointeruid.default-service"
+2026-11-15 15:44:31.984154+0300 FolioKitchen[13220:7508181] [API] cannot add handler to 0 from 0 - dropping
+2026-11-15 15:44:31.984357+0300 FolioKitchen[13220:7508181] [API] cannot add handler to 0 from 0 - dropping
+2026-11-15 15:44:31.984521+0300 FolioKitchen[13220:7508181] [API] cannot add handler to 0 from 0 - dropping
+2026-11-15 15:44:31.984558+0300 FolioKitchen[13220:7508181] [API] cannot add handler to 0 from 0 - dropping
+Test Suite 'All tests' started at 2026-11-15 15:44:32.036.
+Test Suite 'CrumbChecks.xctest' started at 2026-11-15 15:44:32.037.
+Test Suite 'V8Checks' started at 2026-11-15 15:44:32.037.
+Test Case '-[CrumbChecks.V8Checks testBundledCookbookIsComplete]' started.
+Test Case '-[CrumbChecks.V8Checks testBundledCookbookIsComplete]' passed (0.003 seconds).
+Test Case '-[CrumbChecks.V8Checks testCalendarWeekWindow]' started.
+Test Case '-[CrumbChecks.V8Checks testCalendarWeekWindow]' passed (0.001 seconds).
+Test Case '-[CrumbChecks.V8Checks testCloudMergeKeepsLatestAndTombstones]' started.
+Test Case '-[CrumbChecks.V8Checks testCloudMergeKeepsLatestAndTombstones]' passed (0.000 seconds).
+Test Case '-[CrumbChecks.V8Checks testDailyRollsOver]' started.
+Test Case '-[CrumbChecks.V8Checks testDailyRollsOver]' passed (0.002 seconds).
+Test Case '-[CrumbChecks.V8Checks testFuturePlansReachWidgetCache]' started.
+Test Case '-[CrumbChecks.V8Checks testFuturePlansReachWidgetCache]' passed (0.005 seconds).
+Test Case '-[CrumbChecks.V8Checks testMilkMeasuresAggregate]' started.
+Test Case '-[CrumbChecks.V8Checks testMilkMeasuresAggregate]' passed (0.001 seconds).
+Test Case '-[CrumbChecks.V8Checks testPantryUsesEveryIngredient]' started.
+Test Case '-[CrumbChecks.V8Checks testPantryUsesEveryIngredient]' passed (0.001 seconds).
+Test Case '-[CrumbChecks.V8Checks testPlanDeletionAndShopping]' started.
+Test Case '-[CrumbChecks.V8Checks testPlanDeletionAndShopping]' passed (0.004 seconds).
+Test Case '-[CrumbChecks.V8Checks testSaveReloadAndStepBoundaries]' started.
+Test Case '-[CrumbChecks.V8Checks testSaveReloadAndStepBoundaries]' passed (0.029 seconds).
+Test Case '-[CrumbChecks.V8Checks testScaledMethod]' started.
+Test Case '-[CrumbChecks.V8Checks testScaledMethod]' passed (0.001 seconds).
+Test Case '-[CrumbChecks.V8Checks testSharedIngredientAggregationAndScale]' started.
+Test Case '-[CrumbChecks.V8Checks testSharedIngredientAggregationAndScale]' passed (0.001 seconds).
+Test Case '-[CrumbChecks.V8Checks testSinglePortionLabel]' started.
+Test Case '-[CrumbChecks.V8Checks testSinglePortionLabel]' passed (0.000 seconds).
+Test Case '-[CrumbChecks.V8Checks testTextAndCategory]' started.
+Test Case '-[CrumbChecks.V8Checks testTextAndCategory]' passed (0.001 seconds).
+Test Case '-[CrumbChecks.V8Checks testTimerPauseResumeCancel]' started.
+2026-11-15 15:44:32.112388+0300 FolioKitchen[13220:7508341] [api] Updating content for activity AA3265BC-732C-4D90-BA62-7691BB86A54D
+2026-11-15 15:44:32.115507+0300 FolioKitchen[13220:7508341] [api] Updating content for activity AA3265BC-732C-4D90-BA62-7691BB86A54D
+Test Case '-[CrumbChecks.V8Checks testTimerPauseResumeCancel]' passed (0.033 seconds).
+Test Case '-[CrumbChecks.V8Checks testWidgetFamilyRendersOffline]' started.
+IOSurfaceClientSetSurfaceNotify failed e00002c7
+Test Case '-[CrumbChecks.V8Checks testWidgetFamilyRendersOffline]' passed (0.365 seconds).
+Test Suite 'V8Checks' passed at 2026-11-15 15:44:32.487.
+	 Executed 15 tests, with 0 failures (0 unexpected) in 0.447 (0.450) seconds
+Test Suite 'CrumbChecks.xctest' passed at 2026-11-15 15:44:32.487.
+	 Executed 15 tests, with 0 failures (0 unexpected) in 0.447 (0.451) seconds
+Test Suite 'All tests' passed at 2026-11-15 15:44:32.487.
+	 Executed 15 tests, with 0 failures (0 unexpected) in 0.447 (0.451) seconds
+2026-11-15 15:44:33.451875+0300 KitchenJourney-Runner[13246:7508499] [Default] Running tests...
+    t =      nans Interface orientation changed to Portrait
+Test Suite 'All tests' started at 2026-11-15 15:44:36.010.
+Test Suite 'KitchenJourney.xctest' started at 2026-11-15 15:44:36.010.
+Test Suite 'V8Journey' started at 2026-11-15 15:44:36.011.
+Test Case '-[KitchenJourney.V8Journey testFrenchAndGermanLaunch]' started.
+    t =     0.00s Start Test at 2026-11-15 15:44:36.012
+    t =     0.02s Set Up
+    t =     0.02s     Open studio.meringue.folio.d743
+    t =     0.02s         Launch studio.meringue.folio.d743
+2026-11-15 15:44:36.074 xcodebuild[13203:7507769] [MT] IDELaunchParametersSnapshot: debugger version lookup failed for path '<nil>': noURL
+2026-11-15 15:44:36.074 xcodebuild[13203:7507769] [MT] IDELaunchParametersSnapshot: no debugger version
+    t =     0.27s             Setting up automation session
+objc[13246]: Class UIAccessibilityLoaderWebShared is implemented in both /private/var/run/com.apple.security.cryptexd/mnt/com.apple.iPhoneOS.SimulatorRuntime-v24.2.8117.0.Z3Mabo/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 27.2.simruntime/Contents/Resources/RuntimeRoot/System/Library/AccessibilityBundles/WebCore.axbundle/WebCore (0x1084c8310) and /private/var/run/com.apple.security.cryptexd/mnt/com.apple.iPhoneOS.SimulatorRuntime-v24.2.8117.0.Z3Mabo/Library/Developer/CoreSimulator/Profiles/Runtimes/iOS 27.2.simruntime/Contents/Resources/RuntimeRoot/System/Library/AccessibilityBundles/WebKit.axbundle/WebKit (0x1084fc398). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+    t =     1.88s             Wait for studio.meringue.folio.d743 to idle
+    t =     3.32s Terminate studio.meringue.folio.d743:13264
+    t =     4.37s Open studio.meringue.folio.d743
+    t =     4.37s     Launch studio.meringue.folio.d743
+2026-11-15 15:44:40.386 xcodebuild[13203:7507769] [MT] IDELaunchParametersSnapshot: debugger version lookup failed for path '<nil>': noURL
+2026-11-15 15:44:40.386 xcodebuild[13203:7507769] [MT] IDELaunchParametersSnapshot: no debugger version
+    t =     4.58s         Setting up automation session
+    t =     5.99s         Wait for studio.meringue.folio.d743 to idle
+    t =     7.42s Waiting 10.0s for Any (First Match) to exist
+    t =     8.45s     Checking `Expect predicate `existsNoRetry == 1` for object Any (First Match)`
+    t =     8.45s         Checking existence of `Any (First Match)`
+    t =     8.60s Added attachment named '08-fr-home'
+    t =     8.60s Terminate studio.meringue.folio.d743:13281
+    t =     9.65s Open studio.meringue.folio.d743
+    t =     9.65s     Launch studio.meringue.folio.d743
+2026-11-15 15:44:45.661 xcodebuild[13203:7507769] [MT] IDELaunchParametersSnapshot: debugger version lookup failed for path '<nil>': noURL
+2026-11-15 15:44:45.661 xcodebuild[13203:7507769] [MT] IDELaunchParametersSnapshot: no debugger version
+    t =     9.86s         Setting up automation session
+    t =    11.22s         Wait for studio.meringue.folio.d743 to idle
+    t =    12.63s Waiting 10.0s for Any (First Match) to exist
+    t =    13.66s     Checking `Expect predicate `existsNoRetry == 1` for object Any (First Match)`
+    t =    13.66s         Checking existence of `Any (First Match)`
+    t =    13.80s Added attachment named '09-de-home'
+    t =    13.80s Tear Down
+Test Case '-[KitchenJourney.V8Journey testFrenchAndGermanLaunch]' passed (14.053 seconds).
+Test Case '-[KitchenJourney.V8Journey testKitchenFlowAndPersistence]' started.
+    t =     0.00s Start Test at 2026-11-15 15:44:50.067
+    t =     0.02s Set Up
+    t =     0.03s     Open studio.meringue.folio.d743
+    t =     0.03s         Launch studio.meringue.folio.d743
+    t =     0.03s             Terminate studio.meringue.folio.d743:13308
+2026-11-15 15:44:51.142 xcodebuild[13203:7507769] [MT] IDELaunchParametersSnapshot: debugger version lookup failed for path '<nil>': noURL
+2026-11-15 15:44:51.142 xcodebuild[13203:7507769] [MT] IDELaunchParametersSnapshot: no debugger version
+    t =     1.28s             Setting up automation session
+    t =     2.70s             Wait for studio.meringue.folio.d743 to idle
+    t =     4.23s Added attachment named '01-en-home'
+    t =     4.23s Checking existence of `"recipe.cupcake" Button`
+    t =     4.33s Find the "recipe.cupcake" Button
+    t =     4.37s Swipe up Target Application 'studio.meringue.folio.d743'
+    t =     4.37s     Wait for studio.meringue.folio.d743 to idle
+    t =     4.37s     Find the Target Application 'studio.meringue.folio.d743'
+    t =     4.39s     Check for interrupting elements affecting "Dessert Book" Application
+    t =     4.41s     Synthesize event
+    t =     4.83s     Wait for studio.meringue.folio.d743 to idle
+    t =     6.95s Checking existence of `"recipe.cupcake" Button`
+    t =     6.99s Find the "recipe.cupcake" Button
+    t =     7.03s Waiting 12.0s for "recipe.cupcake" Button to exist
+    t =     8.06s     Checking `Expect predicate `existsNoRetry == 1` for object "recipe.cupcake" Button`
+    t =     8.06s         Checking existence of `"recipe.cupcake" Button`
+    t =     8.10s Tap "recipe.cupcake" Button
+    t =     8.10s     Wait for studio.meringue.folio.d743 to idle
+    t =     8.18s     Find the "recipe.cupcake" Button
+    t =     8.22s     Check for interrupting elements affecting "recipe.cupcake" Button
+    t =     8.24s     Synthesize event
+    t =     8.53s     Wait for studio.meringue.folio.d743 to idle
+    t =     8.92s Waiting 5.0s for "recipe.title" StaticText to exist
+    t =     9.95s     Checking `Expect predicate `existsNoRetry == 1` for object "recipe.title" StaticText`
+    t =     9.95s         Checking existence of `"recipe.title" StaticText`
+    t =    10.11s Added attachment named '02-recipe'
+    t =    10.11s Tap "favorite" Button
+    t =    10.11s     Wait for studio.meringue.folio.d743 to idle
+    t =    10.11s     Find the "favorite" Button
+    t =    10.14s     Check for interrupting elements affecting "favorite" Button
+    t =    10.16s     Synthesize event
+    t =    10.45s     Wait for studio.meringue.folio.d743 to idle
+    t =    11.19s Checking existence of `"add.shopping" Button`
+    t =    11.23s Find the "add.shopping" Button
+    t =    11.27s Swipe up Target Application 'studio.meringue.folio.d743'
+    t =    11.27s     Wait for studio.meringue.folio.d743 to idle
+    t =    11.27s     Find the Target Application 'studio.meringue.folio.d743'
+    t =    11.29s     Check for interrupting elements affecting "Dessert Book" Application
+    t =    11.31s     Synthesize event
+    t =    11.74s     Wait for studio.meringue.folio.d743 to idle
+    t =    13.84s Checking existence of `"add.shopping" Button`
+    t =    13.88s Find the "add.shopping" Button
+    t =    13.92s Tap "add.shopping" Button
+    t =    13.92s     Wait for studio.meringue.folio.d743 to idle
+    t =    13.92s     Find the "add.shopping" Button
+    t =    13.95s     Check for interrupting elements affecting "add.shopping" Button
+    t =    13.97s     Synthesize event
+    t =    14.26s     Wait for studio.meringue.folio.d743 to idle
+    t =    14.27s Swipe down Target Application 'studio.meringue.folio.d743'
+    t =    14.27s     Wait for studio.meringue.folio.d743 to idle
+    t =    14.27s     Find the Target Application 'studio.meringue.folio.d743'
+    t =    14.30s     Check for interrupting elements affecting "Dessert Book" Application
+    t =    14.33s     Synthesize event
+    t =    14.75s     Wait for studio.meringue.folio.d743 to idle
+    t =    16.85s Swipe down Target Application 'studio.meringue.folio.d743'
+    t =    16.85s     Wait for studio.meringue.folio.d743 to idle
+    t =    17.35s     Find the Target Application 'studio.meringue.folio.d743'
+    t =    17.38s     Check for interrupting elements affecting "Dessert Book" Application
+    t =    17.41s     Synthesize event
+    t =    17.83s     Wait for studio.meringue.folio.d743 to idle
+    t =    18.32s Checking existence of `"start.cooking" Button`
+    t =    18.37s Find the "start.cooking" Button
+    t =    18.41s Tap "start.cooking" Button
+    t =    18.41s     Wait for studio.meringue.folio.d743 to idle
+    t =    18.41s     Find the "start.cooking" Button
+    t =    18.43s     Check for interrupting elements affecting "start.cooking" Button
+    t =    18.46s     Synthesize event
+    t =    18.75s     Wait for studio.meringue.folio.d743 to idle
+    t =    19.09s Waiting 5.0s for "step.next" Button to exist
+    t =    20.13s     Checking `Expect predicate `existsNoRetry == 1` for object "step.next" Button`
+    t =    20.13s         Checking existence of `"step.next" Button`
+    t =    20.18s Tap "step.next" Button
+    t =    20.18s     Wait for studio.meringue.folio.d743 to idle
+    t =    20.19s     Find the "step.next" Button
+    t =    20.22s     Check for interrupting elements affecting "step.next" Button
+    t =    20.25s     Synthesize event
+    t =    20.54s     Wait for studio.meringue.folio.d743 to idle
+    t =    20.54s Find the "step.text" StaticText
+    t =    20.65s Added attachment named '03-cooking-step-two'
+    t =    20.65s Tap "close.cooking" Button
+    t =    20.65s     Wait for studio.meringue.folio.d743 to idle
+    t =    20.66s     Find the "close.cooking" Button
+    t =    20.69s     Check for interrupting elements affecting "close.cooking" Button
+    t =    20.73s     Synthesize event
+    t =    21.02s     Wait for studio.meringue.folio.d743 to idle
+    t =    21.74s Terminate studio.meringue.folio.d743:13320
+    t =    22.79s Open studio.meringue.folio.d743
+    t =    22.79s     Launch studio.meringue.folio.d743
+2026-11-15 15:45:12.859 xcodebuild[13203:7507769] [MT] IDELaunchParametersSnapshot: debugger version lookup failed for path '<nil>': noURL
+2026-11-15 15:45:12.859 xcodebuild[13203:7507769] [MT] IDELaunchParametersSnapshot: no debugger version
+    t =    23.00s         Setting up automation session
+    t =    24.41s         Wait for studio.meringue.folio.d743 to idle
+    t =    25.79s Checking existence of `"recipe.cupcake" Button`
+    t =    25.89s Find the "recipe.cupcake" Button
+    t =    25.92s Swipe up Target Application 'studio.meringue.folio.d743'
+    t =    25.92s     Wait for studio.meringue.folio.d743 to idle
+    t =    25.92s     Find the Target Application 'studio.meringue.folio.d743'
+    t =    25.94s     Check for interrupting elements affecting "Dessert Book" Application
+    t =    25.96s     Synthesize event
+    t =    26.38s     Wait for studio.meringue.folio.d743 to idle
+    t =    28.52s Checking existence of `"recipe.cupcake" Button`
+    t =    28.56s Find the "recipe.cupcake" Button
+    t =    28.59s Waiting 12.0s for "recipe.cupcake" Button to exist
+    t =    29.62s     Checking `Expect predicate `existsNoRetry == 1` for object "recipe.cupcake" Button`
+    t =    29.62s         Checking existence of `"recipe.cupcake" Button`
+    t =    29.65s Tap "recipe.cupcake" Button
+    t =    29.65s     Wait for studio.meringue.folio.d743 to idle
+    t =    29.75s     Find the "recipe.cupcake" Button
+    t =    29.78s     Check for interrupting elements affecting "recipe.cupcake" Button
+    t =    29.81s     Synthesize event
+    t =    30.09s     Wait for studio.meringue.folio.d743 to idle
+    t =    30.49s Waiting 5.0s for "recipe.title" StaticText to exist
+    t =    31.52s     Checking `Expect predicate `existsNoRetry == 1` for object "recipe.title" StaticText`
+    t =    31.52s         Checking existence of `"recipe.title" StaticText`
+    t =    31.59s Tap "start.cooking" Button
+    t =    31.59s     Wait for studio.meringue.folio.d743 to idle
+    t =    31.59s     Find the "start.cooking" Button
+    t =    31.62s     Check for interrupting elements affecting "start.cooking" Button
+    t =    31.65s     Synthesize event
+    t =    31.94s     Wait for studio.meringue.folio.d743 to idle
+    t =    32.29s Find the "step.text" StaticText
+    t =    32.34s Tap "close.cooking" Button
+    t =    32.34s     Wait for studio.meringue.folio.d743 to idle
+    t =    32.34s     Find the "close.cooking" Button
+    t =    32.37s     Check for interrupting elements affecting "close.cooking" Button
+    t =    32.40s     Synthesize event
+    t =    32.70s     Wait for studio.meringue.folio.d743 to idle
+    t =    33.40s Tap Button (Element at index 0)
+    t =    33.40s     Wait for studio.meringue.folio.d743 to idle
+    t =    33.41s     Find the Button (Element at index 0)
+    t =    33.45s     Check for interrupting elements affecting "BackButton" Button
+    t =    33.48s     Synthesize event
+    t =    33.78s     Wait for studio.meringue.folio.d743 to idle
+    t =    34.07s Tap Any (First Match)
+    t =    34.07s     Wait for studio.meringue.folio.d743 to idle
+    t =    34.08s     Find the Any (First Match)
+    t =    34.11s     Check for interrupting elements affecting "basket" Button
+    t =    34.15s     Synthesize event
+    t =    34.44s     Wait for studio.meringue.folio.d743 to idle
+    t =    36.15s Waiting 5.0s for "shopping.flour" Button to exist
+    t =    37.19s     Checking `Expect predicate `existsNoRetry == 1` for object "shopping.flour" Button`
+    t =    37.19s         Checking existence of `"shopping.flour" Button`
+    t =    37.24s Tap "shopping.flour" Button
+    t =    37.24s     Wait for studio.meringue.folio.d743 to idle
+    t =    37.24s     Find the "shopping.flour" Button
+    t =    37.27s     Check for interrupting elements affecting "shopping.flour" Button
+    t =    37.29s     Synthesize event
+    t =    37.58s     Wait for studio.meringue.folio.d743 to idle
+    t =    37.66s Added attachment named '04-shopping'
+    t =    37.66s Tap Any (First Match)
+    t =    37.66s     Wait for studio.meringue.folio.d743 to idle
+    t =    37.66s     Find the Any (First Match)
+    t =    37.68s     Check for interrupting elements affecting "calendar" Button
+    t =    37.70s     Synthesize event
+    t =    37.99s     Wait for studio.meringue.folio.d743 to idle
+    t =    39.70s Tap "plan.add" Button
+    t =    39.70s     Wait for studio.meringue.folio.d743 to idle
+    t =    39.70s     Find the "plan.add" Button
+    t =    39.72s     Check for interrupting elements affecting "plan.add" Button
+    t =    39.74s     Synthesize event
+    t =    40.03s     Wait for studio.meringue.folio.d743 to idle
+    t =    40.42s Tap "Vanilla cloud cupcakes" Button
+    t =    40.43s     Wait for studio.meringue.folio.d743 to idle
+    t =    40.44s     Find the "Vanilla cloud cupcakes" Button
+    t =    40.49s     Check for interrupting elements affecting "Vanilla cloud cupcakes" Button
+    t =    40.52s     Synthesize event
+    t =    40.81s     Wait for studio.meringue.folio.d743 to idle
+    t =    41.18s Waiting 5.0s for "save.plan" Button to exist
+    t =    42.20s     Checking `Expect predicate `existsNoRetry == 1` for object "save.plan" Button`
+    t =    42.21s         Checking existence of `"save.plan" Button`
+    t =    42.26s Tap "save.plan" Button
+    t =    42.26s     Wait for studio.meringue.folio.d743 to idle
+    t =    42.26s     Find the "save.plan" Button
+    t =    42.29s     Check for interrupting elements affecting "save.plan" Button
+    t =    42.31s     Synthesize event
+    t =    42.60s     Wait for studio.meringue.folio.d743 to idle
+    t =    43.06s Added attachment named '05-planner'
+    t =    43.06s Waiting 5.0s for "Send to Reminders" Button to exist
+    t =    44.10s     Checking `Expect predicate `existsNoRetry == 1` for object "Send to Reminders" Button`
+    t =    44.10s         Checking existence of `"Send to Reminders" Button`
+    t =    44.12s Tap Any (First Match)
+    t =    44.12s     Wait for studio.meringue.folio.d743 to idle
+    t =    44.13s     Find the Any (First Match)
+    t =    44.14s     Check for interrupting elements affecting "heart" Button
+    t =    44.17s     Synthesize event
+    t =    44.46s     Wait for studio.meringue.folio.d743 to idle
+    t =    46.19s Added attachment named '06-favorites'
+    t =    46.19s Checking existence of `"A place for your favorites" StaticText`
+    t =    46.21s Tear Down
+Test Case '-[KitchenJourney.V8Journey testKitchenFlowAndPersistence]' passed (46.549 seconds).
+Test Case '-[KitchenJourney.V8Journey testPortuguesePreferences]' started.
+    t =     0.00s Start Test at 2026-11-15 15:45:36.616
+    t =     0.02s Set Up
+    t =     0.02s     Open studio.meringue.folio.d743
+    t =     0.02s         Launch studio.meringue.folio.d743
+    t =     0.02s             Terminate studio.meringue.folio.d743:13405
+2026-11-15 15:45:37.691 xcodebuild[13203:7507769] [MT] IDELaunchParametersSnapshot: debugger version lookup failed for path '<nil>': noURL
+2026-11-15 15:45:37.691 xcodebuild[13203:7507769] [MT] IDELaunchParametersSnapshot: no debugger version
+    t =     1.28s             Setting up automation session
+    t =     2.66s             Wait for studio.meringue.folio.d743 to idle
+    t =     4.05s Terminate studio.meringue.folio.d743:13519
+    t =     5.08s Open studio.meringue.folio.d743
+    t =     5.08s     Launch studio.meringue.folio.d743
+2026-11-15 15:45:41.692 xcodebuild[13203:7507769] [MT] IDELaunchParametersSnapshot: debugger version lookup failed for path '<nil>': noURL
+2026-11-15 15:45:41.692 xcodebuild[13203:7507769] [MT] IDELaunchParametersSnapshot: no debugger version
+    t =     5.28s         Setting up automation session
+    t =     6.71s         Wait for studio.meringue.folio.d743 to idle
+    t =     8.15s Waiting 10.0s for Any (First Match) to exist
+    t =     9.18s     Checking `Expect predicate `existsNoRetry == 1` for object Any (First Match)`
+    t =     9.18s         Checking existence of `Any (First Match)`
+    t =     9.32s Added attachment named '10-pt-home'
+    t =     9.32s Tap "settings" Button
+    t =     9.32s     Wait for studio.meringue.folio.d743 to idle
+    t =     9.32s     Find the "settings" Button
+    t =     9.39s     Check for interrupting elements affecting "settings" Button
+    t =     9.42s     Synthesize event
+    t =     9.71s     Wait for studio.meringue.folio.d743 to idle
+    t =    10.23s Added attachment named '11-pt-preferences'
+    t =    10.23s Checking existence of `"Sincronizar notas, favoritos e planos" Switch`
+    t =    10.28s Tear Down
+Test Case '-[KitchenJourney.V8Journey testPortuguesePreferences]' passed (10.532 seconds).
+Test Case '-[KitchenJourney.V8Journey testRemindersPermissionResponse]' started.
+    t =     0.00s Start Test at 2026-11-15 15:45:47.149
+    t =     0.02s Set Up
+    t =     0.02s     Open studio.meringue.folio.d743
+    t =     0.02s         Launch studio.meringue.folio.d743
+    t =     0.02s             Terminate studio.meringue.folio.d743:13537
+2026-11-15 15:45:48.214 xcodebuild[13203:7507769] [MT] IDELaunchParametersSnapshot: debugger version lookup failed for path '<nil>': noURL
+2026-11-15 15:45:48.214 xcodebuild[13203:7507769] [MT] IDELaunchParametersSnapshot: no debugger version
+    t =     1.27s             Setting up automation session
+    t =     2.94s             Wait for studio.meringue.folio.d743 to idle
+    t =     4.34s Tap Any (First Match)
+    t =     4.34s     Wait for studio.meringue.folio.d743 to idle
+    t =     4.35s     Find the Any (First Match)
+    t =     4.40s     Check for interrupting elements affecting "Baking plan" Button
+    t =     4.45s     Synthesize event
+    t =     4.75s     Wait for studio.meringue.folio.d743 to idle
+    t =     6.51s Tap "plan.add" Button
+    t =     6.51s     Wait for studio.meringue.folio.d743 to idle
+    t =     6.51s     Find the "plan.add" Button
+    t =     6.55s     Check for interrupting elements affecting "plan.add" Button
+    t =     6.57s     Synthesize event
+    t =     6.87s     Wait for studio.meringue.folio.d743 to idle
+    t =     7.27s Tap "Vanilla cloud cupcakes" Button
+    t =     7.27s     Wait for studio.meringue.folio.d743 to idle
+    t =     7.27s     Find the "Vanilla cloud cupcakes" Button
+    t =     7.31s     Check for interrupting elements affecting "Vanilla cloud cupcakes" Button
+    t =     7.34s     Synthesize event
+    t =     7.63s     Wait for studio.meringue.folio.d743 to idle
+    t =     7.99s Waiting 5.0s for "save.plan" Button to exist
+    t =     9.02s     Checking `Expect predicate `existsNoRetry == 1` for object "save.plan" Button`
+    t =     9.02s         Checking existence of `"save.plan" Button`
+    t =     9.06s Tap "save.plan" Button
+    t =     9.06s     Wait for studio.meringue.folio.d743 to idle
+    t =     9.06s     Find the "save.plan" Button
+    t =     9.09s     Check for interrupting elements affecting "save.plan" Button
+    t =     9.11s     Synthesize event
+    t =     9.40s     Wait for studio.meringue.folio.d743 to idle
+    t =     9.78s Waiting 5.0s for "Send to Reminders" Button to exist
+    t =    10.81s     Checking `Expect predicate `existsNoRetry == 1` for object "Send to Reminders" Button`
+    t =    10.81s         Checking existence of `"Send to Reminders" Button`
+    t =    10.83s Tap "Send to Reminders" Button
+    t =    10.83s     Wait for studio.meringue.folio.d743 to idle
+    t =    10.83s     Find the "Send to Reminders" Button
+    t =    10.85s     Check for interrupting elements affecting "Send to Reminders" Button
+    t =    10.87s     Synthesize event
+    t =    11.16s     Wait for studio.meringue.folio.d743 to idle
+    t =    11.50s Waiting 8.0s for "Don’t Allow" Button to exist
+    t =    12.53s     Checking `Expect predicate `existsNoRetry == 1` for object "Don’t Allow" Button`
+    t =    12.53s         Checking existence of `"Don’t Allow" Button`
+    t =    12.56s         Capturing element debug description
+    t =    13.58s     Checking `Expect predicate `existsNoRetry == 1` for object "Don’t Allow" Button`
+    t =    13.58s         Checking existence of `"Don’t Allow" Button`
+    t =    13.61s         Capturing element debug description
+    t =    14.53s     Checking `Expect predicate `existsNoRetry == 1` for object "Don’t Allow" Button`
+    t =    14.53s         Checking existence of `"Don’t Allow" Button`
+    t =    14.56s         Capturing element debug description
+    t =    15.58s     Checking `Expect predicate `existsNoRetry == 1` for object "Don’t Allow" Button`
+    t =    15.58s         Checking existence of `"Don’t Allow" Button`
+    t =    15.61s         Capturing element debug description
+    t =    16.53s     Checking `Expect predicate `existsNoRetry == 1` for object "Don’t Allow" Button`
+    t =    16.53s         Checking existence of `"Don’t Allow" Button`
+    t =    16.56s         Capturing element debug description
+    t =    17.58s     Checking `Expect predicate `existsNoRetry == 1` for object "Don’t Allow" Button`
+    t =    17.58s         Checking existence of `"Don’t Allow" Button`
+    t =    17.61s         Capturing element debug description
+    t =    18.53s     Checking `Expect predicate `existsNoRetry == 1` for object "Don’t Allow" Button`
+    t =    18.53s         Checking existence of `"Don’t Allow" Button`
+    t =    18.56s         Capturing element debug description
+    t =    19.50s     Checking `Expect predicate `existsNoRetry == 1` for object "Don’t Allow" Button`
+    t =    19.51s         Checking existence of `"Don’t Allow" Button`
+    t =    19.53s         Capturing element debug description
+    t =    19.53s     Checking existence of `"Don’t Allow" Button`
+    t =    19.55s Collecting debug information to assist test failure triage
+    t =    19.55s     Requesting snapshot of accessibility hierarchy for app with pid 5611
+    t =    19.57s Checking existence of `"Don't Allow" Button`
+    t =    19.59s Waiting 8.0s for "OK" Button to exist
+    t =    20.62s     Checking `Expect predicate `existsNoRetry == 1` for object "OK" Button`
+    t =    20.62s         Checking existence of `"OK" Button`
+    t =    20.74s Added attachment named '14-reminders-permission-response'
+    t =    20.74s Tap "OK" Button
+    t =    20.74s     Wait for studio.meringue.folio.d743 to idle
+    t =    20.74s     Find the "OK" Button
+    t =    20.75s     Check for interrupting elements affecting "OK" Button
+    t =    20.78s     Synthesize event
+    t =    21.07s     Wait for studio.meringue.folio.d743 to idle
+    t =    21.30s Waiting 2.0s for "Send to Reminders" Button to exist
+    t =    22.32s     Checking `Expect predicate `existsNoRetry == 1` for object "Send to Reminders" Button`
+    t =    22.32s         Checking existence of `"Send to Reminders" Button`
+    t =    22.35s         Capturing element debug description
+    t =    23.31s     Checking `Expect predicate `existsNoRetry == 1` for object "Send to Reminders" Button`
+    t =    23.31s         Checking existence of `"Send to Reminders" Button`
+    t =    23.33s         Capturing element debug description
+    t =    23.33s     Checking existence of `"Send to Reminders" Button`
+    t =    23.34s Collecting debug information to assist test failure triage
+    t =    23.34s     Requesting snapshot of accessibility hierarchy for app with pid 13558
+    t =    23.37s Waiting 2.0s for "Update reminder" Button to exist
+    t =    24.38s     Checking `Expect predicate `existsNoRetry == 1` for object "Update reminder" Button`
+    t =    24.39s         Checking existence of `"Update reminder" Button`
+    t =    24.41s Tear Down
+Test Case '-[KitchenJourney.V8Journey testRemindersPermissionResponse]' passed (24.638 seconds).
+Test Case '-[KitchenJourney.V8Journey testSearchAndPantry]' started.
+    t =     0.00s Start Test at 2026-11-15 15:46:11.788
+    t =     0.02s Set Up
+    t =     0.02s     Open studio.meringue.folio.d743
+    t =     0.02s         Launch studio.meringue.folio.d743
+    t =     0.02s             Terminate studio.meringue.folio.d743:13558
+2026-11-15 15:46:12.852 xcodebuild[13203:7507769] [MT] IDELaunchParametersSnapshot: debugger version lookup failed for path '<nil>': noURL
+2026-11-15 15:46:12.852 xcodebuild[13203:7507769] [MT] IDELaunchParametersSnapshot: no debugger version
+    t =     1.27s             Setting up automation session
+    t =     2.73s             Wait for studio.meringue.folio.d743 to idle
+    t =     4.11s Swipe down Target Application 'studio.meringue.folio.d743'
+    t =     4.11s     Wait for studio.meringue.folio.d743 to idle
+    t =     4.11s     Find the Target Application 'studio.meringue.folio.d743'
+    t =     4.16s     Check for interrupting elements affecting "Dessert Book" Application
+    t =     4.18s     Synthesize event
+    t =     4.60s     Wait for studio.meringue.folio.d743 to idle
+    t =     5.09s Waiting 5.0s for SearchField (First Match) to exist
+    t =     6.12s     Checking `Expect predicate `existsNoRetry == 1` for object SearchField (First Match)`
+    t =     6.12s         Checking existence of `SearchField (First Match)`
+    t =     6.15s Tap SearchField (First Match)
+    t =     6.15s     Wait for studio.meringue.folio.d743 to idle
+    t =     6.35s     Find the SearchField (First Match)
+    t =     6.38s     Check for interrupting elements affecting "Search recipes or ingredients" SearchField
+    t =     6.41s     Synthesize event
+    t =     6.71s     Wait for studio.meringue.folio.d743 to idle
+    t =     6.86s Type 'cocoa' into "Search recipes or ingredients" SearchField
+    t =     6.86s     Wait for studio.meringue.folio.d743 to idle
+    t =     7.37s     Find the "Search recipes or ingredients" SearchField
+    t =     7.43s     Check for interrupting elements affecting "Search recipes or ingredients" SearchField
+    t =     7.46s     Synthesize event
+    t =     7.76s     Wait for studio.meringue.folio.d743 to idle
+    t =     7.92s Waiting 5.0s for "recipe.brownie" Button to exist
+    t =     8.94s     Checking `Expect predicate `existsNoRetry == 1` for object "recipe.brownie" Button`
+    t =     8.94s         Checking existence of `"recipe.brownie" Button`
+    t =     9.08s Added attachment named '12-search'
+    t =     9.08s Checking existence of `"Clear text" Button`
+    t =     9.13s Tap "Clear text" Button
+    t =     9.13s     Wait for studio.meringue.folio.d743 to idle
+    t =     9.14s     Find the "Clear text" Button
+    t =     9.19s     Check for interrupting elements affecting "Clear text" Button
+    t =     9.22s     Synthesize event
+    t =     9.51s     Wait for studio.meringue.folio.d743 to idle
+    t =    10.25s Checking existence of `"Close" Button`
+    t =    10.31s Tap "Close" Button
+    t =    10.31s     Wait for studio.meringue.folio.d743 to idle
+    t =    10.31s     Find the "Close" Button
+    t =    10.35s     Check for interrupting elements affecting "Close" Button
+    t =    10.38s     Synthesize event
+    t =    10.67s     Wait for studio.meringue.folio.d743 to idle
+    t =    11.53s Checking existence of `"pantry.filter" Button`
+    t =    11.56s Find the "pantry.filter" Button
+    t =    11.59s Swipe up Target Application 'studio.meringue.folio.d743'
+    t =    11.59s     Wait for studio.meringue.folio.d743 to idle
+    t =    11.60s     Find the Target Application 'studio.meringue.folio.d743'
+    t =    11.62s     Check for interrupting elements affecting "Dessert Book" Application
+    t =    11.64s     Synthesize event
+    t =    12.06s     Wait for studio.meringue.folio.d743 to idle
+    t =    14.19s Checking existence of `"pantry.filter" Button`
+    t =    14.23s Find the "pantry.filter" Button
+    t =    14.26s Tap "pantry.filter" Button
+    t =    14.26s     Wait for studio.meringue.folio.d743 to idle
+    t =    14.26s     Find the "pantry.filter" Button
+    t =    14.29s     Check for interrupting elements affecting "pantry.filter" Button
+    t =    14.31s     Synthesize event
+    t =    14.60s     Wait for studio.meringue.folio.d743 to idle
+    t =    15.04s Checking existence of `"Dark chocolate" Button`
+    t =    15.10s Find the "Dark chocolate" Button
+    t =    15.15s Tap "Dark chocolate" Button
+    t =    15.15s     Wait for studio.meringue.folio.d743 to idle
+    t =    15.15s     Find the "Dark chocolate" Button
+    t =    15.19s     Check for interrupting elements affecting "Dark chocolate" Button
+    t =    15.22s     Synthesize event
+    t =    15.51s     Wait for studio.meringue.folio.d743 to idle
+    t =    15.78s Tap "Done" Button
+    t =    15.78s     Wait for studio.meringue.folio.d743 to idle
+    t =    15.78s     Find the "Done" Button
+    t =    15.82s     Check for interrupting elements affecting "Done" Button
+    t =    15.85s     Synthesize event
+    t =    16.14s     Wait for studio.meringue.folio.d743 to idle
+    t =    16.51s Waiting 5.0s for "recipe.brownie" Button to exist
+    t =    17.54s     Checking `Expect predicate `existsNoRetry == 1` for object "recipe.brownie" Button`
+    t =    17.54s         Checking existence of `"recipe.brownie" Button`
+    t =    17.57s Checking existence of `"recipe.cupcake" Button`
+    t =    17.67s Added attachment named '13-pantry'
+    t =    17.67s Tear Down
+Test Case '-[KitchenJourney.V8Journey testSearchAndPantry]' passed (17.953 seconds).
+Test Case '-[KitchenJourney.V8Journey testTimerPauseResume]' started.
+    t =     0.00s Start Test at 2026-11-15 15:46:29.742
+    t =     0.02s Set Up
+    t =     0.02s     Open studio.meringue.folio.d743
+    t =     0.02s         Launch studio.meringue.folio.d743
+    t =     0.02s             Terminate studio.meringue.folio.d743:13840
+2026-11-15 15:46:30.808 xcodebuild[13203:7507769] [MT] IDELaunchParametersSnapshot: debugger version lookup failed for path '<nil>': noURL
+2026-11-15 15:46:30.808 xcodebuild[13203:7507769] [MT] IDELaunchParametersSnapshot: no debugger version
+    t =     1.27s             Setting up automation session
+    t =     2.71s             Wait for studio.meringue.folio.d743 to idle
+    t =     4.09s Checking existence of `"recipe.cupcake" Button`
+    t =     4.17s Find the "recipe.cupcake" Button
+    t =     4.21s Swipe up Target Application 'studio.meringue.folio.d743'
+    t =     4.21s     Wait for studio.meringue.folio.d743 to idle
+    t =     4.21s     Find the Target Application 'studio.meringue.folio.d743'
+    t =     4.23s     Check for interrupting elements affecting "Dessert Book" Application
+    t =     4.25s     Synthesize event
+    t =     4.67s     Wait for studio.meringue.folio.d743 to idle
+    t =     6.78s Checking existence of `"recipe.cupcake" Button`
+    t =     6.81s Find the "recipe.cupcake" Button
+    t =     6.84s Waiting 12.0s for "recipe.cupcake" Button to exist
+    t =     7.87s     Checking `Expect predicate `existsNoRetry == 1` for object "recipe.cupcake" Button`
+    t =     7.87s         Checking existence of `"recipe.cupcake" Button`
+    t =     7.91s Tap "recipe.cupcake" Button
+    t =     7.91s     Wait for studio.meringue.folio.d743 to idle
+    t =     8.02s     Find the "recipe.cupcake" Button
+    t =     8.06s     Check for interrupting elements affecting "recipe.cupcake" Button
+    t =     8.09s     Synthesize event
+    t =     8.38s     Wait for studio.meringue.folio.d743 to idle
+    t =     8.75s Waiting 5.0s for "recipe.title" StaticText to exist
+    t =     9.78s     Checking `Expect predicate `existsNoRetry == 1` for object "recipe.title" StaticText`
+    t =     9.78s         Checking existence of `"recipe.title" StaticText`
+    t =     9.84s Checking existence of `"open.timer" Button`
+    t =     9.86s Find the "open.timer" Button
+    t =     9.90s Tap "open.timer" Button
+    t =     9.90s     Wait for studio.meringue.folio.d743 to idle
+    t =     9.90s     Find the "open.timer" Button
+    t =     9.93s     Check for interrupting elements affecting "open.timer" Button
+    t =     9.95s     Synthesize event
+    t =    10.24s     Wait for studio.meringue.folio.d743 to idle
+    t =    10.67s Tap "Notify me when ready" Switch
+    t =    10.67s     Wait for studio.meringue.folio.d743 to idle
+    t =    10.67s     Find the "Notify me when ready" Switch
+    t =    10.75s     Check for interrupting elements affecting "Notify me when ready" Switch
+    t =    10.78s     Synthesize event
+    t =    11.07s     Wait for studio.meringue.folio.d743 to idle
+    t =    11.08s Tap "timer.start" Button
+    t =    11.08s     Wait for studio.meringue.folio.d743 to idle
+    t =    11.08s     Find the "timer.start" Button
+    t =    11.14s     Check for interrupting elements affecting "timer.start" Button
+    t =    11.17s     Synthesize event
+    t =    11.46s     Wait for studio.meringue.folio.d743 to idle
+    t =    11.89s Waiting 5.0s for "Don’t Allow" Button to exist
+    t =    12.91s     Checking `Expect predicate `existsNoRetry == 1` for object "Don’t Allow" Button`
+    t =    12.91s         Checking existence of `"Don’t Allow" Button`
+    t =    12.94s         Capturing element debug description
+    t =    13.97s     Checking `Expect predicate `existsNoRetry == 1` for object "Don’t Allow" Button`
+    t =    13.97s         Checking existence of `"Don’t Allow" Button`
+    t =    13.99s         Capturing element debug description
+    t =    14.91s     Checking `Expect predicate `existsNoRetry == 1` for object "Don’t Allow" Button`
+    t =    14.92s         Checking existence of `"Don’t Allow" Button`
+    t =    14.95s         Capturing element debug description
+    t =    15.98s     Checking `Expect predicate `existsNoRetry == 1` for object "Don’t Allow" Button`
+    t =    15.98s         Checking existence of `"Don’t Allow" Button`
+    t =    16.01s         Capturing element debug description
+    t =    16.89s     Checking `Expect predicate `existsNoRetry == 1` for object "Don’t Allow" Button`
+    t =    16.89s         Checking existence of `"Don’t Allow" Button`
+    t =    16.92s         Capturing element debug description
+    t =    16.92s     Checking existence of `"Don’t Allow" Button`
+    t =    16.94s Collecting debug information to assist test failure triage
+    t =    16.94s     Requesting snapshot of accessibility hierarchy for app with pid 5611
+    t =    16.97s Checking existence of `"Don't Allow" Button`
+    t =    16.98s Waiting 3.0s for "OK" Button to exist
+    t =    18.01s     Checking `Expect predicate `existsNoRetry == 1` for object "OK" Button`
+    t =    18.01s         Checking existence of `"OK" Button`
+    t =    18.06s         Capturing element debug description
+    t =    19.08s     Checking `Expect predicate `existsNoRetry == 1` for object "OK" Button`
+    t =    19.08s         Checking existence of `"OK" Button`
+    t =    19.15s         Capturing element debug description
+    t =    19.98s     Checking `Expect predicate `existsNoRetry == 1` for object "OK" Button`
+    t =    19.98s         Checking existence of `"OK" Button`
+    t =    20.04s         Capturing element debug description
+    t =    20.04s     Checking existence of `"OK" Button`
+    t =    20.08s Collecting debug information to assist test failure triage
+    t =    20.08s     Requesting snapshot of accessibility hierarchy for app with pid 13914
+    t =    20.12s Tap Button (Element at index 0)
+    t =    20.12s     Wait for studio.meringue.folio.d743 to idle
+    t =    20.12s     Find the Button (Element at index 0)
+    t =    20.15s     Check for interrupting elements affecting "BackButton" Button
+    t =    20.17s     Synthesize event
+    t =    20.46s     Wait for studio.meringue.folio.d743 to idle
+    t =    20.76s Swipe down Target Application 'studio.meringue.folio.d743'
+    t =    20.76s     Wait for studio.meringue.folio.d743 to idle
+    t =    20.77s     Find the Target Application 'studio.meringue.folio.d743'
+    t =    20.80s     Check for interrupting elements affecting "Dessert Book" Application
+    t =    20.83s     Synthesize event
+    t =    21.25s     Wait for studio.meringue.folio.d743 to idle
+    t =    23.42s Swipe down Target Application 'studio.meringue.folio.d743'
+    t =    23.42s     Wait for studio.meringue.folio.d743 to idle
+    t =    23.43s     Find the Target Application 'studio.meringue.folio.d743'
+    t =    23.46s     Check for interrupting elements affecting "Dessert Book" Application
+    t =    23.49s     Synthesize event
+    t =    23.91s     Wait for studio.meringue.folio.d743 to idle
+    t =    24.39s Swipe down Target Application 'studio.meringue.folio.d743'
+    t =    24.39s     Wait for studio.meringue.folio.d743 to idle
+    t =    24.40s     Find the Target Application 'studio.meringue.folio.d743'
+    t =    24.43s     Check for interrupting elements affecting "Dessert Book" Application
+    t =    24.46s     Synthesize event
+    t =    24.88s     Wait for studio.meringue.folio.d743 to idle
+    t =    25.38s Checking existence of `"timer.pause" Button`
+    t =    25.43s Find the "timer.pause" Button
+    t =    25.47s Swipe up Target Application 'studio.meringue.folio.d743'
+    t =    25.47s     Wait for studio.meringue.folio.d743 to idle
+    t =    25.47s     Find the Target Application 'studio.meringue.folio.d743'
+    t =    25.49s     Check for interrupting elements affecting "Dessert Book" Application
+    t =    25.52s     Synthesize event
+    t =    25.94s     Wait for studio.meringue.folio.d743 to idle
+    t =    28.07s Checking existence of `"timer.pause" Button`
+    t =    28.11s Find the "timer.pause" Button
+    t =    28.15s Waiting 5.0s for "timer.pause" Button to exist
+    t =    29.17s     Checking `Expect predicate `existsNoRetry == 1` for object "timer.pause" Button`
+    t =    29.17s         Checking existence of `"timer.pause" Button`
+    t =    29.22s Tap "timer.pause" Button
+    t =    29.22s     Wait for studio.meringue.folio.d743 to idle
+    t =    29.31s     Find the "timer.pause" Button
+    t =    29.35s     Check for interrupting elements affecting "timer.pause" Button
+    t =    29.38s     Synthesize event
+    t =    29.67s     Wait for studio.meringue.folio.d743 to idle
+    t =    29.67s Waiting 5.0s for "Resume" Button to exist
+    t =    30.69s     Checking `Expect predicate `existsNoRetry == 1` for object "Resume" Button`
+    t =    30.69s         Checking existence of `"Resume" Button`
+    t =    30.84s Added attachment named '07-paused-timer'
+    t =    30.84s Tap "Resume" Button
+    t =    30.85s     Wait for studio.meringue.folio.d743 to idle
+    t =    30.85s     Find the "Resume" Button
+    t =    30.87s     Check for interrupting elements affecting "timer.pause" Button
+    t =    30.89s     Synthesize event
+    t =    31.18s     Wait for studio.meringue.folio.d743 to idle
+    t =    31.19s Tap "timer.cancel" Button
+    t =    31.19s     Wait for studio.meringue.folio.d743 to idle
+    t =    31.19s     Find the "timer.cancel" Button
+    t =    31.22s     Check for interrupting elements affecting "timer.cancel" Button
+    t =    31.25s     Synthesize event
+    t =    31.54s     Wait for studio.meringue.folio.d743 to idle
+    t =    31.54s Checking existence of `"timer.cancel" Button`
+    t =    31.58s Tear Down
+Test Case '-[KitchenJourney.V8Journey testTimerPauseResume]' passed (31.938 seconds).
+Test Suite 'V8Journey' passed at 2026-11-15 15:47:01.680.
+	 Executed 6 tests, with 0 failures (0 unexpected) in 145.664 (145.670) seconds
+Test Suite 'KitchenJourney.xctest' passed at 2026-11-15 15:47:01.681.
+	 Executed 6 tests, with 0 failures (0 unexpected) in 145.664 (145.670) seconds
+Test Suite 'All tests' passed at 2026-11-15 15:47:01.681.
+	 Executed 6 tests, with 0 failures (0 unexpected) in 145.664 (145.671) seconds
+2026-11-15 15:47:01.981 xcodebuild[13203:7507769] [MT] IDETestOperationsObserverDebug: 151.684 elapsed -- Testing started completed.
+2026-11-15 15:47:01.981 xcodebuild[13203:7507769] [MT] IDETestOperationsObserverDebug: 0.000 sec, +0.000 sec -- start
+2026-11-15 15:47:01.981 xcodebuild[13203:7507769] [MT] IDETestOperationsObserverDebug: 151.684 sec, +151.684 sec -- end
+
+Test session results, code coverage, and logs:
+	$PROJECT_ROOT/QA/iPhone.xcresult
+
+** TEST SUCCEEDED **
+
+Testing started
